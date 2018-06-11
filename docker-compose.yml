@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+  vuepress_node:
+    container_name: vuepress_node
+    build: ./docker/node
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - "8080:8080"
+      - "8081:8081"
