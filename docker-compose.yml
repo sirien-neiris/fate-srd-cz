@@ -6,7 +6,10 @@ services:
     container_name: vuepress_node
     build: ./docker/node
     volumes:
-      - ./src:/var/www/html
+      - .:/var/www/html
     ports:
       - "8080:8080"
       - "8081:8081"
+    environment:
+      CHOKIDAR_USEPOLLING: 1
+      CHOKIDAR_INTERVAL: 500

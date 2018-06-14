@@ -1,7 +1,11 @@
 FROM node:alpine
 RUN yarn global add vuepress
 
-WORKDIR /var/www/html
+RUN apk --update add git openssh && \
+    rm -rf /var/lib/apt/lists/* && \
+    rm /var/cache/apk/*
 
-# CMD vuepress build
- CMD vuepress dev
+WORKDIR /var/www/html/src
+
+ CMD vuepress build
+# CMD LOCAL_IP=`hostname -i` vuepress dev
