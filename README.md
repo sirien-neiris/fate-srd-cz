@@ -14,9 +14,9 @@ You'll find the following rules in this project:
 
 Markdown source files for individual books
 
-- ```src/FateCore``` - Fate Core (Fate základní pravidla)
-- ```src/FAE``` - Fate Accelerated (Fate zrychlená edice)
-- ```src/Toolkit``` - Fate System Toolkit (Fate systémové nástroje)
+- ```src/fate-core-system``` - Fate Core (Fate základní pravidla)
+- ```src/fae``` - Fate Accelerated (Fate zrychlená edice)
+- ```src/fate-system-toolkit``` - Fate System Toolkit (Fate systémové nástroje)
 
 
 ## Technical
