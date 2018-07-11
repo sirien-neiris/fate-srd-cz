@@ -2,8 +2,8 @@ const FateCoreToc = {
     title: 'Fate základní pravidla',
     collapsable: true,
     children: [
-        '/FateCore/1-Zaklady',
-        '/FateCore/2-TvorbaHry',
+        '/fate-core-system/1-zaklady',
+        '/fate-core-system/2-tvorba-hry',
     ]
 };
 
@@ -12,8 +12,8 @@ const FaeToc = {
     title: 'Fate zrychlená edice',
     collapsable: true,
     children: [
-        '/FAE/1-Zaciname',
-        '/FAE/2-SpolecneVypraveniPribehu',
+        '/fae/1-zaciname',
+        '/fae/2-spolecne-vypraveni-pribehu',
     ]
 };
 
@@ -21,8 +21,8 @@ const ToolkitToc = {
     title: 'Fate systémové nástroje',
     collapsable: true,
     children: [
-        '/Toolkit/1-Uvod',
-        '/Toolkit/2-Aspekty',
+        '/fate-system-toolkit/1-uvod',
+        '/fate-system-toolkit/2-aspekty',
     ]
 };
 
@@ -50,13 +50,13 @@ module.exports = {
         ],
         sidebar: {
             /*
-            '/FateCore/': [
+            '/fate-core-system/': [
                 FateCoreToc,
             ],
-            '/FAE/': [
+            '/fae/': [
                 FaeToc,
             ],
-            '/Toolkit/': [
+            '/fate-system-toolkit/': [
                 ToolkitToc,
             ],
             */
