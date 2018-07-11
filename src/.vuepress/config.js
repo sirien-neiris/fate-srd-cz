@@ -31,7 +31,9 @@ module.exports = {
     title: 'Fate SRD Czech',
     description: 'Český překlad fate SRD',
     themeConfig: {
+        displayAllHeaders: true,
         nav: [
+            /*
             {
                 text: 'Fate základní pravidla',
                 link: FateCoreToc.children[0]
@@ -44,28 +46,24 @@ module.exports = {
                 text: 'Fate systémové nástroje',
                 link: ToolkitToc.children[0]
             },
+            */
         ],
         sidebar: {
-
+            /*
             '/FateCore/': [
-                FateCoreToc
+                FateCoreToc,
             ],
             '/FAE/': [
-                FaeToc
+                FaeToc,
             ],
             '/Toolkit/': [
-                ToolkitToc
+                ToolkitToc,
             ],
+            */
             '/': [
-                {
-                    title: 'Jednotlivé pravidla',
-                    collapsable: false,
-                    children: [
-                        [FateCoreToc.children[0], 'Fate základní pravidla'],
-                        [FaeToc.children[0], 'Fate zrychlená edice'],
-                        [ToolkitToc.children[0], 'Fate systémové nástroje'],
-                    ]
-                },
+                FateCoreToc,
+                FaeToc,
+                ToolkitToc,
             ]
         },
         sidebarDepth: 3,

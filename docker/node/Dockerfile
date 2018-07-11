@@ -7,5 +7,11 @@ RUN apk --update add git openssh && \
 
 WORKDIR /var/www/html/src
 
- CMD vuepress build
+# CMD vuepress build
 # CMD LOCAL_IP=`hostname -i` vuepress dev
+
+CMD if [ "$DEV" = "1" ]; then \
+        LOCAL_IP=`hostname -i` vuepress dev; \
+    else \
+        vuepress build; \
+    fi;

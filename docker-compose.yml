@@ -13,3 +13,4 @@ services:
     environment:
       CHOKIDAR_USEPOLLING: 1
       CHOKIDAR_INTERVAL: 500
+      DEV: 0

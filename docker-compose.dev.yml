@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+
+  vuepress_node:
+    environment:
+      DEV: 1
