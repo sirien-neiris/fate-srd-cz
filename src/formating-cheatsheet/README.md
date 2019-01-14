@@ -85,3 +85,28 @@ I get 10 times more traffic from [Google][1] than from
 
 [id]: ~../images/Powered-by-Fate-Final-Light-BG-300x117.png "Fate logo"
 
+::: tip 
+test card
+:::
+
+::: card test
+
+test skksksksksks
+
+sssss
+
+:::
+
+::: card -
+test skksksksksks
+sssss
+:::
+
+Term 1
+
+:   Definition 1
+
+Term 2 with *inline markup*
+
+:   Definition 2
+
