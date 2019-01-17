@@ -40,7 +40,7 @@ Jak jsme řekli v Základech, kdykoliv hodíte kostkami, porovnáváte svůj vý
 
 ::: tip Pro Vypravěče: Aktivní nebo pasivní?
 
-Pokud má PH nebo pojmenované PV možnost do nějaké akce rozumně zasáhnout, pak byste jim měli dát možnost hodit si na aktivní opozici. To se pro zasahující postavu nepočítá jako akce; je to jen základní nástroj řešení akcí. Jinými slovy, dokud je jeho postava přítomna a může zasáhnout, hráč nemusí dělat nic zvláštního, aby si zasloužil právo akci aktivně oponovat. Pokud jsou nějaké pochybnosti, vhodný situační aspekt může pomoci ospravedlnit, proč postava mohla někomu aktivně oponovat.
+Pokud má PH nebo pojmenované PV možnost do nějaké akce rozumně zasáhnout, pak byste jim měli dát možnost hodit si na aktivní opozici. *To se pro zasahující postavu nepočítá jako akce; je to jen základní nástroj řešení akcí.* Jinými slovy, dokud je jeho postava přítomna a může zasáhnout, hráč nemusí dělat nic zvláštního, aby si zasloužil právo akci aktivně oponovat. Pokud jsou nějaké pochybnosti, vhodný situační aspekt může pomoci ospravedlnit, proč postava mohla někomu aktivně oponovat.
 
 Nestojí-li žádná postava v cestě, tak se podívejte na situační aspekty ve scéně, jestli tam nenajdete nějaké, které by ospravedlnily nějaký druh překážky, nebo zvažte okolnosti (jako těžký terén, složitý zámek, dobíhající čas, komplikující se situace atp.) Pokud něco zní zajímavě, zvolte pasivní opozici a nastavte hodnocení na žebříčku.
 
