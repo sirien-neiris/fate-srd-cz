@@ -89,17 +89,18 @@ I get 10 times more traffic from [Google][1] than from
 test card
 :::
 
-::: card test
-
-test skksksksksks
-
-sssss
-
+::: card Když tvoříte svou hru
+* **Herní prostředí:** Rozhodněte, jaký je svět, který protagonisty obklopuje.
+* **Rozsah:** Rozhodněte, jak výpravný nebo osobní váš příběh bude.
+* **Problémy:** Rozhodněte, jaké hrozby a tlaky vlastní vašemu hernímu prostředí přimějí protagonisty k akci.
+* **PV:** Rozhodněte, jací lidé a jaká místa jsou důležitá.
+* **Dovednosti a Triky:** Rozhodněte, jaké druhy činností budou chtít postavy v daném herním prostředí nejspíše dělat.
+* **Tvorba postav:** Vytvořte si postavy.
 :::
 
-::: card -
-test skksksksksks
-sssss
+::: card
+
+Pokud chcete, aby PH měly spoustu cool vychytávek a speciálních bonusů, můžete tyto základní hodnoty upravit a dát triků zdarma více. Můžete také změnit základní úroveň obnovy — vyšší obnova znamená, že PH nebudou potřebovat tolik vynucení jako obvykle (představte si superhrdinský komiks) a nižší obnova znamená, že budou potřebovat několik hned z kraje každého sezení, aby dostaly dostatečnou zásobu (představte si Smrtonosnou past). Také platí, že čím vyšší obnova, tím více si budou hráči kupovat triky.
 :::
 
 Term 1

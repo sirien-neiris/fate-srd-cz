@@ -13,9 +13,9 @@ const FateCoreToc = {
         '/fate-core-system/9-sceny-sezeni-a-scenare',
         '/fate-core-system/10-dlouha-hra',
         '/fate-core-system/11-speciality',
-        '/fate-core-system/ke-stazeni-a-odkazy',
         '/fate-core-system/prehled',
         '/fate-core-system/prirucka-veterana',
+        '/fate-core-system/ke-stazeni-a-odkazy',
     ]
 };
 
@@ -95,15 +95,19 @@ module.exports = {
 
             validate: function (params) {
                 const trim = params.trim();
+                if (trim === 'card') {
+                    return ['card']
+                }
                 return trim.match(/^card\s+(.*)$/);
             },
 
             render: function (tokens, idx) {
+                console.log(tokens[idx]);
                 var m = tokens[idx].info.trim().match(/^card\s+(.*)$/);
-
+                console.log(m);
                 if (tokens[idx].nesting === 1) {
                     // opening tag
-                    var header = m[1] !== '-' ? '<p  class="custom-block-card-header">' + md.utils.escapeHtml(m[1]) + '</p>\n' : '';
+                    var header = m !== null ? '<p  class="custom-block-card-header">' + md.utils.escapeHtml(m[1]) + '</p>\n' : '';
                     return '<div class="custom-block-card">' + header + '\n';
 
                 } else {
