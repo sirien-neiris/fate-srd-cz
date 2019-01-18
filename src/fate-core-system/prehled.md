@@ -2,6 +2,8 @@
 
 ### Žebříček (str 9)
 
+| | |
+| :---: | :---: |
 | +8	| Legendární | 
 | +7	| Velkolepé |
 | +6	| Fantastické |

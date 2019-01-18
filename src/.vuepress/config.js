@@ -102,9 +102,7 @@ module.exports = {
             },
 
             render: function (tokens, idx) {
-                console.log(tokens[idx]);
                 var m = tokens[idx].info.trim().match(/^card\s+(.*)$/);
-                console.log(m);
                 if (tokens[idx].nesting === 1) {
                     // opening tag
                     var header = m !== null ? '<p  class="custom-block-card-header">' + md.utils.escapeHtml(m[1]) + '</p>\n' : '';

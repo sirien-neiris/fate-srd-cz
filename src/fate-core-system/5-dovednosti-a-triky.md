@@ -213,6 +213,7 @@ Některé dovednosti, jako Střelba nebo Řemesla, naznačují potřebu mít vyb
 ### Seznam dovedností
 
 | **Dovednost** | **Překonání** | **Vytvoření výhody** | **Útok** | **Obrana** | 
+| :---: | :---: | :---: | :---: | :---: |
 | Atletika | **X** | **X** |  | **X** | 
 | Boj | **X** | **X** | **X** | **X** | 
 | Empatie | **X** | **X** |  | **X** | 
