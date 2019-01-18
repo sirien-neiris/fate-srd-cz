@@ -21,7 +21,7 @@ Nejlepší scénáře nemají jen jeden konkrétní „správný“ konec. Možn
 
 Jakmile je problém jednou vyřešen (nebo už nemůže být vyřešen), scénář končí. Následující sezení začnete nový scénář, který se může vztahovat přímo k tomu předešlému, nebo představovat problém zcela nový.
 
-::: tip Tvorba scénáře krok za krokem
+::: card Tvorba scénáře krok za krokem
 
 * Najděte problémy
 * Položte příběhové otázky
@@ -44,7 +44,7 @@ Díky aspektům už máte tunu příběhového potenciálu čekající přímo p
 Můžete se podívat na problém vztažený k aspektu jako na typ vynucení založeného na události ve velmi velkém měřítku. Postup je trochu náročnější, ale struktura je stejná – máte aspekt, který vám naznačí nebo určí nějaký problém pro jednu nebo několik PH, jen na rozdíl od vynucení to je něco, co nemohou jednoduše vyřešit nebo si s tím obratem poradit. 
 
 
-::: tip Nemusíte vždy ničit svět
+::: card Nemusíte vždy ničit svět
 Jak uvidíte z příkladů, ne každý z našich urgentních, navazujících problémů nutně zahrnuje osud světa nebo jen velké části herního prostředí. Mezilidské problémy mohou mít úplně stejný dopad na skupinu PH jako zastavení záporáka týdne – získat něčí respekt nebo vyřešit dlouhodobý spor mezi dvěma postavami může získat pozornost ve vašem scénáři stejně, jako jakýkoliv velký plán, který je zrovna připravován vaším nahustěným padouchem.
 Chcete-li klasickou akčně dobrodružnou příběhovou strukturu, podívejte se, zda nemůžete přijít se dvěma hlavními problémy pro váš scénář – jedním, který se zaměřuje na něco pro postavy vnějšího (jako je záporákův plán) a jedním který se zabývá mezilidskými problémy. Ten druhý poslouží jako vedlejší zápletka ve scénáři a poskytne postavám nějaký vývoj, zatímco se budou zabývat řešením jiných problémů.
 :::
@@ -77,7 +77,7 @@ Pokud to, co dáte do třetího volného políčka, odpovídá kritériím na za
 
 Problémy, které vytváříte ze současných a nadcházejících herních problémů, budou trochu širšího měřítka, než problémy vycházející z postav. Budou zasahovat všechny vaše PH a možná i významné množství PV. Jsou méně osobní, ale to neznamená, že by se méně v(y)nucovaly (odpusťte tu hříčku).
 
-::: tip Dejte tomu tvář
+::: card Dejte tomu tvář
 
 Ačkoliv ne všechny problémy vašich scénářů musí být přímo způsobeny PV, která z pohledu PH představuje „hlavnío zlosyna k zneškodnění“, je často snazší, pokud jsou. Přinejmenším byste měli být schopni ukázat přímo na PV, jenž výrazně profituje na tom, že se scénář problému ubírá jinam, než kam by PH chtěly.
 :::
@@ -133,7 +133,7 @@ Ptejte se:
 * Je další krok při řešení problému něco, co se osobně dotkne nějaké konkrétní postavy kvůli jejím aspektům?
 * Má někdo, kdo je s problémem spojený, nějaký konkrétní důvod se na PH kv
 
-::: tip Kolik problémů potřebuji?
+::: card Kolik problémů potřebuji?
 
 Pro jeden scénář stačí jeden nebo dva, věřte nám. Níže uvidíte, že i jeden problém může vytvořit dostatek materiálu pro dvě nebo tři sezení. Nepropadejte představě, že musíte v každém scénáři zapojit každou PH – protáčejte světla reflektorů trochu dokola, aby každý dostal svých pět minut slávy, a pak nahoďte scénář spjatý s problémem, když se budete chtít zaměřit na větší herní zápletku.
 :::
@@ -144,7 +144,7 @@ Pro jeden scénář stačí jeden nebo dva, věřte nám. Níže uvidíte, že i
 
 > Protože má Landon aspekt ***Oko za oko***, a protože je problémem ***Blížící se zkáza***, znamená to, že cokoliv, co Kult udělá Landonovým blízkým, v něm vyvolá touhu po odplatě. Z toho vyplývá, že útok agentů Kultu na jeho rodné město ve snaze získat více indoktrinovaných služebníků v rámci příprav na Konec Času pro něj nejspíše bude velký problém.
 
-::: tip Kolik problémů potřebuji?
+::: card Kolik problémů potřebuji?
 
 Pro jeden scénář stačí jeden nebo dva, věřte nám. Níže uvidíte, že i jeden problém může vytvořit dostatek materiálu pro dvě nebo tři sezení. Nepropadejte představě, že musíte v každém scénáři zapojit každou PH – protáčejte světla reflektorů trochu dokola, aby každý dostal svých pět minut slávy, a pak nahoďte scénář spjatý s problémem, když se budete chtít zaměřit na větší herní zápletku.
 :::
@@ -185,7 +185,7 @@ Všimněte si, že každá z těchto otázek má potenciál významně ovlivnit 
 
 Všimněte si také, že několik příběhových otázek má něco, co upravuje základní strukturu „Může X dosáhnout Y?“. Důvod, proč to tak chcete, je stejný, jako důvod, proč se někdy chcete vyhnout házení kostek – černobílý úspěch/neúspěch není vždy zajímavý, zejména při neúspěchu.
 
-::: tip 
+::: card 
 
 Pokud skončíte s opravdu velkým množstvím příběhových otázek (jako s osmi a více), pamatujte, že nemusíte nutně zodpovědět všechny během jednoho scénáře – otázky, které nezodpovíte, můžete vytáhnout jako předzvěst nebo přípravu věcí, které chcete řešit v následujícím scénáři. Ve skutečnosti to je právě způsob, kterým vytváříte silné příběhové oblouky (str. 252) – máte hromadu souvisejících příběhových otázek a použijete dva nebo tři scénáře k jejich zodpovězení. 
 :::
@@ -236,7 +236,7 @@ Pro každou PV, kterou máte, se rozhodněte, zda ji potřebujete jako pomocnou 
 > Předsedajícího arbitra pojmenuje Lanthus a zkorumpovaného obhájce Pight. Teď má svá PV a může se pustit do vytvoření jejich karet.
 
 
-::: tip Výhody vám mohou ušetřit práci
+::: card Výhody vám mohou ušetřit práci
 
 Když utváříte PV pro svůj scénář, nemusíte mít vše tesané do kamene, když s tím přicházíte ke stolu – kdykoliv nevíte, můžete vždy tvořit tím, že necháte výhody tvořené hráči, aby se staly aspekty PV. Podívejte se také níže na stranu 239 pro rady ohledně doplňování během hry.
 :::
@@ -263,7 +263,7 @@ Pokud jste v dlouhodobé kampani, můžete potřebovat, aby první scéna sezen�
 > To neznamená, že by se rozhodla scénu se Zirdem zcela zahodit – jen si ji nechá na později a použije ji až v návaznosti na tu úvodní.
 
 
-::: tip Silný vypravěčský ninja trik pro zahájení sezení
+::: card Silný vypravěčský ninja trik pro zahájení sezení
 
 Požádat hráče, aby něčím přispěli do otevření první scény, je výborný způsob, jak hned z kraje získat jejich zájem o to, co se děje. Pokud je ve vašem úvodu cokoliv proměnlivého, požádejte své hráče o doplnění nejasných míst, až scénu začnete. Chytří hráči to mohou použít jako příležitost k protlačení vynucení a získání bonusových bodů osudu hned na začátku. Takový styl hry rádi nazýváme „úžasným“.
 
@@ -285,6 +285,7 @@ Samozřejmě můžete otevření svého scénáře také pojmout jako předem na
 
 > „Cynere, kdokoliv, kdo se rozhodl ti tuhle práci nabídnout, o tobě očividně ví hodně. K nabídce přidali i několik velkých drahokamů. Problém je, že víš, kterému vznešenému rodu byly ukradeny, takže pokud nepodepíšeš, tak ti jejich lidi určitě půjdou po krku – a jsi dostatečně nechvalně proslulá na to, aby ti nikdo nevěřil, jak jsi k nim přišla.“ (2 bodu osudu za ***Nechvalně proslulou dívku s mečem*** a ***Zbožňuju třpytky***)
 
+:::
 
 ## Definice scén
 

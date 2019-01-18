@@ -8,13 +8,13 @@ Nicméně není to všechno jen povídání — někdy budete používat kostky 
 
 Fate nemá žádné výchozí herní prostředí, nejlépe ale pracuje s předpokladem, že postavy jsou **proaktivní, schopní lidé žijící dramatické životy.** Více rad o tom, jak takovou příchuť do vašich her vnést vám dáme v další kapitole.
 
-::: tip Pro veterány
+::: card Pro veterány
 Možná, že toto čtete, protože jste seznámeni s Fate z našich dalších her, *Spirit of the Century* a *Dresden Files Roleplaying Game*. Systém Fate používá také několik dalších populárních RPG, jako *Bulldogs!* od Galileo Games a *Legend of Angierre* od Cubicle 7’s.
 
 Toto je nová verze Fate, která byla vyvinuta pro zjednodušení a sjednocení systému. Mnohé věcí už budete znát, ale některá pravidla a terminologii jsme změnili. Seznam všech změn, které jsme udělali, můžete nalézt na konci knihy.
 :::
 
-::: tip Fate nováčci
+::: card Fate nováčci
 Pokud jste nový hráč, vše, co skutečně potřebujete znát, je v této kapitole a na vaší kartě postavy. Vypravěč vám pomůže se zbytkem. Pokud budete chtít vypravěči ušetřit trochu námahy, tak si prohlédněte přehled na straně 292, , ale jinak by vám to mělo stačit.
 
 Pokud jste nový vypravěč, toto je pro vás jen vrcholek ledovce. Měli byste si přečíst a seznámit se s celou knihou.
@@ -30,7 +30,7 @@ Začít hrát Fate je velmi snadné. Potřebujete:
 * Žetony představující **body osudu**. Pokerové žetony, skleněné korálky nebo cokoliv podobného bude stačit. Abyste si byli jistí, že jich budete mít dost na jakoukoliv hru, tak jich budete chtít mít k ruce asi tak třicet nebo i více. Namísto žetonů můžete používat i značky tužkou na kartě postavy, fyzické žetony jsou ale o něco zábavnější.
 * Papírky. Ty jsou volitelné, ale uvidíte, že jsou velmi užitečné pro zaznamenávání **aspektů** během hry.
 
-::: 
+::: card
 Pokud nechcete používat Fate kostky, nemusíte — jakákoliv sada normálních šestistěnných kostek bude fungovat. Pokud budete používat obyčejné kostky, považujte 5 a 6 za <span class="fate-font">+</span>, 1 a 2 za <span class="fate-font">-</span> a 3 a 4 za <span class="fate-font">0</span>.
 :::
 
@@ -44,7 +44,7 @@ Jste-li vypravěčem, vaší hlavní odpovědností je svět, který PH obývaj�
 
 Jak hráči tak vypravěči mají i druhotný úkol: **činit všechno okolo úžasné**. Fate je nejlepší jako společné úsilí, když všichni sdílejí své nápady a hledají příležitosti, jak učinit situace tak zábavné, jak jen to je možné.
 
-::: tip Ukázková hra
+::: card Ukázková hra
 Všechny příklady pravidel v této knize odkazují na tu samou ukázkovou hru a herní prostředí. Jmenuje se *Srdce z oceli* a je to odlehčená, bláznivá fantasy o nájemné skupině pro řešení problémů. Postavy se toulají krajem a dostávají se do potíží z příkazu různých malých králů a pochybných vládců, kteří je najímají.
 
 Hráči jsou Lenny, Lily, Ryan a Amanda. Amanda je vypravěčka. Lenny hraje násilnického šermíře jménem Landon. Lily hraje hbitou, elegantní a nebezpečnou Cynere, která shodou okolností také miluje meče. Ryan hraje Tajemného Zirda, kouzelníka, který meče naopak vůbec nemiluje.
@@ -244,7 +244,7 @@ Kdokoliv u stolu může navrhnout, co by mohlo být vhodné vynucení pro kter
 
 Tohle jsou základní věci, které k hraní Fate potřebujete znát. Následující kapitoly jdou u všeho, co jsme probrali výše, do většího detailu a ukáží vám, jak dát vaší hře rozlet.
 
-::: Tip Kam odtud pokračovat
+::: card Kam odtud pokračovat
 * Kapitola *Tvorba hry* vás provede procesem přípravy vaší hry, takže by to nejspíše měla být vaše další zastávka. *Tvorba postav* vám následně ukáže, jak si vytvořit postavy, které budete hrát.
 * Hráči, vy si nejspíše budete chtít přečíst *Akce a důsledky* a *Dlouhou hru*, abyste pronikli do všech možností toho, co lze ve hře dělat a jak svou postavu během hry rozvíjet.
 * Vypravěči, vy se budete chtít seznámit s celou knihou, ale zejména jsou pro vás důležité kapitoly *Vedení hry* a *Scény, sezení a scénáře.*

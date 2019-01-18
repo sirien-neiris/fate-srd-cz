@@ -148,7 +148,7 @@ Takže ve výše uvedeném případě můžete koupit Průměrnou (+1) dovednost
 
 Můžete si všimnout, že to znamená, že čím dále se na žebříčku dostanete, tím těžší je rychle zlepšit vaše dovednosti. To je záměrné – nikdo nebude schopný dostat se do bodu, kde je úžasný ve všem a vždy. To je nudné. 
 
-::: tip 
+::: card 
 
 Vypravěči, striktně vymáhat pravidla o fungování dovedností může být někdy pěkně otravné. Pokud hráč skutečně chce zlepšit nějakou dovednost způsobem, který pravidla v daný moment porušuje, a vy v tom nevidíte velký problém, prostě mu řekněte, ať body dovedností v následujících pár milnících věnuje „napravování“ svého dovednostního rozsahu, spíše, než abyste ho nechávali čekat. Je to v pohodě. Nepůjdeme po vás. 
 :::
@@ -193,7 +193,7 @@ Většinou by zásadní milníky měly signalizovat, že se spousta věcí ve sv
 > Takže tu máme Cynere s nově objevenou chutí zabíjet démony, Zirda sahajícího po dosud nevídané moci a Landona zpochybňujícího svou loajalitu k jedinému skutečnému zdroji jeho umění. Amanda si udělá spoustu poznámek o tom, co to bude znamenat pro pár nadcházejících scénářů.
 
 
-::: tip Zpět k tvorbě postavy
+::: card Zpět k tvorbě postavy
 
 Jeden způsob, jak se na zásadní milník dívat, je, že jde o ekvivalent finále série televizního seriálu. Jakmile začnete další sezení, mnoho věcí ve vaší hře získá potenciál být zásadně odlišnými – můžete se soustředit na nové problémy, několik postav bude mít změněné aspekty, v herním prostředí se objeví nové hrozby a tak dále. 
 

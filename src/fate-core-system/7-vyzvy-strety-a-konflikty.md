@@ -197,7 +197,7 @@ Dobré možnosti pro situační aspekty zahrnují:
 
 Jak se scéna rozvíjí, hráči mohou navrhovat vlastnosti prostředí, které jsou perfektní jako aspekty. Pokud vypravěč popíše scénu jako slabě osvětlenou, hráč by měl být schopný vyvolat Stíny, aby mu pomohly v hodu na Skrývání, i když dříve nebyly ustanoveny jako aspekt. Pokud by prvek vyžadoval nějaký zásah ve scéně ze strany postavy, aby se stal hodný aspektu, pak je na dosah akce vytvoření výhody. Obvykle se stodola neoctne ***V plamenech!***, aniž by někdo neskopl lucernu. Obvykle.
 
-::: tip Situační aspekty a zóny v duševním konfliktu
+::: card Situační aspekty a zóny v duševním konfliktu
 
 V duševním konfliktu nemusí situační aspekty a zóny vždy dávat smysl ve fyzickém významu. Budou dávat smysl například při výslechu, kde fyzické vlastnosti prostoru vyvolávají strach, ale ne zrovna v prudké hádce s milovanou osobou. Když se lidé snaží vzájemně ublížit emočně, obvykle se snaží obrátit proti druhým jejich vlastní slabosti – jinými slovy, jejich vlastní aspekty.
 
@@ -267,7 +267,7 @@ Nicméně, máte-li v konfliktní scéně druhotný cíl, můžete potřebovat n
 
 Ve svém tahu nicméně můžete udělat jen jeden hod na dovednost během výměny, až na případy, kdy budete bránit akci někoho jiného – to můžete udělat kolikrát budete chtít. Můžete provést obranou akci ve prospěch ostatních, pokud splňujete dvě podmínky: musí dávat smysl, abyste se postavili mezi útok a jeho cíl, a musíte přijmout následky jakéhokoliv selhání.
 
-::: tip 
+::: card 
 
 Vypravěči, pokud máte ve scéně hodně bezejmenných PV, klidně u nich užívejte pasivní opozici, abyste za ně nemuseli házet. Ke zjednodušení můžete také zvážit použití skupin (str. 216) namísto jednotlivých PV.
 :::
@@ -292,7 +292,7 @@ Pokud jste útokem zasaženi, stane se jedna ze dvou věcí. Buď zásah přijme
 
 Naštěstí máte dvě možnosti jak zásah přijmout a zůstat v boji – můžete přijmout **stres** a/nebo **následky**. Můžete se také rozhodnout z boje **odstoupit** dřív, než jste vyřazeni, abyste si udrželi nějakou kontrolu nad tím, co se vaší postavě stane.
 
-::: tip 
+::: card 
 
 Pokud se, z jakéhokoliv důvodu, chcete zříci své obrany a dostat zásah (například, řekněme, abyste skočili do cesty šípu, který by prošpikoval vašeho kamaráda), můžete.
 Protože se nebráníte, tak útočník hází proti Nevalné (+0) opozici, což znamená, že nejspíše dostanete zlý zásah.
@@ -365,7 +365,7 @@ S vážnými následky vás pošlou rovnou na pohotovost (nebo na nějakou její
 
 Abyste mohli políčko následků obnovit k dalšímu využití, musíte se z následků zotavit. To vyžaduje dvě věci – úspět v akci, která vám dovolí uzdravení ospravedlnit, a pak počkat odpovídající dobu herního času, aby uzdravení proběhlo.
 
-::: tip Kterou dovedností se zotavuji?
+::: card Kterou dovedností se zotavuji?
 
 V *Srdcích z oceli* se fyzické zotavení mohlo dít pouze užitím triku Učenosti, který si vzal Mystický Zird. To činilo fyzické boje nebezpečnými a naznačovalo to, že skutečný lékařský výcvik je vzácný. Pro duševní zotavování používáme dovednost Empatie. 
 
@@ -396,14 +396,14 @@ Pak už vám nezbývá, než jen čekat.
 
 > To umožní Cynere přejmenovat si aspekt ***Téměř vykuchaná*** na ***Zafačovaná*** a začít tak proces svého zotavování. Na konci dalšího celého scénáře si bude moci aspekt vymazat ze své karty a bude moci použít svůj vážný následek znovu v nějakém dalším souboji.
 
-::: tip Lektvary a jiná okamžitá léčení
+::: card Lektvary a jiná okamžitá léčení
 
 Mnoho žánrů má nějaký mechanismus, který postavám umožňuje rychlé zotavení se ze zranění. Fantasy herní prostředí mají všudypřítomné léčivé lektvary nebo kouzla. Sci-fi má supervědecké kožní regenerátory nebo biogely. Obvykle tyto mechanismy existují, protože mnoho her vyjadřuje zranění v pojmech konstantních číselných postihů, které drasticky ovlivňují efektivitu postavy.
 
 Ve Fate jsou nicméně následky z velké části jako jakýkoliv jiný aspekt. Vstoupí do hry pouze, pokud někdo zaplatí bod osudu, aby je vyvolal (kromě prvotního volného vyvolání, samozřejmě), nebo když jsou vynuceny.
 
 Přinejlepším by mocné uzdravování mělo prostě odstranit potřebu hodu na zotavovací akci, nebo by mělo snížit závažnost následku o jednu nebo více úrovní. Takže léčivý lektvar by třeba mohl změnit vážný následek na mírný a tak výrazně zkrátit čas na zotavení. Předtím, než ho necháte zmizet, by s ním postavy hráčů měli projít alespoň jednou scénou, v níž by Následek mohl něco ovlivnit.
-
+:::
 
 ##### Extrémní následky
 
@@ -492,7 +492,7 @@ Pamatujte, že se aspekty, které vytváříte jako výhody, řídí pravidly pr
 
 Když v konfliktu tvoříte výhodu, zamyslete se, jak dlouho chcete, aby aspekt zůstával ve hře, a kdo chcete, aby jej mohl využít. Je těžké pro kohokoliv mimo vás a vaše přátele ospravedlnit využití výhody, kterou jste umístili na postavu, ale je také snazší se takové zbavit – odstranit ji zvládne jedna akce překonání. Je těžší odůvodnit odstranění aspektu na prostředí (vážně, kdo asi bude odsouvat tu ***Ohromnou knihovnu***, kterou jste zrovna převrátili?), ale kdokoliv ve scéně může teoreticky najít důvod k tomu jej využít ve svůj prospěch.
 
-::: tip Krycí palba a jiná překážení
+::: card Krycí palba a jiná překážení
 
 Když se snažíte někoho ochránit před útokem, nejobvyklejší způsob, jak to udělat, je vytvořit výhodu. Můžete svému kamarádovi  předat volné vyvolání  a ztížit tak možnost jej zasáhnout. 
 
@@ -516,7 +516,7 @@ Jak je uvedeno výše, můžete v nějaké situaci zjistit, že zatímco vaši p
 
 Za tímto účelem, vypravěči, připravte pro hráče modifikovanou formu výzvy. Jeden z úkolů nejspíš bude „ubránit se“ – v každé výměně, kdy na vás někdo zaútočí nebo se na vás pokusí vytvořit výhodu, se musíte úspěšně ubránit, abyste mohli udělat nějakou jinou akci z výzvy. Dokud na vás nikdo úspěšně nezaútočí nebo si nad vámi nevytvoří výhodu, můžete použít svou akci na některý z cílů výzvy. 
 
-::: tip: Volné akce
+::: card Volné akce
 
 Někdy prostě dává smysl, aby vaše postava dělala něco dalšího ve spojení s výměnou, nebo jako další krok ke své akci. Můžete tasit zbraň, než ji použijete nebo vykřiknout varování, než rozkopnete dveře nebo si rychle přeměřit místnost, než zaútočíte. Než čímkoliv jiným jsou tyto malé kousky akcí barvitým popisem, který scéně dodává atmosféru.
 

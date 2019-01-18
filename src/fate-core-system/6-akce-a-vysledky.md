@@ -38,7 +38,7 @@ Jak jsme řekli v Základech, kdykoliv hodíte kostkami, porovnáváte svůj vý
 
 > To jí dává Dobrý (+3) výsledek, což znamená, že Lily o jedna přehodila.
 
-::: tip Pro Vypravěče: Aktivní nebo pasivní?
+::: card Pro Vypravěče: Aktivní nebo pasivní?
 
 Pokud má PH nebo pojmenované PV možnost do nějaké akce rozumně zasáhnout, pak byste jim měli dát možnost hodit si na aktivní opozici. *To se pro zasahující postavu nepočítá jako akce; je to jen základní nástroj řešení akcí.* Jinými slovy, dokud je jeho postava přítomna a může zasáhnout, hráč nemusí dělat nic zvláštního, aby si zasloužil právo akci aktivně oponovat. Pokud jsou nějaké pochybnosti, vhodný situační aspekt může pomoci ospravedlnit, proč postava mohla někomu aktivně oponovat.
 
@@ -78,7 +78,7 @@ Znamená to, že dostanete, co jste chtěli.
 Což znamená, že dostanete, co jste chtěli, a ještě k tomu dostanete dodatečný benefit k dobru.
 
 
-::: tip Pro Vypravěče: Výrazná nebo drobná cena?
+::: card Pro Vypravěče: Výrazná nebo drobná cena?
 
 Když přemýšlíte o ceně, přemýšlejte zároveň o příběhu ve hře i o herních mechanikách, aby vám pomohly vyřešit, co bude nejvhodnější.
 
@@ -90,7 +90,7 @@ Je v pohodě, pokud bude drobná cena hlavně detail ve vyprávění, ukazujíc�
 :::
 
 
-::: tip Pro Vypravěče: Jak těžké by měly být hody na dovednost?
+::: card Pro Vypravěče: Jak těžké by měly být hody na dovednost?
 
 U aktivní opozice si s tím, jak těžký hod je, nemusíte dělat starosti – prostě použijte úroveň dovednosti postavy a hoďte si kostkami tak jako hráči, ať to padne, jak to padne. Rady pro úrovně dovedností PV máme ve *Vedení hry* na str. 215.
 
@@ -134,7 +134,7 @@ Opozice, kterou musíte přemoci, může být aktivní nebo pasivní, v závislo
 * **Pokud uspějete na akci překonání**, dosáhnete svých cílů bezplatně.
 * **Pokud uspějete se stylem na akci překonání**, dostanete navíc k dosažení vašeho cíle ještě posílení.
 
-::: tip 
+::: card 
 
 Někdy se můžete dostat do situací, v nichž se zdá vhodné dát výsledku akce benefit nebo penalizaci odlišné od těch, které jsou vyjmenovány. Není problém vrátit se k základnímu popisu čtyř výsledků a nahradit je něčím, co dává smysl.
 Například akce překonání říká, že dostanete posílení navíc k úspěchu, pokud uspějete se stylem. Pokud ale onen hod na překonání děláte na konci scény, nebo nemůžete vymyslet dobré posílení, můžete se rozhodnout nabídnout namísto toho příběhový detail.
@@ -258,7 +258,7 @@ Protože hod na obranu je reakcí, vaše opozice je takřka vždy aktivní. Poku
 **Pokud v obraně uspějete**, úspěšně se vyhnete útoku nebo pokusu získat nad vámi výhodu.
 * **Pokud v obraně uspějete se stylem**, funguje to jako normální úspěch, ale také získáte posílení, protože jste zvrátili momentální situaci.
 
-::: tip Žádné skládané efekty!
+::: card Žádné skládané efekty!
 
 Všimněte si, že akce obrany má důsledky, které zrcadlí důsledky akcí útoku a vytvoření výhody. Například říká, že pokud v obraně remízujete, dáváte tím oponentovi posílení. Pod útokem se říká, že když remízujete, získáte posílení.
 
@@ -266,7 +266,7 @@ To neznamená, že útočník dostane dvě posílení – je to ten samý výsle
 :::
 
 
-::: tip Můžu se bránit proti akci překonání?
+::: card Můžu se bránit proti akci překonání?
 
 Technicky, ne. Obraná akce tu je aby vám zabránila obdržet stres, následky nebo situační aspekty – v podstatě vás brání před vším špatným, co reprezentujeme mechanikami. 
 

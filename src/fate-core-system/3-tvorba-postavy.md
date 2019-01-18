@@ -17,7 +17,7 @@ Je dobré si během tohoto procesu dělat podrobné poznámky. Můžete použít
 
 Začněte tím, že určíte základní koncept a problém. Pak vytvořte osobní historii vaší postavy, což je proces, který prochází třemi fázemi. Až to budete mít, dotvořte svou postavu pomocí dovedností a triků. V ten moment můžete začít hrát! 
 
-:::tip Když tvoříte svou postavu 
+::: card Když tvoříte svou postavu 
 
 **Aspekty:** Vymyslete své postavě aspekty základního konceptu a problému. 
 
@@ -52,14 +52,14 @@ Protože výběr základního konceptu a problému jsou propojené, jsou dané d
 Příliš se tím ale netrapte — pokud se představa vaší postavy později vyvine, je to super! Vždycky se můžete vrátit zpět a dřívější rozhodnutí předělat. 
 
 
-:::tip Dál budujte své herní prostředí 
+::: card Dál budujte své herní prostředí 
 
 Spolu s tím, jak vytváříte věci pro svou postavu, vytváříte i věci pro svět okolo ní. Nakonec budete probírat PV, organizace, místa a podobné věci. A to je fantastické! 
 
 Můžete také přijít s konceptem postavy, který do světa přidá něco podstatného, třeba když řeknete „chci hrát čaroděje“, i když doteď o magii nikdo nemluvil. Pokud se to stane, proberte s ostatními, zda to bude součástí vašeho herního prostředí a proveďte všechny potřebné úpravy. 
 ::: 
 
-:::tip Volby, všude samé volby 
+::: card Volby, všude samé volby 
 Základní pravidla nejsou celým ani jediným Fate. Jsou sadou výchozích rozhodnutí, která budou fungovat, pokud je použijete tak, jak jsou.
 
 Až se se systémem blíže seznámíte, budete mít chuť věci měnit, aby o něco lépe vyhovovaly vaší individuální hře nebo hernímu stylu. *To je zcela v pořádku*. Tato pravidla nejsou posvátná. Očekáváme, že je změníte. Ve skutečnosti budeme napříč knihou poukazovat na to, kde se takové možnosti nabízí. Další kniha, *Fate Systémové nástroje*, je o tom, jak změnit a nakonfigurovat systém Fate tak, aby vyhovoval vašim potřebám. 
@@ -67,7 +67,7 @@ Až se se systémem blíže seznámíte, budete mít chuť věci měnit, aby o n
 Takže přetvářejte. Nám to nevadí. 
 ::: 
 
-###Základní koncept 
+### Základní koncept 
 
 Váš **základní koncept** je fráze, která shrnuje, co je vaše postava zač. Kdo to je a co dělá. Je to aspekt, jeden z prvních a nejdůležitějších pro vaši postavu. 
 
@@ -82,7 +82,7 @@ Nejsou to jediné způsoby, jak si se základním konceptem hrát, ale ukáží 
 
 Základní koncept může přesahovat mezi postavami, pokud máte jak rozlišit, čím je vaše postava od ostatních odlišná. Pokud musí být základní koncept stejný mezi všemi postavami, jako třeba když chce vypravěč hru pouze o šermířích, pak je klíčové, aby se lišily problémy. 
 
-:::tip Pokud se zaseknete na aspektech 
+::: card Pokud se zaseknete na aspektech 
 
 Zlaté pravidlo tvorby aspektů při tvorbě postavy: *vždycky to můžete později změnit*. Pokud s tvorbou aspektu zápasíte, sepište si myšlenky v tolika slovech, v kolika potřebujete, hlavně abyste to dostali na papír. Pokud nějaká specifická fráze při sepisování vyskočí, super! Pokud ne, možná, že vám s vymyšlením aspektu může pomoci někdo jiný u stolu. A pokud jste stále zaseknutí, tak to zatím nechte — budete mít spoustu času dotvořit to během hry. 
 
@@ -120,7 +120,7 @@ Než se posunete dál, promluvte si o svém problému s vypravěčem. Ujistěte 
 > Když Ryan uviděl, že si ostatní vzali osobní problémy, rozhodl se přidat další trochu herního prostředí pomocí problému se vztahy. Chce něco, bude spojeno s jeho základním konceptem, někoho, s kým nemůže jen tak otevřeně bojovat — chce v příběhu vidět intriky, takže si napíše ***Rivalové v Mystickém bratrstvu*** (což zároveň v herním prostředí pojmenovává skupinu, které je Ryanova postava členem).
 
 
-:::tip Světlá stránka problémů
+::: card Světlá stránka problémů
 
 Protože je váš problém aspektem, tak byste jej měli být schopni i vyvolat, že? Protože jsme se soustředili na to, jak vaší postavě život komplikují, je snadné přehlédnout, že jí i pomáhají.
 
@@ -133,7 +133,7 @@ S Lilyiným ***Miluje třpytky*** můžeme odůvodněně tvrdit, že je Lilyin
 Ryanovy ***Rivalové v Mystickém bratrstvu*** mohou přijít vhod, když se bude potýkat se známými rivaly — dobře ví, jakou taktiku od nich očekávat. Může také využít tento aspekt k získání pomoci od lidí, kteří jeho rivalství sdílí.
 :::
 
-::tip Úvod do výběru aspektů
+::: card Úvod do výběru aspektů
 
 Velká část tvorby postavy se soustředí na vymýšlení aspektů — některé jsou zvané základní koncept, jiné se nazývají problémy, ale všechny fungují v podstatě stejně. Aspekty jsou ta nejdůležitější část vaší postavy, protože definují, kým je, a dodávají vám způsoby, jak získávat body osudu a jak je utrácet na získávání bonusů. Pokud máte čas, skutečně byste si měli přečíst celou kapitolu věnovanou aspektům předtím, než projdete procesem tvorby postavy.
 
@@ -180,7 +180,7 @@ Toto je příležitost k vyprávění příběhu o vašich postavách. Každ
 **Za druhé si napište aspekt, který některou část této fáze reflektuje**. Aspekt by měl pokrývat obecné vyznění jejího shrnutí nebo se soustředit na nějaký její fragment, který stále přetrvává do dnešních dnů.
 
 
-:::tip Pro veterány
+::: card Pro veterány
 
 Jste-li zvyklí na jiné hry Fate, všimnete si, že v této edici je méně aspektů. Zjistili jsme, že je snazší vymyslet pět dobrých aspektů než sedm nebo deset. A protože tu jsou herní aspekty a můžete vytvářet situační aspekty, neměli byste mít nedostatek věcí k vyvolávání nebo vynucování!
 
@@ -220,12 +220,12 @@ Jakmile vytvoříte dobrodružství, napište aspekt, který se váže k něja
 Stejně jako u základního konceptu a problému, tato (a následující) fáze je další příležitostí k vykreslování herního prostředí.
 
 
-:::tip Fáze a papírové kartičky
+::: card Fáze a papírové kartičky
 
 V první fázi jste všichni přišli se svými vlastními dobrodružstvími. Ve fázích dva a tři si je budete napsané na kartičkách předávat dokola, aby se jich mohly účastnit také postavy ostatních hráčů. Může být těžké vymyslet, jak vaše postava zapadá do příběhu někoho jiného, když jste předali svou kartu tvorby postavy s fázemi jinému hráči, takže vám doporučujeme, abyste používali papírové kartičky (nebo jakékoliv jiné bloky nebo papíry, které máte po ruce).
 
 Během první fáze — když sepisujete své dobrodružství na vaši kartu tvorby postavy — si vezměte kartičku a napište na ni jméno své postavy a popis vašeho dobrodružství. Pak, během druhé a třetí fáze, předáte kartičku dál, takže ostatní budou moci do vašeho příběhu přispět. Takto vám stále zůstane vaše karta tvorby postavy, zatímco sepisujete své příspěvky a aspekty, a ostatní budou vědět, do jakého příběhu mají vkročit.
-
+:::
 
 ### Fáze dva: Zkřížení cest
 
@@ -239,7 +239,7 @@ V příběhu, který držíte, má vaše postava pomocnou roli, kterou právě
 * **Řešení situace:** Vaše postava nějak vyřešila komplikaci, kterou hlavní postava v dobrodružství měla nebo se s ní potýkala, nebo pomohla hlavní postavě v jejím ústředním konfliktu (což je příležitost zapojit váš základní koncept). Když toto popisujete, nemusíte zmiňovat, jak situace vznikla, jen jak se o ni vaše postava postarala. Popisy jako „Cynere zadržela nepřátele, aby Landonovi poskytla čas na útěk“ nebo „Zird použil své mystické znalosti, aby se zeptal duchů na informace“ jsou dostatečné, aby nám daly představu o tom, co se stalo.
 * **Komplikace a řešení:** Tady vaše postava buď rozřeší problematickou situaci, ale zároveň vytvoří jinou, nebo vytvoří problematickou situaci, ale později jinou vyřeší. Spojte dva nápady pomocí slova „později“, jako třeba: „Landon začal rvačku se Zjizvenými triádami, zatímco se Zird snažil být nenápadný. Později Zirdovi pomohl, když bojoval s nemrtvými, zatímco Zird sesílal kouzlo.“
 
-:::tip 
+::: card 
 
 Základní trio fází protěžuje propojování postav dohromady pomocí společné historie. Máme to rádi, protože to je kooperativní a mluvíte přitom jeden s druhým. Nicméně není to jediný možný způsob. Do tria fází můžete vybrat jakoukoliv významnou trojici detailů z pozadí příběhu. Vaše minulost, současnost a naděje do budoucnosti je další sada tří prvků. *Fate Systémové nástroje* obsahují další příklady práce s fázemi.
 :::
@@ -267,7 +267,7 @@ Jakmile jsou všichni hotovi s druhou fází, znovu si dobrodružství vyměn�
 Nyní máte pět aspektů a slušný kus pozadí k příběhu své postavy!
 
 
-::: tip Méně než tři hráči?
+::: card Méně než tři hráči?
 
 Trio fází předpokládá, že budete mít alespoň tři hráče. Pokud máte jen dva, zvažte následující možnosti:
 
@@ -295,7 +295,7 @@ Vaše dovednosti tvoří pyramidu, s jedinou dovedností na vrcholu s hodnoc
 
 Nevalná (+0) je základ pro jakoukoliv dovednost, kterou si nevezmete. Někdy je u dovednosti uvedeno, že není dostupná, pokud si ji postava nevezme; v takových případech není ani Nevalná.
 
-:::tip Pro veterány
+::: card Pro veterány
 
 Proč pyramida?
 
@@ -304,7 +304,7 @@ Pokud jste hráli *Dresden Files RPG*, pak víte, že využívá dovednostní sl
 Dovednostní sloupce zcela nezmizely. Jsou jen vyhrazené pro zlepšování (str. 258).
 :::
 
-::: tip Dovednostní strop
+::: card Dovednostní strop
 
 V základu dáváme Skvělé (+4) jako nejlepší hodnocení dovednosti, s nímž PH začínají. Jak se postavy vyvíjí, mohou se zlepšit nad tento limit, ale je to těžší, než si zlepšit dovednosti s hodnocením pod tímto limitem (viz zásadní milníky na str. 260).
 
@@ -340,7 +340,7 @@ Pokud si vezmete čtyři triky, vaše obnova je 2. Pokud si vezmete pět triků,
 
 **Poznámka:** Některé hry Fate toto rozložení mění. Bez ohledu na to, jak triky ve vaší hře fungují, nikdy nesmíte mít obnovu menší než 1.
 
-::: tip
+::: card
 
 Pokud chcete, aby PH měly spoustu cool vychytávek a speciálních bonusů, můžete tyto základní hodnoty upravit a dát triků zdarma více. Můžete také změnit základní úroveň obnovy — vyšší obnova znamená, že PH nebudou potřebovat tolik vynucení jako obvykle (představte si superhrdinský komiks) a nižší obnova znamená, že budou potřebovat několik hned z kraje každého sezení, aby dostaly dostatečnou zásobu (představte si Smrtonosnou past). Také platí, že čím vyšší obnova, tím více si budou hráči kupovat triky.
 :::
@@ -364,7 +364,7 @@ Některé dovednosti a některé triky mohou tyto základy navýšit. Podívej
 
 **Poznámka:** Pokud hrajete v herním prostředí s odlišnými dovednostmi, tak to, které z nich ovlivňují kolonky stresu a následků se může změnit. Poznamenejte si benefity těchto dovedností, když si tvoříte postavu.
 
-:::tip 
+::: card 
 
 Můžete si přidat měřítko stresu, pokud postavy ve vaší hře trpí zvláštní formou újmy, jako například majetkový stres (str. 285) v silně politické hře. Změna políček stresu zpomalí a prodlouží konflikty, což může být vhodnější pro vysokooktanové pulpové žánry, kde se od postav očekává, že snesou spoustu ran.
 :::

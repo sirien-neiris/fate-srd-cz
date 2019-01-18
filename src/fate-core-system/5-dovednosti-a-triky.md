@@ -51,7 +51,7 @@ Ve Fate si hráči mohou vzít triky během tvorby postavy, nebo si ponechat ote
 
 Máme také seznam věcí, které dovednosti mohou dělat, aby vám pomohl, až je budete vymýšlet pro vaši hru. Pokud si nejste jistí, podívejte se na triky v seznamu, nebo na ty, které mají ukázkové postavy. 
 
-::: tip 
+::: card 
 
 Vypravěči, pokud máte nějakou konkrétní sadu schopností, které chcete ve hře zdůraznit jako důležité, můžete si udělat seznam triků, na které se hráči mohou při tvorbě postavy odkazovat. Obvykle tak budete činit během tvorby specialit; pro více detailů se podívejte na kapitolu Speciality začínající na straně 269.  
 :::
@@ -87,7 +87,7 @@ Tady je pár příkladů přidávání bonusů k akcím:
 * **Olovo ve vzduchu.** Opravdu rádi vyprazdňujete zásobníky. Kdykoliv použijete plně automatickou zbraň a uspějete na útok Střelbou, automaticky tvoříte Slušnou (+2) opozici proti pohybu v dané zóně až do své další akce, kvůli všemu tomu olovu ve vzduchu. (Normálně byste na vytvoření podobné překážky potřebovali samostatnou akci, ale s tímto trikem to je zdarma.)
 * **Dítě dvora.** Získáváte bonus +2 na jakýkoliv pokus o překonání překážky pomocí Vztahů kdykoliv se nacházíte u nějaké šlechtické události, jako je třeba královský ples.
 
-::: tip
+::: card
 
 Hráči, když tvoříte trik, který dává akci bonus, vyvarujte se okolností, které se ve hře objevují málo. Například výše zmíněný trik Okultní expert je nevhodný, pokud se vaše hra nezabývá hodně okultnem, a Dítě dvora je k ničemu v kampani, která poměrně běžně neobsahuje šlechtice. Pokud myslíte, že svůj trik nepoužijete alespoň dvakrát za herní sezení, změňte podmínky, s nimiž je bonus spojen.
 
@@ -120,7 +120,7 @@ Pro nejlepší výsledek použijte obojí – mějte trik omezený na konkrétn�
 
 Můžete trik také omezit tím, že jej dovolíte použít pouze v konkrétní herní periodě, jako třeba jednou za konflikt, jednou za scénu nebo jednou za sezení.
 
-::: tip Triky aktivované bodem osudu
+::: card Triky aktivované bodem osudu
 
 Dalším způsobem jak omezit přílišné používání triků ve hře je chtít bod osudu za jejich použití. To je dobrá možnost, pokud chcete trik s velmi silným efektem, nebo pokud se vám nezdá, že by šlo nějak pozměnit jeho znění tak, aby do hry přicházel méně často.
 
@@ -198,14 +198,14 @@ Zde máte základní seznam ukázkových dovedností pro použití ve vaší hř
 
 Každý popis dovednosti obsahuje seznam herních akcí, k nimž můžete dovednost použít. Tento seznam není nutně vyčerpávající – podívejte se na naše rady pro řešení krajních případů na straně 202.
 
-::: tip Tvorba herního prostředí dovednostmi
+::: card Tvorba herního prostředí dovednostmi
 
 Dovednosti jsou jedna ze základních mechanických cest k posílení herního prostředí, které pro vaši hru používáte. Dovednosti poskytnuté v tomto seznamu jsou záměrně nespecifické, aby mohly být použity v široké škále herních prostředí, a uvedené triky navazují na tento trend tím, že nejsou na žádné herní prostředí navázány.
 
 Když tvoříte své vlastní herní prostředí pro Fate, měli byste si také vytvořit vlastní seznam dovedností. Základní seznam, který vám nabízíme, je dobrý výchozí bod, ale vytvoření specifických dovedností pro váš svět vám pomůže jej obohatit posílením příběhu mechanikami. Triky by také měly odrážet druhy schopností dostupné ve vašem světě.
 :::
 
-::: tip Dovednosti a vybavení
+::: card Dovednosti a vybavení
 
 Některé dovednosti, jako Střelba nebo Řemesla, naznačují potřebu mít vybavení. V základu předpokládáme, že pokud máte dovednost, máte také nástroje, které k jejímu užití potřebujete, a efektivnost těchto nástrojů je zahrnuta ve výsledné dovednosti. Pokud chcete učinit vybavení zajímavým, podívejte se na kapitolu Speciality.
 :::
@@ -248,7 +248,7 @@ Atletika je ale všudypřítomná napříč všemi žánry hodícími se k Fate 
 
 **Obrana:** Atletika je ve fyzickém konfliktu všestranná obranná dovednost při boji zblízka i na dálku. Můžete také bránit postavám, které se snaží projít kolem vás, pokud jste v pozici, abyste jim v tom mohli fyzicky zabránit. 
 
-::: tip 
+::: card 
 
 Můžete se rozhodnout, že je Atletika nevhodná k obraně proti střelným zbraním nebo jiným high-tech zbraním pro útok na dálku ve vaší hře. Není tu však žádná jiná dovednost, která by proti nim obranu poskytovala. Pokud se tak rozhodnete, učiní to takové zbraně velmi, velmi nebezpečnými. Nebo si na obranu proti nim vyberte jinou dovednost.
 :::
@@ -278,7 +278,7 @@ Dovednost Boje pokrývá všechny formy boje zblízka (tedy v rámci stejné zó
 * **Záložní zbraň.** Kdykoliv vás někdo zasáhne se situačním aspektem Odzbrojený nebo něčím podobným, utraťte bod osudu a prohlaste, že máte další zbraň. Namísto situačního aspektu dostane váš protivník posílení reprezentující chvilkové rozptýlení, které jste utrpěli nutným přezbrojením.
 * **Zabiják.** Jednou za scénu, když donutíte oponenta přijmout následek, můžete utratit bod osudu a navýšit závažnost jeho následku (takže drobný se stane mírným, mírný se stane vážným). Pokud by váš protivník beztak přijímal vážný následek, musí přijmout vážný následek a jeden další následek nebo se nechat vyřadit.
 
-::: tip Umění boje
+::: card Umění boje
 
 Je dané, že většina her, které budete ve Fate hrát, bude obsahovat slušnou dávku akce a fyzického konfliktu. Je to další oblast pro zdůraznění, podobně jako dovednost Řemesla, v níž dovednosti, které se rozhodnete mít, říkají, o čem vaše hra je.
 
@@ -333,7 +333,7 @@ Klamání můžete využít i k různým kouskům spočívajícím v odvedení p
 * **Myšlenkové hry.** Můžete použít Klamání namísto Provokace k provedení duševního útoku.
 * **Muž mnoha tváří.** Kdykoliv potkáte někoho nového, můžete utratit bod osudu a prohlásit, že jste tu postavu už potkali, ale pod jinou identitou. Vytvořte si situační aspekt reprezentující vaší zástěrku a můžete použít Klamání namísto Vztahů kdykoliv s danou osobou interagujete.
 
-::: tip Sociální dovednosti a ostatní postavy
+::: card Sociální dovednosti a ostatní postavy
 
 Mnoho sociálních dovedností umožňuje akce, které vám dovolují změnit emoční stav jiné postavy, nebo ji přimějí přijmout nějakou skutečnost v příběhu (jako například uvěřit jedné z vašich lží).
 
@@ -343,6 +343,7 @@ Můžete tedy úspěšně Provokovat tím, že postavě křičíte do obličeje 
 
 Dokud platí, že získáte svou výhodu, máte, co mít máte. Použijte to jako příležitost k tvorbě příběhu spolu s ostatními a ne k jejich srážení.
 
+:::
 
 ### Kondice
 
@@ -412,7 +413,7 @@ Tato dovednost je v základním seznamu, aby vám dala výchozí, snadný způso
 * **Šetrný investor.** Dostanete další volné vyvolání, pokud vytvoříte výhodu pomocí Majetku, za předpokladu, že to popisuje návrat nějaké investice, kterou jste udělali během předchozího sezení. (Jinými slovy, nemůžete zpětně prohlásit, že jste to udělali, ale pokud se to ve hře skutečně stalo, tak z toho získáte více.)
 * **Investiční fond, bejby.** Dvakrát za sezení můžete přijmout posílení reprezentované náhlým přísunem peněz. 
 
-::: tip Omezování Majetku
+::: card Omezování Majetku
 
 Pokud někdo používá dovednost Majetek trochu příliš, nebo když chcete ukázat, že neustálé sahání do zdrojů vašeho bohatství způsobuje snižující se výnosy, můžete zkusit jeden z následujících nápadů:
 
@@ -473,7 +474,7 @@ Tato dovednost vyžaduje, aby cíl mohl cítit emoce – roboti a zombie zpravid
 
 Základní dovednost je nazývána Řemesla kvůli tomu, co používáme v příkladech, nicméně tato dovednost se může hodně lišit podle herního prostředí a druhu dostupné technologie. V moderním nebo sci-fi herním prostředí to může být spíše Inženýrství nebo Mechanika.
 
-::: tip Takové množství řemesel...
+::: card Takové množství řemesel...
 
 Pokud je práce s různými druhy technologií důležitá pro vaši hru, můžete mít ve svém seznamu několik těchto dovedností. Ve futuristické hře tak můžete mít Inženýrství, Kybernetiku a Biotechnologii, všechny s v podstatě těmi samými dostupnými možnostmi vůči technologiím, které pokrývají. V takové hře nebude moci mít jedna postava odbornost ve všech bez toho, aby utratila spoustu kolonek dovedností.
 
@@ -490,7 +491,7 @@ Vytváření Řemeslných výhod může sloužit také jako způsob rychlé sabo
 
 **Obrana:** Stejně jako u útoku, řemesla vás nebrání, pokud je nějak nepoužíváte jako dovednost kontrolující stroje, kterými se bráníte.
 
-::: tip 
+::: card 
 
 Pokud je budování konstruktů a tvoření věcí důležitou částí vaší hry, mrkněte na Speciality (str. 269) na diskusi o tom, co může vzniknout používáním Řemesel.
 :::
@@ -509,7 +510,7 @@ Stejně jako Řemesla, to, jak vypadá ve vašich hrách, závisí hodně na tom
 
 Například low-tech herní prostředí (jako *Srdce z oceli*) mohou mít Jízdu namísto Řízení, protože jejich hlavní doprava je založena na zvířatech. Futuristická herní prostředí, která se točí kolem militantních lidí ve space opeře může mít Řízení (pro auta), Pilotování (pro hvězdné lodě) a Ovládání (pro tanky a vojenská vozidla).
 
-::: tip Různá vozidla, různé dovednosti
+::: card Různá vozidla, různé dovednosti
 
 Rada je stejná jako pro Řemesla – nevyšilujte s předěláváním téhle dovednosti, pokud to nemá nějaký skutečný, citelný dopad na vaši hru. Zejména zvažte možnost mít jednu dovednost modifikovanou triky (mrkněte na Tvorbu triků na straně 88).
 :::

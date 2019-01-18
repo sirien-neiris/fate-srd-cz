@@ -22,7 +22,7 @@ To neznamená, že vždy uspějí, ani že všechny jejich akce skončí bez nez
 
 Každá hra Fate, kterou budete hrát, by měla pracovat s postavami jako s kompetentními lidmi hodnými rizik a výzev, které jim přijdou do cesty. Hra o popelářích, kteří jsou nuceni čelit superzáporákům, co jim pokaždé nakopou zadek, není Fate. Hra o popelářích, *kteří se stanou úžasnou proti-superzáporáckou zásahovou jednotkou*, je Fate.
 
-###Drama
+### Drama
 
 Postavy ve Fate vedou dramatické životy. Sázky jsou pro ně vždy vysoko, ať už ve smyslu toho, s čím se musí ve svém světě potýkat, tak co do věcí, které se odehrávají v dvaceti centimetrech mezi jejich ušima. Stejně jako my mají komplikované vztahy a potýkají se se svými problémy a ačkoliv vnější okolnosti jejich životů mohou být mnohem většího rozměru, než jsou ty kolem nás, můžeme se s nimi stále ztotožňovat a sympatizovat s nimi.
 
@@ -30,7 +30,7 @@ To neznamená, že tráví všechen svůj čas utápěním se v utrpení a b
 
 Jakákoliv hra Fate, kterou budete hrát, by měla poskytovat potenciál a příležitosti pro dramatické situace jak pro samotné postavy, tak pro jejich vzájemné vztahy a měla by vám dát šanci s nimi soucítit jako s lidmi. Hra o dobrodruzích bezmyšlenkovitě mlátících zvyšující se počet neustále větších a zlejších záporáků není Fate. Hra o dobrodruzích *snažících se žít normální život, ačkoliv jsou předurčeni bojovat se strašlivým zlem*, je Fate.
 
-:::Když tvoříte svou hru
+::: card Když tvoříte svou hru
 * **Herní prostředí:** Rozhodněte, jaký je svět, který protagonisty obklopuje.
 * **Rozsah:** Rozhodněte, jak výpravný nebo osobní váš příběh bude.
 * **Problémy:** Rozhodněte, jaké hrozby a tlaky vlastní vašemu hernímu prostředí přimějí protagonisty k akci.
@@ -86,11 +86,11 @@ Hrozby by měly odrážet rozsah vaší hry a to, čemu postavy čelí. Jsou t
 
 Výchozí počet hrozeb při hraní Fate jsou dvě: Buď dvě současné hrozby (pro hru, která je čistě o snaze změnit svět v lepší místo), dvě nadcházející hrozby (pro hru o zachraňování lidí před nebezpečím) nebo po jednom od každého. Poslední možnost je obvyklá v literatuře i filmech: vybavte si odhodlané hrdiny bojující proti nějaké blížící se zkáze, zatímco se musí potýkat s nedokonalostí okolního světa.
 
-:::
+::: card
 Tvorba hry a postav zahrnuje tvorbu aspektů. Pokud Fate ještě neznáte, přečtěte si Aspekty a body osudu (str. 55).
 :::
 
-:::Změna počtu hrozeb
+::: card Změna počtu hrozeb
 
 Pokud nechcete, pak samozřejmě nemusíte využít dvě hrozby nabízené jako výchozí počet — jedna nebo tři budou fungovat také, ale trochu to změní vyznění hry. Hra, která bude mít pouze jednu hrozbu se bude neustále točit jen kolem ní — třeba snaha zbavit město zla nebo zabránit zlu dříve, než nastane. Hra se třemi problémy ukáže hektický svět, v němž jsou zdroje postav napínány na několika frontách. Pokud myslíte, že potřebujete hru zaostřit nebo její rozsah rozšířit, promluvte si o tom se skupinou a začněte vyladěním počtu problémů tak, aby lépe seděly tomu, co vás zajímá.
 :::
@@ -107,7 +107,7 @@ Jak jsme řekli dříve, hrozby jsou aspekty. Zformulujte své nápady do aspekt
 
 Pokud jste aspekty ještě nikdy netvořili, tak to na chvíli odložte. Brzy získáte nemálo praxe při tvorbě aspektů pro vaše postavy. Své nápady na hrozby přetvořte v aspekty hned poté, co dokončíte své postavy.
 
-:::Změny problémů ve hře
+::: card Změny problémů ve hře
 
 V kapitole Dlouhá hra (str. 251) to probereme detailně, nicméně s tím, jak se bude hra vyvíjet, se hrozby mohou změnit. Někdy se vyvinou v něco nového. Někdy se postavám podaří hrozbám úspěšně čelit a ony zmizí. A někdy se objeví nové. Hrozby, které teď tvoříte, jsou prostě jen ty, s nimiž hra začne.
 :::
@@ -155,7 +155,7 @@ Stojí za zmínku, že protagonisté by měli mít nějaký vztah k postavám 
 
 Zároveň s tím, jak budou lidé mluvit o tom, koho jejich postavy znají a co dělají, odhalíte při tvorbě postav i něco o herním prostředí. Pokud z tvorby postav vyplyne cokoliv, co by mělo být přidáno do poznámek o tvorbě hry, učiňte tak předtím, než se posunete k samotnému hraní.
 
-:::Vaše herní prostředí a dovednosti
+::: card Vaše herní prostředí a dovednosti
 
 Významnou součástí vašeho herního prostředí je to, co v něm lidé mohou dělat. Mnoho situací je pokryto různými dovednostmi v kapitole *Dovednosti a triky* (str. 85), ale měli byste si zkontrolovat, zda vám všechny vyhovují, nebo zda není potřeba nějaké přidat.
 

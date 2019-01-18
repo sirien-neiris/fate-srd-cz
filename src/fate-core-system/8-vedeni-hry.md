@@ -14,12 +14,12 @@ Hráči vám s tím někdy pomohou, pokud budou dychtiví dostat se k dalšímu 
 
 Více rad ohledně zahajování a ukončování scén dáváme v další kapitole, *Scény, sezení a scénáře*. 
 
-::: tip Drama je lepší, než realismus
+::: card Drama je lepší, než realismus
 
 Neutápějte se ve Fate v přílišné snaze udržet absolutní konzistenci světa nebo drakonickým citem pro realismus. Hra funguje podle  pravidel dramatu a fikce; využijte to ke svému prospěchu. Ve hře by mělo být velmi málo momentů, kdy jsou postavy bez konfliktů nebo problémů k řešení, i když by pro ně bylo „realističtější“ dostat dlouhý oddech.
 
 Když se snažíte rozhodnout, co se stane, a odpověď dávající nejvíce smyslu je zároveň tak trochu nudná, pokračujte raději s něčím více vzrušujícím, než smysluplným! Vždy můžete později najít způsob, jak ospravedlnit něco, co nedávalo hned smysl.
-
+:::
 
 ### Hrajte svět a PV
 
@@ -32,7 +32,7 @@ Aspekty PH vám také mohou pomoci se rozhodnout, jak na ně svět zareaguje. Ja
 Tato stránka vaší práce také znamená, že když máte ve scéně PV, mluvíte a děláte za ni rozhodnutí stejně, jako je hráči dělají za své PH – rozhodnete, kdy udělají akci, která vyžaduje kostky a užíváte stejná pravidla jako hráči, abyste určili, jak to dopadlo. Vaše PV ale nicméně budou od PH trochu odlišné, v závislosti na tom, jak důležité pro příběh jsou.
 
 
-::: tip Nechte hráče, ať vám pomohou
+::: card Nechte hráče, ať vám pomohou
 
 Nemusíte nést celé břímě tvorby detailů světa sami. Pamatujte, že čím více budete na hře spolupracovat, tím větší citovou investici budou hráči k výsledku mít, protože se na tvorbě podíleli.
 
@@ -46,7 +46,7 @@ Amanda: „No, víš, že ke svému napájení užívají jejich životní sílu
 
 Ryan: „Hm… myslím, že by tu měl být nějaký druh proti-zaříkání, jako bezpečnostní mechanismus, kdyby se věci hrozně zvrhly.“
 Amanda: „Jo, to zní dobře. Hoď si na Učenost, jestli tu nějaký je.“
-
+:::
 
 ### Posuzujte užití pravidel
 
@@ -56,7 +56,7 @@ Také rozhodujete o vhodnosti jakýchkoliv vyvolání nebo vynucení, která bě
 
 Nějaké další tipy na posuzování těchto pravidel poskytujeme níže.
 
-::: tip Jste předseda, ne bůh
+::: card Jste předseda, ne bůh
 Přistupujte ke své pozici rozhodčího pravidel s představou sebe sama jako „prvního mezi sobě rovnými“ v komisi, raději než jako absolutní autority. Pokud není shoda na použití pravidel, zkuste podnítit krátkou diskusi a nechte každého krátce vyjádřit, raději než abyste učinili jednostranné rozhodnutí. Častokrát zjistíte, že skupina má sebekontrolu – pokud někdo zkusí vytáhnout vynucení, které je opravdu přetažené, je dost dobře pravděpodobné, že na to jiný hráč poukáže dříve, než vy.
 
 Vaše práce je ve skutečnosti hlavně mít „poslední slovo“ k jakýmkoliv záležitostem vztahujícím se k pravidlům, než diktatura z vaší pozice. Pamatujte na to.
@@ -128,7 +128,7 @@ Ve většině případů vám to usnadní samotná definice akce – kdykoliv za
 
 Někdy se ale dostanete do situací, v nichž není zcela jasné, jaký typ akce je nejvhodnější. Nezkoušejte na takové situace jako vypravěči reagovat zákazem akce. Namísto toho se pokuste upřesnit konkrétní záměr, abyste si ujasnili, která základní herní akce (nebo jejich kombinace) jej nejlépe vystihuje. 
 
-::: tip Stříbrné pravidlo
+::: card Stříbrné pravidlo
 
 Důsledek Zlatého pravidla je následující: Nikdy nenechte pravidla stát v cestě tomu, co dává smysl ve vyprávění. Pokud vaši hráči ve hře odvypráví něco, kde dává smysl použít nějaké pravidlo mimo běžné podmínky, v nichž byste ho normálně využili, udělejte to.
 
@@ -176,7 +176,7 @@ Tohle je snadné vymyslet, pokud jde o úspěch – PH překoná významnou pře
 
 Pokud nedokážete vymyslet žádný zajímavý důsledek pro oba výsledky, pak hod vůbec nežádejte. Pokud selhání není zajímavá možnost, prostě dejte PH, co chtějí, a řekněte si o hod později, až budete schopní vymyslet zajímavé selhání. Pokud je nudnou možností úspěch, zkuste svou představu selhání změnit namísto toho ve vynucení a využijte takový moment jako příležitost k nasypání bodů osudu hráčům. 
 
-::: tip Situační aspekty jsou vaši přátelé
+::: card Situační aspekty jsou vaši přátelé
 
 Pokud se snažíte vymyslet, zda máte dobrý důvod vyžádat si od PH hod na překonání, podívejte se na aspekty ve vaší scéně. Pokud existuje aspekt naznačující nějaké trable nebo problém pro PH, řekněte si o hod na překonání. Pokud ne a vy nedokážete vymyslet zajímavé důsledky selhání, nenamáhejte se.
 
@@ -242,7 +242,7 @@ Pokud PH přetékají body osudu, nebo jde o klíčový moment příběhu, kdy j
 Určování obtížností na úrovni dovedností PH je, jak si můžete představit, takový mezistupeň těchto dvou extrémů. Udělejte to, když chcete nějaké napětí, aniž byste věci vyhrocovali, nebo když jsou okolnosti lehce ve prospěch postav, ale chcete mít nějaký citelný prvek rizika. 
 
 
-::: tip Důležité: odůvodňujte svá rozhodnutí
+::: card Důležité: odůvodňujte svá rozhodnutí
 
 Jediná další věc, které potřebujete při určování obtížností věnovat pozornost, je výše uvedené „Stříbrné pravidlo“ – musíte se ujistit, že vaše rozhodnutí dávají smysl v kontextu vyprávění, které vytváříte. Zatímco po vás nechceme, abyste bláznili s přílišnou snahou o modelování světa a tak sebe sami uvrhávali do zbytečných omezení („Zámky ve vesnici Glenwood jsou obecně Dobré kvality, kvůli jejich blízkosti k bohatým železným dolům“), nekoukejte na to ani jako na hru která je čistě o číslech. Pokud je vaším jediným důvodem k nastavení Výjimečné (+5) obtížnosti to, že to je o dvě vyšší, než úroveň dovednosti postavy a vy ji chcete vyšťavit na bodech osudu, ztrácíte důvěryhodnost.
 
@@ -250,6 +250,7 @@ V tomhle smyslu se můžete dívat na nastavování obtížností jako na hodně
 Tak nebo onak, nepřeskakujte ospravedlnění – buď dejte hráčům vědět, o co jde, když jim oznamujete obtížnost, nebo tajemně pokrčte rameny a dejte jim to vědět v zápětí (zhruba za takovou chvíli, kterou potřebují, aby jim to došlo).
 Můžete také zkusit používat „nemístné“ obtížnosti k naznačení přítomnosti nějaké nezodpovězené otázky ve hře – z nějakého podivného důvodu, stáje, do nichž se snažíte vloupat, mají na dveřích Velkolepý (+7) zámek. Co na nich může být tak důležitého, co nevíte?
 Nebo se možná snažíte dokončit plamenný iniciační test učeného Ametystového řádu a test je pouze Slušný (+2) hod na Učenost – o co jde? Ulehčují vám to? Je vaše přijetí politická nutnost? Kdo v tom tahal za nitky? Nebo je reputace učeného Řádu jen výmysl?
+:::
 
 ### Vyrovnání se s neobyčejným úspěchem
 
@@ -306,7 +307,7 @@ Podobně odměňte úspěch zkrácením potřebného času k vykonání něčeho
 
 Pokud je čas faktor, mělo byste být schopní používat i vyvolání a vynucení k manipulaci s časem, abyste věci udělali snazší nebo naopak složitější. („Hej, já ***Žiju motorama***, takže spravení auta by mi nemělo trvat tak dlouho, ne?“ „Oh, víš co? Tvoje karta říká, ***Nemůžu se nabažit zábavy a her...*** nedává smysl, že když se díváš po chlápkovi v kasinu, že se necháš rozptýlit a odlákat? Všechny ty automaty a tak…“)
 
-::: tip Jakému času by měl odpovídat jeden posun?
+::: card Jakému času by měl odpovídat jeden posun?
 
 Stejně jako v případě jiných hodů, počet posunů, které dostanete (nebo množství, o které selžete) by mělo sloužit jako barometr toho, jak zásadní skoky v čase budou. Takže jak se rozhodnete, jak moc odměníte nebo penalizujete?
 
@@ -487,7 +488,7 @@ Věci se více zkomplikují, pokud budete chtít vyfiltrovat specifické cíle, 
 
 Útok na celou zónu nebo na kohokoliv ve scéně je něco, co byste stejně jako jakékoliv jiné krajní použití dovednosti měli rozhodovat podle okolností, (viz str. 202 výše). V závislosti na kontextu vašeho herního prostředí to může být naprosto normální záležitost (například protože všichni používají granáty a výbušniny), může to být nemožné, nebo to může vyžadovat trik. Dokud to dokážete ospravedlnit, nemusíte používat žádná speciální pravidla – hodíte si na útok a všichni v zóně se brání jako obvykle. V závislosti na okolnostech se možná budete muset bránit svému vlastnímu hodu, pokud jste ve stejné zóně, do níž útok vedete! 
 
-::: tip Vynucení a vícenásobné cíle
+::: card Vynucení a vícenásobné cíle
 
 Jen rychlá poznámka: Hráči, kteří si chtějí vynutit svou cestu ven zkonfliktu, nedostanou za zasahování vícenásobných cílů žádné volňásky, bez ohledu na to, zda vynucení odůvodňuje jeden aspekt nebo hned několik. Hráč musí utratit jeden bod osudu za každý cíl, na němž chce vynucovat. Jeden bod osudu vynucuje na jednom cíli, tečka.
 :::
@@ -656,21 +657,21 @@ Pokud se situace stane komplikovanější, přejděte namísto toho do výzvy. T
 
 Bezejmenné PV nemusí zůstat bezejmenné. Rozhodnou-li se hráči poznat barmana nebo městského vyvolavače nebo šéfa bezpečnosti nebo kohokoliv, jděte do toho a udělejte z nich skutečné osoby – to ale neznamená, že je musíte učinit jakkoliv mechanicky propracovanějšími. Pokud chcete, tak je samozřejmě klidně povyšte na pomocné PV. Ale jinak to, že jste tomu vyvolavači dali jméno a motivaci, neznamená, že ho nepůjde odrovnat jednou ranou. 
 
-::: tip Hostinský (Průměrný)
+::: card Hostinský (Průměrný)
 
 Aspekty:	***Nestojím tu o žádné problémy***
 
 Dovednosti:		Průměrné (+1) Kontakty
 :::
 
-::: tip Trénovaný násilník (Slušný)
+::: card Trénovaný násilník (Slušný)
 
 Aspekty:	***Pouliční manýry, Násilný kriminálník***
 
 Dovednosti:		Slušný (+2) Boj, Průměrná (+1) Atletika a Kondice
 :::
 
-::: tip Mág soudu Mystického bratrstva (Dobrý)
+::: card Mág soudu Mystického bratrstva (Dobrý)
 
 Aspekty:	***Namyšlené chování, Oddaný Tajným uměním***
 
@@ -693,7 +694,7 @@ Dovednosti pro pomocné PV by měly dodržovat rozdělení sloupců. Protože ji
 
 Nakonec to hráčům přímo ukazuje, že v zoufalé situaci je odstoupení z konfliktu přijatelný směr vývoje věcí. Občasná odstoupení PH zvyšují sázky a představují nové živelně vznikající komplikace, což oboje napomáhá tvorbě dramatického a podmanivého příběhu.
 
-::: tip Starý Finn, Landonův učitel
+::: card Starý Finn, Landonův učitel
 
 Aspekty:	***Kapitán Vinfeldské gardy ve výslužbě, Příliš starý na tyhle kraviny, Landonův učitel***
 
@@ -703,7 +704,7 @@ Triky:	Bitevní velitel. Může použít Boj k vytvoření taktické výhody v r
 :::
 
 
-::: tip Mrštný Teran, úchvatný zloděj
+::: card Mrštný Teran, úchvatný zloděj
 
 Aspekty: ***Kapsář a zmetek, Prostě si nemůžu pomoct***
 
@@ -713,7 +714,7 @@ Triky:	Jsem uvnitř. +2 na Skrývání když je uvnitř budov v městské zásta
 :::
 
 
-::: tip Og, Silák
+::: card Og, Silák
 
 Aspekty: ***Ogu znič!, Og ne moc chytrý***
 
@@ -729,7 +730,7 @@ Protože mají na svých kartách stejné věci jako PH, hlavní PV budou vyžad
 
 Můžete také dělat věci více za běhu, pokud potřebujete, a vytvářet si částečné karty s aspekty, které víte najisto, dovednostmi, které u nich určitě potřebujete, a triky, které chcete. Pak vyplníte zbytek tak, jak se bude objevovat. To je takřka jako tvorba podpůrných PV, až na to, že můžete na kartu během hry dopisovat.
 
-::: tip 
+::: card 
 
 Samozřejmě, pokud chcete, můžete touto metodou také povýšit některé z vašich pomocných PV na hlavní. Je to super v případech, kdy se pomocná PV náhle nebo postupně stane – obvykle díky hráčům – významnou součástí příběhu, bez ohledu na původní plány, které jste s ním měli. 
 :::
@@ -743,7 +744,7 @@ Takže pokud PH mají aktuální strop na Skvělé (+4), váš zlosyn jako hlavn
 Obdobně, značně významná PV může mít více než pět aspektů, aby se zvýraznila její důležitost v příběhu.
 
 
-::: tip Barathar, královna pašeráků Sindralského toku
+::: card Barathar, královna pašeráků Sindralského toku
 
 Aspekty:	
 
@@ -767,7 +768,7 @@ Dovednosti:
 Stres:	3 fyzické čtverečky, 4 duševní čtverečky 
 	
 Triky: **Každý je naivní.** K vytvoření výhody v sociálních situacích použijte Klamání namísto Empatie. **Mistrině fint.** +2 na Klamání k vytvoření výhody ve fyzickém konfliktu. **Riposta.** Pokud uspějete se stylem na obranu Bojem, můžete způsobit 2 posunový zásah namísto toho, abyste dostali posílení.
-
+:::
 
 ## Hraní protivníků
 

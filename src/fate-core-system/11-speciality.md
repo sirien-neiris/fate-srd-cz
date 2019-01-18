@@ -109,7 +109,7 @@ Vypravěči, pokud nechcete, aby si hráči vybírali mezi tím mít specialitu 
 
 Jakmile máte všechny prvky pohromadě, můžete je pro svou specialitu podrobně sepsat. Gratulujeme!
 
-::: tip Specialita: Magie Mystického bratrstva
+::: card Specialita: Magie Mystického bratrstva
 
 **Svolení:** Jeden aspekt vyjadřující že jsi byl vyučen Bratrstvem
 
@@ -125,6 +125,7 @@ Lidé, kteří jsou vyučeni Mystickým bratrstvem, jsou schopni využívat své
 
 **Obrana:** Použijte dovednost Učenost k obraně před nepřátelskou magií nebo jinými nadpřirozenými efekty.
 
+:::
 
 ## Speciality a zlepšování
 
@@ -164,7 +165,7 @@ Doporučujeme nastavit si škály pro zranění zbraní od 1 do 4 a pamatovat na
 > Zbraň:4 je vyhrazena pro velké, obouruční zbraně. Zbroj:4 je kompletní celoplátové brnění.
 
 
-::: tip Nulový součet je nudný
+::: card Nulový součet je nudný
 
 Než propadnete šílenství v tvorbě tabulek zbraní a zbrojí pro svou kampaň, měli byste se zastavit a zamyslet se nad tím, zda jejich zahrnutí skutečně způsobí takový rozdíl ve vašich konfliktních scénách.
 
@@ -191,7 +192,7 @@ Tadá, máte pár superschopností! (Tohle funguje, i když chcete herní prost�
 *Tohle všechno pochází ze hry jménem Chrome City, domova Simona – kybernetické opice. Je to v podstatě superhrdinská hra s kyberpunkovou stylizací a hrdina pochází ze společenství inteligentních, kyberneticky vylepšených opic praktikujících kung-fu.*
 
 
-::: tip Specialita: Energetický úder
+::: card Specialita: Energetický úder
 
 **Cena:** 2 body obnovy
 
@@ -201,14 +202,14 @@ Dostanete +2, když používáte své energetické údery k útoku nebo k vytvo�
 :::
 
 
-::: tip Spacialita: Supersíla
+::: card Spacialita: Supersíla
 
 **Cena:** 2-6 bodů obnovy
 
 Vaše útoky Bojem jsou hodnocené jako Zbraň:2 a všechny vaše užití Kondice na „hrubou sílu“ mají +2. Každé další 2 body obnovy které zaplatíte vám dají další +2 bonus.
 :::
 
-::: tip Specialita: Superrychlost
+::: card Specialita: Superrychlost
 
 **Cena:** 3 body obnovy
 
@@ -218,14 +219,14 @@ Získáte +2 na všechny obranné hody na Atletiku, stejně jako na střety záv
 Vyjma neprůchodných překážek, jako jsou pevné zdi ignorujete všechny situační aspekty, které omezují pohyb, a můžete se na začátku každé výměny v konfliktu umístit do kteréhkoliv zóny chcete, protože jste měli dost času se tam dostat.
 :::
 
-::: tip Spacialita: Superodolnost
+::: card Spacialita: Superodolnost
 
 **Cena:** 1-3 body obnovy
 
 Máte Zbroj:2 na všechny obranné hody proti fyzickému poškození. Každý další bod obnovy vám přidá další +2.
 :::
 
-::: tip Specialita: Rentgenové vidění
+::: card Specialita: Rentgenové vidění
 
 **Cena:** 2 body obnovyv
 
@@ -235,7 +236,7 @@ Také dokážete snáze zůstat ukryti, protože se můžete dívat, kde se nach
 :::
 
 
-::: tip Odstupňování schopností
+::: card Odstupňování schopností
 
 Jak můžete vidět, vybalancování schopností je ve Fate více záležitost umění, než vědy. Máme tu nějaká hrubá srovnání, o která se můžete opřít, jako že jeden bod osudu odpovídá jednomu vyvolání nebo jednomu triku, ale když se dostanete k psaní výjimek z pravidel, jako je ta u rentgenového vidění, nejsou zde žádná tvrdá nebo rychlá pravidla na to, co je příliš silné. Vše je relativní podle vaší chuti a Fate je těžké rozbít. 
 
@@ -256,7 +257,7 @@ Aspekt na vybavení může také poukazovat na nejlepší situaci k jeho využit
 Doporučujeme tak nepostupovat běžně a nedávat každému předmětu, který PH vlastní, aspekt nebo trik. Tohle je hra o vaší postavě, ne o jejím vybavení. Ve většině případů byste měli předpokládat, že pokud má vaše postava nějakou konkrétní dovednost, zahrnuje to také vlastnictví potřebného vybavení k jejímu efektivnímu využívání. Šetřete si speciality pro předměty, které mají jedinečnou nebo osobní hodnotu, pro něco, co nebudete permanentně měnit napříč vaší kampaní. 
 
 
-::: tip Rychlé a hrubé vybavení podle příběhu
+::: card Rychlé a hrubé vybavení podle příběhu
 
 Pokud nechcete řešit speciality, je tu způsob, jak se s vybavením vypořádat bez zbytečného okecávání: Přemýšlejte o něm jako o automaticky vytvořených výhodách, které vnesete do scény. Vypravěči, vy už beztak vkládáte věci jako Úzké uličky a ***Těžký terén*** – můžete to využít i k popisu situačních výhod, které postavy díky vybavení dostanou.
 
@@ -265,7 +266,7 @@ Tudíž pokud má PH plně automatickou pušku a jde po někom s pistolí, přid
 V těch vzácných situacích, kde budete mít naprosto ideální nástroj pro danou práci, můžete takto získaný aspekt, počítat, jako by byl „se stylem“, a dostat na něj dvě volná vyvolání. 
 :::
 
-::: tip Specialita: Démonobij, Očarovaný meč
+::: card Specialita: Démonobij, Očarovaný meč
 
 **Svolení:** Nalézt meč během hry
 
@@ -276,7 +277,7 @@ Meč Démonobij má apsket zvaný Ničitel démonů. Pokud jste nositelem meče,
 Navíc k tomu má vyvolání aspektu meče pár dalších zvláštních efektů: může zahnat jakoukoliv bezejmenou démonickou PV bez nutnosti konfliktu nebo střetu a vždy bez ohledu na další okolnosti dokáže odhalit přítomnost skrytého démona.
 :::
 
-::: tip Specialita: Soubojová pistole Brace Jovanniche
+::: card Specialita: Soubojová pistole Brace Jovanniche
 
 **Svolení:** Aspekt ***Bracův odkaz***
 
@@ -300,7 +301,7 @@ Pro takové případy potřebujete specifickou dovednost popisující novou sfé
 
 Další potenciální použití speciálních dovedností je vytyčit pro postavy ve hře velmi specifický prostor, do něhož mají přístup pouze někteří, takže v určité konkrétní situaci budete mít jen jednu postavu, na níž se budete spoléhat. Například namísto toho, abyste měli dovednost Boj, kterou si může vzít kdokoliv, můžete mít dovednost Válečnictví, a tu budou mít pouze PH Válečníků. Dobře to sedí například pro Caperovy příběhy, protože hranice v jejich fikci jsou již definované (plánovač, řidič a podvodník). Jen se ujistěte, že všichni chápou, že pokud bude v takovém nastavení někdo zkoušet jednat mimo žánrové hranice, tak se vám věci nejspíše velmi ošklivě zvrhnou. 
 
-::: tip Specialita: Rozhraní
+::: card Specialita: Rozhraní
 
 **Svolení:** Získání výbavy k rozhranní (předpokládá se automaticky, pokud si dovednost vezmete před hrou)
 
@@ -317,7 +318,7 @@ Dovednost Rozhraní vám umožňuje interagovat s počítači a technologickými
 **Obrana:** Použijte Rozhraní k obraně proti útokům z počítačových systémů. Selhání v hodu na obranu vám způsobí fyzický stres a následky – kybernetické rozhraní způsobuje, že dáváte svůj skutečný fyzický mozek v sázku.
 :::
 
-::: tip Specialita: Média
+::: card Specialita: Média
 
 **Svolení: Zařazení „mediálního“ archetypu při tvorbě postavy
 
@@ -346,7 +347,7 @@ Pokud chcete, aby zdroje vaší postavy byly konečné, podobně jako bohatství
 Můžete použít také něco podobného k vykreslení cti a reputace v herním prostředí, kde na tom záleží, jako je například feudální Japonsko. 
 
 
-::: tip Specialita: Majetek, přepracovaný
+::: card Specialita: Majetek, přepracovaný
 
 **Svolení:** Žádné, tuto dovednost si může vzít kdokoliv
 
@@ -363,7 +364,7 @@ K dovednosti Majetek přidejte následující akce:
 **Speciální:** Dovednost Majetek nyní přidává nové měřítko stresu na vaši kartu: majetkový stres. Můžete být donuceni přijmout majetkový stres kdykoliv kdy selžete v hodu využívajícím Majetek – v podstatě kdykoliv, kdy využijete své peníze, provádíte útok. Majetkový stres se neobnovuje tak rychle jako duševní nebo fyzický stres – měřítko se místo na začátku každé scény vyčistí na začátku každého herního sezení.
 :::
 
-::: tip 
+::: card 
 
 Jako zajímavou možnost vývoje můžete zvážit povolení trvalého zhoršení dovednosti Zdroje jako cenu za získání některých specialit, pokud jde o věci, které lze pořídit za peníze.
 :::
@@ -379,7 +380,7 @@ Pokud specialitě přidělíte její vlastní dovednosti, naznačujete tím, že
 
 *V této hře dostaly postavy dostatek bonusové obnovy, dovednostních úrovní a kolonek aspektů, aby je investovaly do plachetnic. Skupina se rozhodla investovat společně do jedné úžasné lodě.*
 
-::: tip Specialita: Galadriel
+::: card Specialita: Galadriel
 
 **Svolení:** Žádné; je brána jako součást herního konceptu
 
@@ -397,7 +398,7 @@ Pokud specialitě přidělíte její vlastní dovednosti, naznačujete tím, že
 
 *Toto je pro hru, v níž je každá PH vládcem samostatného státu svého národa ve fantasy světě a děj se hodně zabývá mezinárodní politikou. PH získávají samostatnou kartu postavy pro vytvoření jejich státu a národa.*
 
-::: tip Specialita: Ghiraulská Federace
+::: card Specialita: Ghiraulská Federace
 
 **Svolení:** Žádné; je brána jako součást herního konceptu
 
@@ -423,7 +424,7 @@ Když tvoříte magický systém, je extrémně důležité prodiskutovat jej p�
 
 *Lucas, kouzelnický polda, je PH ve Fate hře Dědičné problémy inspirované Hong Kongskými střílečkami, postavy v ní jsou speciální zásahová jednotka řešící nadpřirozené případy ve smyšleném městě San Jian, Kalifornie. V tomto herním prostředí musíte usměrňovat magické síly z prastarých, polobožských duchů. Schopnosti jsou specifické a založené na výběru z portfolia, tudíž duch vody bude udělovat odlišné výhody, než duch štěstěny. Lidé mají také karmické měřítko stresu odrážející nezdolnost jejich duše.*
 
-::: tip Specialita: Lukasovo Umění
+::: card Specialita: Lukasovo Umění
 
 **Svolení:** Žádné; kdokoliv se může spojit s duchy aby získal moc
 
@@ -434,7 +435,7 @@ Při tvorbě postav získáte tři další kolonky pro aspekty, které můžete 
 
 Abyste mohli používat prastaré síly, musíte si vzít novou dovednost zvanou Dorozumění.
 
-::: tip Dorozumění
+::: card Dorozumění
 
 Toto je dovednost ke sladění se s prastarými duchy a využívání jejich energie.
 
@@ -451,7 +452,7 @@ Speciální: Dorozumění přidává čtverečky stresu a kolonky následků va�
 
 Každý z pradávných duchů dostane také svou kartu, která popisuje jeho portfolio, obecnou filosofii a výhody, které může nabídnout. Abyste mohli tyto výhody získat a využít, musíte využít volných vyvolání získaných akcí vytvoření výhody za pomoci dovednosti Dorozumění (jinou dovednost k tomu využít nelze) nebo utracením dvou bodů osudu. Tato výhoda vám umožní bez házení říci, že se v příběhu prostě něco stalo.
 
-::: tip Sujan, duch ochrany
+::: card Sujan, duch ochrany
 
 **Portfolio:** Obrana a ochrana
 
@@ -466,7 +467,7 @@ Každý z pradávných duchů dostane také svou kartu, která popisuje jeho por
 
 *Tady je varianta pro fantasy hru s pevně vymezenými školami magie.*
 
-::: tip Specialita: Školy moci
+::: card Specialita: Školy moci
 
 **Svolení:** Jeden asepkt který určí, ke které skupině náležíte
 
@@ -478,7 +479,7 @@ V jeden moment můžete náležet jen k jednomu řádu a opustit tento řád a p
 :::
 
 
-::: tip Černá liga
+::: card Černá liga
 
 **Aspekty:** ***Klam je jedinou pravdou, Mrtví nad námi bdí, Zab ty co tě převyšují než oni zabijí tebe***
 

@@ -216,7 +216,7 @@ Ostatní musí souhlasit s relevancí konkrétního aspektu, když ho vyvolává
 
 Jak *přesně* tohle uděláte je na vás. Někdy dává smysl použít konkrétní aspekt jen tak, že dáte bod osudu a řeknete, že ho vyvoláváte. Jindy můžete potřebovat trochu více vykreslit akci vaší postavy, aby všichni pochopili, z čeho vycházíte. (Proto vám doporučujeme ujistit se, že všichni chápou stejně, co který aspekt znamená – je pak jednoduší vnášet je do hry.)
 
-::: tip Přehození vs. +2
+::: card Přehození vs. +2
 
 Přehazování kostek je trochu riskantnější, než vzít si +2 bonus, ale je potenciálně výhodnější. Doporučujeme vám ponechat si tuto možnost pro případy, kdy hodíte -3 nebo -4 na kostkách, abyste maximalizovali svou šanci, že z přehození dostanete výhodný výsledek. Šance je v takovém případě na vaší straně.
 :::
@@ -237,7 +237,7 @@ Pokud chcete více příkladů na vyvolávání aspektů, rozházeli jsme je nap
 Pokud jsou aspekty, které vyvoláváte, na kartě postavy někoho jiného, včetně situačních aspektů, které jsou k ní přiděleny, dáváte utracený bod osudu jejímu hráči. Ten je však nemůže nijak využít, dokud scéna neskončí.
 
 
-::: tip Trik s výpustkou
+::: card Trik s výpustkou
 
 Trik s výpustkou
 
@@ -265,7 +265,7 @@ Poté, co své volné vyvolání využijete, můžete aspekt dále vyvolávat za
 
 Pokud chcete, můžete předat své volné vyvolání jiné postavě. Tím můžete docílit živé týmové spolupráce mezi přáteli. Je to velmi užitečné v konfliktech, když chcete někomu umožnit fakt velkou ránu – nechte všechny, ať vytvoří výhodu, a pak předejte jejich volná vyvolání jednomu člověku, aby je všechna seskládal dohromady v jeden ohromný bonus.
 
-::: tip Pro veterány
+::: card Pro veterány
 V jiných Fate hrách se volná vyvolání nazývala „tagging“ („značkování“). Přišlo nám, že to je zbytečný slang navíc. Stále tomu tak můžete říkat, pokud chcete – hlavně když to vám a všem u stolu pomůže pravidlo pochopit.
 :::
 
@@ -287,7 +287,7 @@ Vypravěči, jako vždy tu jste konečnými soudci – nejen v tom, jak je výsl
 
 Nakonec, a tohle je velmi důležité: **pokud chce hráč vynucovat na jiném hráči, stojí jej bod osudu komplikaci navrhnout**. Vypravěč může vždy vynucovat zdarma a kterýkoliv hráč může navrhnout zdarma vynucení na své postavě. 
 
-::: tip Pro veterány
+::: card Pro veterány
 
 V jiných Fate hrách jste mohli vidět hráči iniciovaná vynucení jako „vyvolání efektu“. Přišlo nám, že je přehlednější nazývat to prostě vynucení, bez ohledu na to, od koho vzešlo.
 :::
@@ -335,14 +335,14 @@ Jak vidíte, skutečný dramatický dopad těchto vynucení není v tom, jaké r
 
 Část zahrnující rozhodnutí by měla být velmi očividná a mělo by to být něco, co by hráč stejně zamýšlel udělat. Totéž platí pro hráče vynucující na PV nebo vzájemně na PH – ujistěte se, že si dobře rozumíte v tom, co by PV nebo jiná postava mohly udělat, než navrhnete vynucení. 
 
-::: tip 
+::: card 
 
 Vypravěči, pamatujte, že hlavní odpovědnost za to, co postava říká a dělá, má hráč. Můžete nabídnout vynucení rozhodnutím, ale pokud hráč necítí, že to je něco, co by jeho postava udělala, nevynucujte si za to bod osudu. Namísto toho vyjednávejte podmínky vynucení, dokud nenajdete nějaké rozhodnutí, které hráč je ochotný udělat s komplikací, která na to navazuje. Pokud se na ničem neshodnete, nechte to být.
 :::
 
 Hráči, pokud potřebujete bod osudu, tohle je skutečně dobrý způsob, jak jej získat. Pokud vypravěči navrhnete pro svou postavu vynucení rozhodnutím, tak si v podstatě říkáte o to, aby se něco, co uděláte, nějak zvrtlo. Nemusíte mít ani žádnou komplikaci přímo namysli – jen signál vypravěči by měl být dostatečný na zahájení konverzace. Vypravěči, dokud vynucení nejsou slabá (myšleno pokud tu jsou nějaké dobré, šťavnaté komplikace), měli byste na ně přistoupit. Pokud je vynucení slabé, ptejte se ostatních ve skupině na nápady, dokud nevyskočí něco hmatatelnějšího. 
 
-::: tip
+::: card
 
 Pokud nabídnete vynucení rozhodnutím, ale nikdo se neshodne na tom, co by to rozhodnutí mělo být, nemělo by stát bod osudu jej odmítnout – prostě ho nechte být. Odmítnout vynucení založeného na rozhodnutí by mělo znamenat, že část „toho co se zvrhlo“ se neodehrála.
 :::
@@ -412,7 +412,7 @@ U některých dovednostmi bude dávat větší smysl spojit výhodu s nějakým 
 Pokud nechcete volné vyvolání a pouze si myslíte, že by dávalo smysl, aby nějaký aspekt byl ve hře, **nemusíte na vytvoření nových aspektů házet kostkami – prostě je navrhněte, a když si i ostatní budou myslet, že to je zajímavé, vložte je do hry**.
 
 
-::: tip Pro vypravěče: Extrémně mocný vypravěčský ninja trik
+::: card Pro vypravěče: Extrémně mocný vypravěčský ninja trik
 
 Pokud nemáte pro scénu nebo PV žádné aspekty, tak se prostě zeptejte hráčů, jaké aspekty chtějí vytvořit, až si budou házet na vytvoření výhody. Pokud hodí nerozhodně nebo uspějí, napište si něco podobného tomu, co chtěli, a řekněte, že měli pravdu. Pokud selžou, napište si to stejně, nebo napište nějaký jiný aspekt, který jim nedává výhodu v kontrastu k jejich očekáváním.
 :::
@@ -446,7 +446,7 @@ Tady je, jak to funguje.
 
 Každý hráč dostane do začátku každého sezení určité množství bodů osudu. Jejich počet je nazýván **míra obnovy**. V základu je míra obnovy začínající postavy tři body osudu, ale můžete se rozhodnout utratit až dva body vaší obnovy na nákup dodatečných triků.
 
-::: tip Triky a Obnova
+::: card Triky a Obnova
 
 Tři triky = Obnova 3
 Čtyři triky = Obnova 2
