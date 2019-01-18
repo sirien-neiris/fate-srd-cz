@@ -1,4 +1,4 @@
-#9. Scény, sezení a scénáře
+# 9. Scény, sezení a scénáře
 
 ## Tak. A teď co?
 
