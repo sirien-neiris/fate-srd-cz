@@ -5,6 +5,17 @@ const FateCoreToc = {
         '/fate-core-system/1-zaklady',
         '/fate-core-system/2-tvorba-hry',
         '/fate-core-system/3-tvorba-postavy',
+        '/fate-core-system/4-aspekty-a-body-osudu',
+        '/fate-core-system/5-dovednosti-a-triky',
+        '/fate-core-system/6-akce-a-vysledky',
+        '/fate-core-system/7-vyzvy-strety-a-konflikty',
+        '/fate-core-system/8-vedeni-hry',
+        '/fate-core-system/9-sceny-sezeni-a-scenare',
+        '/fate-core-system/10-dlouha-hra',
+        '/fate-core-system/11-speciality',
+        '/fate-core-system/ke-stazeni-a-odkazy',
+        '/fate-core-system/prehled',
+        '/fate-core-system/prirucka-veterana',
     ]
 };
 
