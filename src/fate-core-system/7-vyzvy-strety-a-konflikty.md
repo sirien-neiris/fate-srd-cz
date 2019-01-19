@@ -114,17 +114,17 @@ Hráči, když provádíte hod ve střetu, porovnejte výsledky jeden s druhým.
 
 > V první výměně to Lily za Cynere padne špatně a skončí jen na Průměru (+1). Amandě na kostkách padne 0 a zůstane na Dobrém (+3) výsledku. Amanda má víc, takže Teran vyhrává výměnu a získává 1 vítězství. Amanda popíše, jak Teran dokončuje první významnou runu rituálu a ve vzduchu se objevuje plápolavá zelená záře.
 
-![karticka se skore stretu](~./image/152-1-skore-karticky.jpg)
+![karticka se skore stretu](~./images/152-1-skore-karticky.jpg)
 
 > V druhé výměně se pro Lily věci obrátí, hodí si velmi dobře a získá Vynikající (+5) výsledek, zatímco Amanda se za Terana dostane jen na Slušný (+2). To je pro Lily úspěch se stykem, takže si zapíše dvě vítězství a převezme tak vedení. Lily popíše, jak se naplno rozeběhla Teranovi vstříc.
 
-![karticka se skore stretu](~./image/152-2-skore-karticky.jpg)
+![karticka se skore stretu](~./images/152-2-skore-karticky.jpg)
 
 > Ve třetí výměně dojde k remíze na Dobrém (+3) výsledku! Amanda teď musí ve střetu představit nějaký nečekaný zvrat. Krátce se nad tím zamyslí a pak prohlásí: „Fajn, takže to vypadá, že nějaké magické ingredience z váčku na Zirdově opasku nějak podivně zareagovaly s Teranovým kouzlem, což okolí zaplnilo ***Magickými výboji***.“ Tento situační aspekt napíše na kartičku a položí na stůl.
 
 > Ve čtvrté výměně dojde k další remíze, tentokrát na Skvělém (+4) výsledku. Lily ale prohlásí: „Zapomeň na to. Chci vyvolat dva aspekty. Zaprvé ***Kreju Zirdovi záda*** z mojí karty a zadruhé ***Magické výboje***, protože si jsem jistá že ty interagují mnohem víc se sesíláním kouzla než s běháním.“ S tím Amandě předá dva body osudu.
 
-![karticka se skore stretu](~./image/152-3-skore-karticky.jpg)
+![karticka se skore stretu](~./images/152-3-skore-karticky.jpg)
 
 > To posune její celkový výsledek na Legendární (+8), což je další úspěch se stylem a další dvě vítězství. To jí dává čtyři vítězství na jedno Teranovo, čímž vyhrává výměnu i celý střet!
 
@@ -162,9 +162,9 @@ Vytvoření konfliktu je trochu složitější, než vytvoření střetu či vý
 * Vykreslení scény, popis prostředí, v němž se konflikt odehrává, vytvoření situačních aspektů a **zón** a určení, kdo je účastníkem a na které je straně.
 * Určení pořadí jednání.
 * Zahájení první výměny:
- * Ve svém tahu udělejte akci a pak ji vyhodnoťte.
- * V tazích ostatních se braňte, nebo na jejich akce reagujte, jak je potřeba.
- * Po ukončení jednání všech postav začněte znovu s novou výměnou
+  * Ve svém tahu udělejte akci a pak ji vyhodnoťte.
+  * V tazích ostatních se braňte, nebo na jejich akce reagujte, jak je potřeba.
+  * Po ukončení jednání všech postav začněte znovu s novou výměnou
 
 Konflikt skončí v okamžiku, kdy všichni na jedné ze stran odstoupili nebo byli vyřazeni.
 
@@ -201,7 +201,7 @@ Dobré možnosti pro situační aspekty zahrnují:
 
 > Rozhodne se, že tam je dost přepravek na to, aby mohly znesnadnit volný pohyb po okolí, takže vytvoří aspekty ***Těžké přepravky*** a ***Stísněný prostor***. Vrata pro nakládání jsou otevřená, což znamená, že tam je velký prostor zaplněný vodou, takže k tomu přidá ještě situační aspekt ***Otevřené k vodě***, protože jí přijde, že by se tam někdo mohl pokusit někoho shodit.
 
-Jak se scéna rozvíjí, hráči mohou navrhovat vlastnosti prostředí, které jsou perfektní jako aspekty. Pokud vypravěč popíše scénu jako slabě osvětlenou, hráč by měl být schopný vyvolat Stíny, aby mu pomohly v hodu na Skrývání, i když dříve nebyly ustanoveny jako aspekt. Pokud by prvek vyžadoval nějaký zásah ve scéně ze strany postavy, aby se stal hodný aspektu, pak je na dosah akce vytvoření výhody. Obvykle se stodola neoctne ***V plamenech!***, aniž by někdo neskopl lucernu. Obvykle.
+Jak se scéna rozvíjí, hráči mohou navrhovat vlastnosti prostředí, které jsou perfektní jako aspekty. Pokud vypravěč popíše scénu jako slabě osvětlenou, hráč by měl být schopný vyvolat Stíny, aby mu pomohly v hodu na Skrývání, i když dříve nebyly ustanoveny jako aspekt. Pokud by prvek vyžadoval nějaký zásah ve scéně ze strany postavy, aby se stal hodný aspektu, pak je na dosah akce vytvoření výhody. Obvykle se stodola neoctne _**V plamenech!**_, aniž by někdo neskopl lucernu. Obvykle.
 
 ::: card Situační aspekty a zóny v duševním konfliktu
 
