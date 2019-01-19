@@ -2,7 +2,7 @@
 
 ## Je čas na akci!
 
-Kostkami házíte, když vám nějaký druh zajímavé opozice brání v dosažení vašich cílů. Pokud nemáte zajímavou opozici, prostě udělejte, cokoliv říkáte, že se udělat pokoušíte. 
+**Kostkami házíte, když vám nějaký druh zajímavé opozice brání v dosažení vašich cílů.** Pokud nemáte zajímavou opozici, prostě udělejte, cokoliv říkáte, že se udělat pokoušíte. 
 Jak jsme řekli v předchozích kapitolách, postavy ve hře Fate řeší své problémy proaktivně. Během scén toho jako hráči budete dělat hodně – budete se vloupávat do záporákovy pevnosti, pilotovat vesmírné lodě minovými poli, shromažďovat lidi k protestům nebo se ptát v sítích informátorů po posledních novinkách z ulice.
 Kdykoliv budete jednat, je velká šance, že vám něco nebo někdo bude stát v cestě. Nebyl by to zajímavý příběh, kdyby to padouch prostě zabalil a předal vám vítězství na stříbrném podnose – je jasné, že má nějaká bezpečnostní opatření, aby si vás držel od těla. Nebo jsou miny nestabilní a už kolem vás vybuchují. Nebo jsou protestující skutečně vystrašení z policie. Nebo někdo podplatil informátory, aby mlčeli.
 
@@ -10,7 +10,7 @@ Tehdy je čas vytáhnout kostky.
 
 * Vyberte dovednost postavy, která je k akci vhodná.
 * Hoďte si čtyřmi Fate kostkami.
-* Symboly, které na kostkách padnou, sečtěte dohromady. <span class="fate-font">+</span> znamená +1, <span class="fate-font">-</span> znamená -1 a <span class="fate-font"0+</span> je 0.
+* Symboly, které na kostkách padnou, sečtěte dohromady. <span class="fate-font">+</span> znamená +1, <span class="fate-font">-</span> znamená -1 a <span class="fate-font">0</span> je 0.
 * K hodu přičtěte hodnocení dovednosti. Součet je váš výsledek na žebříčku.
 * Pokud vyvoláte aspekt, přidejte si k výsledku +2 nebo kostky přehoďte.
 
@@ -50,7 +50,8 @@ Někdy se dostanete do krajních případů, kdy se něco nezosobněného bude z
 
 ## Čtyři výsledky
 
-Pokud hodíte kostkami, tak buď selžete, remízujete, uspějete nebo uspějete se stylem.
+**Pokud hodíte kostkami, tak buď selžete, remízujete, uspějete nebo uspějete se stylem.**
+
 Obecně řečeno, každý hod ve Fate skončí jedním z těchto čtyř způsobů. Detaily se mohou trochu změnit v závislosti na vámi prováděné akci, ale všechny herní akce odpovídají tomuto vzoru.
 
 ### Selhání
@@ -181,13 +182,13 @@ Pokud vytváříte výhodu, abyste vytvořili nový aspekt…
 
 > Hluboko v Yarzuruckých jeskyních je Cynere přinucena bojovat s pár oživlými chrámovými golemy a dostala se při tom do v nezáviděníhodné pozice.
 
-> Prvních pár výměn pro ni nebylo úplně šťastných a obdržela během nich několik ošklivých zásahů. Lily prohodí: „Amando, říkala jsi, že tam je spousta rituálních pomůcek a různého nábytku a krámů válejících se oklo?“
+> Prvních pár **výměn** pro ni nebylo úplně šťastných a obdržela během nich několik ošklivých zásahů. Lily prohodí: „Amando, říkala jsi, že tam je spousta rituálních pomůcek a různého nábytku a krámů válejících se oklo?“
 
 > Amanda přikývne a Lily se zeptá: „Můžu jim něco z toho shodit do cesty? Přijde mi, že takhle velcí, neohrabaní golemové nejsou zdaleka tak obratní jako já.“
 
 > Amanda soulasí: „To mi přijde fér. Zní to jako pokus o vytvoření výhody Atletikou. Jeden z nich si proti tobě hodí na obranu, protože je dost blízko, aby Ti to mohl překazit.“
 
-> Cynere má Atletiku na Skvělé (+4) úrovni. Lily si hodí a dostane +1, což jí dá Vynikající (+5) výsledek. Nejbližší golem si hodí na obranu a dostane pouze Slušný (+2) výsledek. Cynere uspěje se stylem! Lily na scénu umístí aspekt Harampádí na podlaze a poznamená si, že jej může dvakrát vyvolat zdarma.
+> Cynere má Atletiku na Skvělé (+4) úrovni. Lily si hodí a dostane +1, což jí dá Vynikající (+5) výsledek. Nejbližší golem si hodí na obranu a dostane pouze Slušný (+2) výsledek. Cynere uspěje se stylem! Lily na scénu umístí aspekt ***Harampádí na podlaze*** a poznamená si, že jej může dvakrát vyvolat zdarma.
 
 > Amanda popíše, jak se harampádí plete golemům pod nohy a dává tak Cynere malou výhodu do příští výměny...
 
@@ -214,6 +215,8 @@ Pokud tvoříte výhodu na již existující aspekt…
 > Amanda se ušklíbne. „Rozhodně mu připadáš přátelský...“
 
 > Ryan protočí oči do stropu. „Co všechno já pro kšeft neudělám...“
+
+![karticka aspektu](~./images/139-karticky.jpg)
 
 
 ### Útok
