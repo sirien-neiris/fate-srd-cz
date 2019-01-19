@@ -180,7 +180,7 @@ Pokud nedokážete vymyslet žádný zajímavý důsledek pro oba výsledky, pak
 
 Pokud se snažíte vymyslet, zda máte dobrý důvod vyžádat si od PH hod na překonání, podívejte se na aspekty ve vaší scéně. Pokud existuje aspekt naznačující nějaké trable nebo problém pro PH, řekněte si o hod na překonání. Pokud ne a vy nedokážete vymyslet zajímavé důsledky selhání, nenamáhejte se.
 
-Například, pokud se postava snaží rychle přeběhnout napříč pokojem, a vy máte situační aspekt jako Bordel na podlaze, dává smysl říci si o hod, aby se mohla pohnout. Pokud tam žádný takový aspekt není, prostě ji nechte provést pohyb a pokračujte něčím zajímavějším.
+Například, pokud se postava snaží rychle přeběhnout napříč pokojem, a vy máte situační aspekt jako **Bordel na podlaze**, dává smysl říci si o hod, aby se mohla pohnout. Pokud tam žádný takový aspekt není, prostě ji nechte provést pohyb a pokračujte něčím zajímavějším.
 :::
 
 
@@ -297,7 +297,7 @@ Nemusíte se ale omezovat jen na tyto dvě. Pokud nastavíte pevný termín pro 
 
 Samozřejmě, nebyla by to zábava, kdyby nebylo nic, co by mohlo časově omezenou situaci zlepšit a nebyla by to zábava, kdyby propracovávání se ke lhůtě šlo předvídatelně. 
 
-#####Používání příběhového času při úspěchu a neúspěchu
+##### Používání příběhového času při úspěchu a neúspěchu
 
 Tudíž, když používáte příběhový čas k vytvoření tlaku, klidně zapojte nepředvídatelné skoky v čase, když se postavám v hodech daří velmi dobře nebo velmi špatně. 
 
@@ -696,31 +696,32 @@ Nakonec to hráčům přímo ukazuje, že v zoufalé situaci je odstoupení z ko
 
 ::: card Starý Finn, Landonův učitel
 
-Aspekty:	***Kapitán Vinfeldské gardy ve výslužbě, Příliš starý na tyhle kraviny, Landonův učitel***
+**Aspekty:**	***Kapitán Vinfeldské gardy ve výslužbě, Příliš starý na tyhle kraviny, Landonův učitel***
 
-Dovednosti:	Skvělá (+4) Střelba, Dobrý (+3) Boj, Slušná (+2) Vůle, Průměrná (+1) Atletika
+**Dovednosti:**	Skvělá (+4) Střelba, Dobrý (+3) Boj, Slušná (+2) Vůle, Průměrná (+1) Atletika
 
-Triky:	Bitevní velitel. Může použít Boj k vytvoření taktické výhody v rozsáhlých bojích.
+**Triky:**	**Bitevní velitel.** Může použít Boj k vytvoření taktické výhody v rozsáhlých bojích.
 :::
 
 
 ::: card Mrštný Teran, úchvatný zloděj
 
-Aspekty: ***Kapsář a zmetek, Prostě si nemůžu pomoct***
+**Aspekty:** ***Kapsář a zmetek, Prostě si nemůžu pomoct***
 
-Dovednosti:		Vynikající (+5) Zlodějna, Skvělé (+4) Skrývání, Dobrá (+3) Učenost, Slušný (+2) Boj, Průměrná (+1) Kondice \[pozn.: 3 čtverečky fyzického stresu]
+**Dovednosti:**		Vynikající (+5) Zlodějna, Skvělé (+4) Skrývání, Dobrá (+3) Učenost, Slušný (+2) Boj, Průměrná (+1) Kondice \[pozn.: 3 čtverečky fyzického stresu]
 
-Triky:	Jsem uvnitř. +2 na Skrývání když je uvnitř budov v městské zástavbě
+**Triky:**	**Jsem uvnitř.** +2 na Skrývání když je uvnitř budov v městské zástavbě
 :::
 
 
 ::: card Og, Silák
 
-Aspekty: ***Ogu znič!, Og ne moc chytrý***
+**Aspekty:** ***Ogu znič!, Og ne moc chytrý***
 
-Dovednosti:	Fantastický (+6) Boj, Vynikající (+5) Kondice \[pozn.: 4 čtverečky fyzického stresu, 1 další drobný následek pro fyzické konflikty], Skvělá (+4) Atletika
+**Dovednosti:**	Fantastický (+6) Boj, Vynikající (+5) Kondice \[pozn.: 4 čtverečky fyzického stresu, 1 další drobný následek pro fyzické konflikty], Skvělá (+4) Atletika
 
-Triky:	žádné 
+**Triky:**	žádné 
+:::
 
 
 #### Hlavní PV
@@ -746,7 +747,7 @@ Obdobně, značně významná PV může mít více než pět aspektů, aby se zv
 
 ::: card Barathar, královna pašeráků Sindralského toku
 
-Aspekty:	
+**Aspekty:**	
 
 * ***Královna pašeráků Sindralského toku***
 * ***Z většiny loajální posádka***
@@ -756,7 +757,7 @@ Aspekty:
 * ***Harém násilníků***
 * ***Zákon mám pod pantoflem***
 
-Dovednosti:		
+**Dovednosti:**		
 
 * Fantastické (+6) Klamání a Boj
 * Vynikající (+5) Střelba a Zlodějna
@@ -765,9 +766,13 @@ Dovednosti:
 * Slušná (+2) Řemesla a Skrývání
 * Průměrná (+1) Učenost a Kondice
 
-Stres:	3 fyzické čtverečky, 4 duševní čtverečky 
+**Stres:**	3 fyzické čtverečky, 4 duševní čtverečky 
 	
-Triky: **Každý je naivní.** K vytvoření výhody v sociálních situacích použijte Klamání namísto Empatie. **Mistrině fint.** +2 na Klamání k vytvoření výhody ve fyzickém konfliktu. **Riposta.** Pokud uspějete se stylem na obranu Bojem, můžete způsobit 2 posunový zásah namísto toho, abyste dostali posílení.
+**Triky:** 
+
+* **Každý je naivní.** K vytvoření výhody v sociálních situacích použijte Klamání namísto Empatie. 
+* **Mistrině fint.** +2 na Klamání k vytvoření výhody ve fyzickém konfliktu. 
+* **Riposta.** Pokud uspějete se stylem na obranu Bojem, můžete způsobit 2 posunový zásah namísto toho, abyste dostali posílení.
 :::
 
 ## Hraní protivníků
