@@ -28,7 +28,7 @@ Ačkoliv tu jsou pouze čtyři akce, s nimiž se všechny dovednosti pojí, dove
 
 ## Definice triků
 
-Trik je zvláštní vlastnost, kterou má vaše postava a která mění způsob toho, jak pro vás dovednost funguje. Triky označují něco zvláštního, privilegovaný způsob, kterým postava dovednost používá a který je unikátní pro každého, kdo onen trik má, což je velmi častý prvek v mnoha herních prostředích – speciální nebo špičkový trénink, neobyčejný talent, poznamenání osudem, genetické změny, vrozená úchvatnost a miriáda jiných důvodů k vysvětlení, proč někteří lidé dokáží ze svých dovedností dostat více, než jiní. 
+**Trik** je zvláštní vlastnost, kterou má vaše postava a která mění způsob toho, jak pro vás dovednost funguje. Triky označují něco zvláštního, privilegovaný způsob, kterým postava dovednost používá a který je unikátní pro každého, kdo onen trik má, což je velmi častý prvek v mnoha herních prostředích – speciální nebo špičkový trénink, neobyčejný talent, poznamenání osudem, genetické změny, vrozená úchvatnost a miriáda jiných důvodů k vysvětlení, proč někteří lidé dokáží ze svých dovedností dostat více, než jiní. 
 
 Zatímco dovednosti jsou takové ty věci, které může udělat v kampani kdokoliv, triky jsou o jednotlivých postavách. Z toho důvodu je několik dalších stran věnováno tvorbě vašich vlastních triků, ale také tu najdete nějaké triky na ukázku uvedené pod každou dovedností v základním seznamu.
 
@@ -66,7 +66,10 @@ Tady jsou nějaké nové trikové akce:
 * **Rvát se jak pes.** Můžete použít Provokaci ve střetech, na které byste normálně potřebovali Kondici, kdykoliv je možné brát v potaz schopnost vytočit vašeho oponenta pouhou silou vaší osobnosti.
 * **Nikdy nejste v bezpečí.** Můžete použít Zlodějnu k provedení duševních útoků a vytváření výhod proti cíli, kdykoliv zrežírujete loupež způsobem, který naruší jeho důvěru ve vlastní bezpečnost.
 
-:: tip
+![trik z karty postavy](~./image/89-zapis-triku.jpg)
+
+
+:: card
 
 To, že trik máte, ještě neznamená, že ho musíte použít vždy, kdy to je relevantní. Používání triků je vždy vaše volba a pokud si myslíte, že by to nebylo vhodné, nebo když prostě nechcete, můžete se rozhodnout trik nepoužít. 
 
@@ -148,7 +151,7 @@ Naše nejlepší rada pro rozhodování o tom, co velmi silný znamená, je: pok
 
 ### Rodiny triků
 
-Chcete-li jít u nějakého typu tréninku nebo talentu do detailu, můžete k tomu vytvořit rodiny triků. To je skupina triků, které jsou k sobě vztažené a nějak svázané.
+Chcete-li jít u nějakého typu tréninku nebo talentu do detailu, můžete k tomu vytvořit **rodiny triků**. To je skupina triků, které jsou k sobě vztažené a nějak svázané.
 
 To vám ve vašem herním prostředí umožní vytvořit věci jako bojová umění nebo elitní školy a zobrazit výhody, které takové věci přináší. Také vám to pomáhá určit, jaké typy speciálních schopnosti jsou k dispozici, pokud chcete hru s dojmem rozdílných „povolání“ postav – můžete mít rodiny triků jako třeba „Špičkový pilot“ nebo „Kočičí lupič“.
 
@@ -180,7 +183,7 @@ Jako příklad, jak to funguje, se podívejme na dovednost Klamání. Podíváte
 
 Takže náš první trik si vytvořme třeba nějak takto:
 
-* **Pohotovost. Získáte +2 na překonání překážek Klamáním, za předpokladu, že k překonání klamané osoby s ní nemusíte mluvit více než jen v pár větách.
+* **Pohotovost.** Získáte +2 na překonání překážek Klamáním, za předpokladu, že k překonání klamané osoby s ní nemusíte mluvit více než jen v pár větách.
 
 Tady jsou potenciální možnosti k větvení takového triku:
 
@@ -213,7 +216,7 @@ Některé dovednosti, jako Střelba nebo Řemesla, naznačují potřebu mít vyb
 ### Seznam dovedností
 
 | **Dovednost** | **Překonání** | **Vytvoření výhody** | **Útok** | **Obrana** | 
-| :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Atletika | **X** | **X** |  | **X** | 
 | Boj | **X** | **X** | **X** | **X** | 
 | Empatie | **X** | **X** |  | **X** | 
@@ -257,7 +260,7 @@ Můžete se rozhodnout, že je Atletika nevhodná k obraně proti střelným zbr
 
 * **Sprinter.** Aniž byste si házeli, můžete se během konfliktu pohnout zdarma o dvě zóny namísto jedné, za předpokladu, že vám v tom nebrání žádné situační aspekty.
 * **Tvrdý parkour.** +2 na akce překonávání s Atletikou pokud jste v honičce po střechách nebo v jiném riskantním terénu
-* **Omračující protiúder.** Když uspějete stylově při obraně proti protivníkovu hodu na Boj, automaticky mu vracíte omračující ránu nebo nějaký typ nervového úderu. Přidělte oponentovi situační aspekt Omráčený s volným vyvoláním namísto obyčejného posílení. 
+* **Omračující protiúder.** Když uspějete stylově při obraně proti protivníkovu hodu na Boj, automaticky mu vracíte omračující ránu nebo nějaký typ nervového úderu. Přidělte oponentovi situační aspekt ***Omráčený*** s volným vyvoláním namísto obyčejného posílení. 
 
 
 ### Boj
@@ -364,12 +367,12 @@ Ve vaší hře toto rozdělení nemusíte shledat natolik potřebným, abyste m�
 
 #### Kondiční triky
 
-* **Zápasník.* ** +2 na Kondiční hody pro získání výhody nad nepřítelem pomocí zaklesnutí se nebo jeho chycení.
+* **Zápasník.** +2 na Kondiční hody pro získání výhody nad nepřítelem pomocí zaklesnutí se nebo jeho chycení.
 * **Drsňák.** Můžete použít Kondici k obraně proti Bojovým útokům pěstmi nebo tupými nástroji, ale v případě remízy dostanete 1 posun stresu.
 * **Nezdolný.** Jednou za sezení můžete za bod osudu snížit závažnost následku fyzické podstaty z mírného na drobný (je-li vaše kolonka mírného následku volná) nebo úplně odmazat drobný následek.
 
 
-## Kontakty
+### Kontakty
 
 Kontakty jsou dovednost vyjadřující známosti a jejich vytváření. Předpokládá odbornost ve všech způsobech seznamování se a tvorby kontaktů, které jsou v herním prostředí dostupné.
 
@@ -393,7 +396,7 @@ Kontakty mohou být využité také k vytvoření aspektu, který reprezentuje v
 * **Síla reputace.** Můžete využít Kontakty namísto Provokace, abyste vytvořili výhodu na základě strachu vycházejícího ze zlověstné reputace, kterou jste si vytvořili pro sebe a své pochybné konexe. Měli byste mít vhodný aspekt spojený s tímto trikem.
 
 
-## Majetek
+### Majetek
 
 Majetek popisuje obecnou úroveň materiálního bohatství vaší postavy v herním světě a její schopnost je využít. Liší se podle toho, jak v konkrétním herním prostředí  bohatství reprezentujete a nemusí to nutně znamenat hotovost – ve středověké hře to může být vázáno k půdě nebo vazalům stejně jako k zlatu; v moderní době to může znamenat několik kvalitních kreditek.
 
@@ -445,7 +448,7 @@ Všimněte si, že není záležitostí vypravěče říkat si o hody na Pozorno
 * **Střelba od boku.** Můžete použít Pozorování namísto Střelby, abyste udělali rychlý, reflexivní výstřel bez míření. Nicméně protože jednáte bezmyšlenkovitě, nemůžete říci přesně, na koho střílíte, předtím, než tento trik použijete. Takže, například, můžete být schopni tímto trikem střelit někoho, koho se vidíte hýbat v křoví, ale už nedokážete říci, zda to je přítel nebo nepřítel předtím, než stisknete spoušť. Volte rozvážně!
 
 
-## Provokace
+### Provokace
 
 Provokace je dovednost o rozčilování lidí a vyvolávání negativních emotivních reakcí – strachu, hněvu, studu, atp. Je to dovednost „být šmejd“.
 
@@ -468,7 +471,7 @@ Tato dovednost vyžaduje, aby cíl mohl cítit emoce – roboti a zombie zpravid
 * **Ok, v pohodě!** Můžete použít Provokaci namísto Empatie, abyste zjistili protivníkovy aspekty tím, že ho provokujete, dokud je neodhalí. Cíl se vám brání Vůlí. (Pokud si vypravěč myslí, že je aspekt značně zranitelný vaším agresivním přístupem, dostanete bonus +2.)
 
 
-## Řemesla
+### Řemesla
 
 Řemesla jsou dovednost práce se stroji, k dobrému nebo špatnému.
 
@@ -503,7 +506,7 @@ Pokud je budování konstruktů a tvoření věcí důležitou částí vaší h
 * **Chirurgické zásahy.** Když užíváte Řemesla v konfliktu zahrnujícím stroje, můžete odstranit nechtěné cíle v celé zóně útoku bez toho, abyste museli rozdělovat posuny (normálně byste museli rozdělit svůj hod mezi více cílů).
 
 
-## Řízení
+### Řízení
 Dovednost Řízení je celá o ovládání vozidel a rychle se pohybujících věcí.
 
 Stejně jako Řemesla, to, jak vypadá ve vašich hrách, závisí hodně na tom, kolik akce zamýšlíte mít uvnitř vozidel nebo jiných transportních prostředků, a jaké technologie jsou ve vašem herním prostředí k dispozici. 
@@ -538,7 +541,7 @@ Dovednost Skrývání vám umožňuje vyhnout se zpozorování, ať už se schov
 
 **Překonání:** Můžete použít Skrývání, abyste se dostali skrze jakoukoliv situaci, v níž je hlavní nenechat se spatřit. Plížení se kolem hlídek a strážných, ukrývání se před pronásledovateli, procházení místem bez zanechání důkazů a všechna další podobná využití jsou zastřešena Skrýváním.
 
-**Vytvoření výhody:** Skrývání budete používat hlavně k vytvoření aspektů na sobě samých, když si budete chystat dobrou pozici na útok nebo na přepadení v konfliktu. Tak můžete být Dobře schovaný, když kolem vás prochází stráže a těžit z toho, nebo Těžko k nalezení, když bojujete ve tmě.
+**Vytvoření výhody:** Skrývání budete používat hlavně k vytvoření aspektů na sobě samých, když si budete chystat dobrou pozici na útok nebo na přepadení v konfliktu. Tak můžete být ***Dobře schovaný***, když kolem vás prochází stráže a těžit z toho, nebo ***Těžko k nalezení***, když bojujete ve tmě.
 
 **Útok:** Skrývání se nepoužívá k útokům.
 
@@ -547,11 +550,11 @@ Dovednost Skrývání vám umožňuje vyhnout se zpozorování, ať už se schov
 #### Skrývací triky
 
 * **Tvář v davu.** +2 k hodům na Skrývání pro zapadnutí v davu. Co znamená „dav” záleží hlavně na prostředí – nástupní stanice metra bude muset být zalidněnější než malý bar.
-* **Ninja zmizení.** Jednou za scénu můžete zaplatit bod osudu a zmizet přímo z očí za použití kouřových patron nebo jiné mystické techniky. To vám dá posílení Zmizelý. Dokud jste skrytí, nikdo na vás nemůže útočit nebo vůči vám tvořit výhodu, dokud neuspěje na překonání v hodu na Pozornost, aby si všiml, kde jste (v podstatě to znamená, že musí obětovat výměnu, aby to zkusil.) Tento aspekt zmizí hned, co jej vyvoláte, nebo v okamžiku, kdy někdo uspěje v jeho překonání.
+* **Ninja zmizení.** Jednou za scénu můžete zaplatit bod osudu a zmizet přímo z očí za použití kouřových patron nebo jiné mystické techniky. To vám dá posílení ***Zmizelý***. Dokud jste skrytí, nikdo na vás nemůže útočit nebo vůči vám tvořit výhodu, dokud neuspěje na překonání v hodu na Pozornost, aby si všiml, kde jste (v podstatě to znamená, že musí obětovat výměnu, aby to zkusil.) Tento aspekt zmizí hned, co jej vyvoláte, nebo v okamžiku, kdy někdo uspěje v jeho překonání.
 * **Nejasný cíl.** Za předpokladu, že jste ve tmě nebo stínu, můžete použít Skrývání na obranu před útoky Střelbou proti nepřátelům, kteří jsou alespoň dvě zóny daleko.
 
 
-#### Střelba
+### Střelba
 
 Protějšek Boje, Střelba, je dovednost používaná pro zbraně na dálku, jak v konfliktu, tak na cíle, které vaší snaze je odstřelit aktivně neodporují (jako střed terče nebo široká strana stodoly).
 
@@ -563,7 +566,7 @@ Opět, stejně jako u Boje, pokud je ve vašem herním prostředí důležité r
 
 **Útok:** Tato dovednost slouží k fyzickému útoku. Oproti boji je můžete provádět od druhé zóny dál. (Někdy se vzdálenost mění podle zbraně.)
 
-**Obrana:** Střelba je zvláštní tím, že není moc obranná – k tomu používáte Atletiku. Mohli byste ji použít k tomu, abyste vytvořili krycí palbu – což může sloužit jako obrana vašim spojencům nebo tvořit opozici pro něčí pohyb – nicméně to může být snadno vyjádřeno vytvořením výhody (například ***Krycí palba*** nebo ***Krupobití střel***).
+**Obrana:** Střelba je zvláštní tím, že není moc obranná – k tomu používáte Atletiku. *Mohli byste* ji použít k tomu, abyste vytvořili krycí palbu – což může sloužit jako obrana vašim spojencům nebo tvořit opozici pro něčí pohyb – nicméně to může být snadno vyjádřeno vytvořením výhody (například ***Krycí palba*** nebo ***Krupobití střel***).
 
 #### Střelecké triky
 
@@ -678,29 +681,3 @@ V žánrech, které stojí na spoustě technologie, tato dovednost zahrnuje tak�
 * **Vždy mám zadní vrátka.** +2 k hodům na Zlodějnu pro hody na vytvoření výhody, kdykoliv se snažíte uniknout z lokace.
 * **Bezpečnostní odborník.** Nepotřebujete být přítomni, abyste poskytovali aktivní opozici někomu, kdo překonává bezpečnostní opatření, které jste umístili nebo na nich pracovali. (Normálně by postava házela proti pasivní opozici.)
 * **Co se šeptá.** Můžete použít Zlodějnu namísto Kontaktů kdykoliv jednáte s jinými zloději a zločinci.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
