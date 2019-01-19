@@ -56,6 +56,7 @@ Mrkněte na *Tvorbu hry*, pokud vás zajímá, jak tato hra vznikla. Karty posta
 
 Hráči, na kartách svých postav máte vše, co o svých PH potřebujete vědět — schopnosti, osobnost, důležité věci z jejich minulosti a všechny další zdroje, které postavy ve hře mají k dispozici. Zde máme ukázkovou kartu postavy ve Fate, na které si můžeme ukázat, z čeho se skládá.
 
+![komnetovana karta postavy](~./images/koment-karta-postavy.jpg)
 
 ### Obnova (str. 80)
 
