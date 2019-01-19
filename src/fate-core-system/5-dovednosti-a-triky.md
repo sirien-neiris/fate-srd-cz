@@ -66,7 +66,7 @@ Tady jsou nějaké nové trikové akce:
 * **Rvát se jak pes.** Můžete použít Provokaci ve střetech, na které byste normálně potřebovali Kondici, kdykoliv je možné brát v potaz schopnost vytočit vašeho oponenta pouhou silou vaší osobnosti.
 * **Nikdy nejste v bezpečí.** Můžete použít Zlodějnu k provedení duševních útoků a vytváření výhod proti cíli, kdykoliv zrežírujete loupež způsobem, který naruší jeho důvěru ve vlastní bezpečnost.
 
-![trik z karty postavy](~./image/89-zapis-triku.jpg)
+![trik z karty postavy](~./images/89-zapis-triku.jpg)
 
 
 :: card
