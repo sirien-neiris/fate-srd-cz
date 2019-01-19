@@ -69,7 +69,7 @@ Tady jsou nějaké nové trikové akce:
 ![trik z karty postavy](~./images/89-zapis-triku.jpg)
 
 
-:: card
+::: card
 
 To, že trik máte, ještě neznamená, že ho musíte použít vždy, kdy to je relevantní. Používání triků je vždy vaše volba a pokud si myslíte, že by to nebylo vhodné, nebo když prostě nechcete, můžete se rozhodnout trik nepoužít. 
 
