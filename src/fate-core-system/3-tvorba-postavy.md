@@ -260,7 +260,7 @@ Nakonec sepište shrnutí vašeho dobrodružství a přínos vaší postavy do
 > Jako aspekt si vezme ***Neodolám smutnému příběhu***, aby tím vystihla důvod, kvůli kterému se do věci zapojila.
 
 
-![karticky druhe faze](~./images/43-karticky.jpg)
+![karticky druhe faze](~./images/43-karticka.jpg)
 
 
 ### Fáze tři: Opětovné křížení cest
@@ -274,7 +274,7 @@ Jakmile jsou všichni hotovi s druhou fází, znovu si dobrodružství vyměn�
 
 Nyní máte pět aspektů a slušný kus pozadí k příběhu své postavy!
 
-![karticka treti faze](~./images/44-karticky.jpg)
+![karticka treti faze](~./images/44-karticka.jpg)
 
 
 ::: card Méně než tři hráči?
@@ -385,15 +385,15 @@ Můžete si přidat měřítko stresu, pokud postavy ve vaší hře trpí zvlá�
 
 > Landon má Dobrou (+3) Kondici, což mu přidává další dva čtverečky fyzického stresu. Jeho Vůle je sice pouze Průměrná (+1), ale i tak mu přidá jeden další čtvereček duševního stresu.
 
-![landonova meritka stresu](~./images/21-1-meritko-stresu.jpg)
+![landonova meritka stresu](~./images/51-1-meritko-stresu.jpg)
 
 > Cynere má Slušnou (+2) Kondici, takže dostane třetí čtvereček fyzického stresu. Její měřítko duševního stresu zůstane na dvou čtverečcích, protože má jen Nevalnou (+0) Vůli.
 
-![cynerina meritka stresu](~./images/21-2-meritko-stresu.jpg)
+![cynerina meritka stresu](~./images/51-2-meritko-stresu.jpg)
 
 > Tajemný Zird je spíš knihomol a má Nevalnou (+0) Kondici, takže má jen základní měřítko fyzického stresu se dvěma čtverečky. Má nicméně Slušnou (+2) Vůli, což mu přinese jeden bonusový čtvereček duševního stresu.
 
-![zirdova meritka stresu](~./images/21-3-meritko-stresu.jpg)
+![zirdova meritka stresu](~./images/51-3-meritko-stresu.jpg)
 
 > Protože žádná z postav nemá Vynikající (+5) nebo lepší Kondici ani Vůli, mají všechny základní počet následků: jeden drobný, jeden mírný a jeden vážný.
 
