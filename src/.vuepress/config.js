@@ -39,19 +39,22 @@ const ToolkitToc = {
 };
 
 module.exports = {
-    //host: "localhost",
+
     title: 'Fate SRD Czech',
     description: 'Český překlad fate SRD',
+
     themeConfig: {
         theme: '@vuepress/theme-default',
 
-        displayAllHeaders: false,
+        // horní navigace
         nav: [
             {
                 text: 'd20.cz',
                 link: 'http://www.d20.cz/'
             }
         ],
+
+        // boční menu
         sidebar: {
             '/': [
                 FateCoreToc,
@@ -59,25 +62,25 @@ module.exports = {
                 ToolkitToc,
             ]
         },
-        sidebarDepth: 2,
-        lastUpdated: 'Last Updated',
-        footer: 'Copyright © 2018-present d20.cz Team',
-        markdown: {
-            toc: {
-                includeLevel: [2,3]
-            }
-        },
 
+        displayAllHeaders: false,
+        sidebarDepth: 2,
+
+        // odkaz na repo
         repo: 'd20cz/fate-srd-cz',
         repoLabel: 'GitHub',
 
-
+        // odkazy na editaci
         docsRepo: 'd20cz/fate-srd-cz',
         docsDir: 'src',
         docsBranch: 'master',
         editLinks: true,
-        editLinkText: 'Editace stránky'
+
+        // locale
+        editLinkText: 'Editace stránky na GitHub',
+        lastUpdated: 'Poslední změna',
     },
+
     configureWebpack: {
         serve: {
             host: '0.0.0.0',
@@ -114,6 +117,30 @@ module.exports = {
                 }
             }
         });
+    },
+
+    plugins: [
+        ['@vuepress/last-updated', {
+            transformer: (timestamp, lang) => {
+                // Don't forget to install moment yourself
+                const moment = require('moment');
+                //moment.locale('cs');
+                moment.locale(lang);
+                return moment(timestamp).format('LLL');
+            }
+        }],
+        ['@vuepress/search', {
+            searchMaxSuggestions: 10
+        }],
+        ['@vuepress/medium-zoom'],
+        ['@vuepress/google-analytics', {
+            'ga': '' // UA-00000000-0
+        }]
+    ],
+    locales: {
+        '/': {
+            lang: 'cs',
+        }
     }
 };
 

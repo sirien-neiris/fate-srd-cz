@@ -8,7 +8,12 @@ WORKDIR /var/www/html
 RUN npm install -g vuepress@next
 RUN npm install markdown-it-deflist
 RUN npm install markdown-it-container
-#RUN npm install @vuepress/plugin-last-updated
+
+# RUN npm i @vuepress/plugin-search
+# RUN npm i @vuepress/plugin-google-analytics
+# RUN npm i @vuepress/plugin-medium-zoom
+
+RUN npm i moment
 
 WORKDIR /var/www/html
 
