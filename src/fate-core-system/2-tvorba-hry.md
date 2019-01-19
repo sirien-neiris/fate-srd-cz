@@ -55,7 +55,7 @@ Pokud využíváte již existující herní prostředí, například z nějak�
 
 Pokud si vytváříte vlastní herní prostředí, máte před sebou více práce. Popsat tvorbu celého herního prostředí je mimo rozsah této kapitoly; předpokládáme, že už víte, jak to udělat, pokud jste se pro to rozhodli. (Kromě toho, žijeme v rozsáhlém světě médií. Pokud nám nevěříte, mrkněte na **http://tvtropes.org**.) Nicméně přece jen jedna radu máme — nesnažte se vymýšlet příliš mnoho dopředu. Jak uvidíte v průběhu této kapitoly, spousta nápadů vznikne při samotném procesu tvorby hry a postav, detaily se dají dodat později.
 
-> Amanda, Lenny, Lily a Ryan se sešli, aby probrali herní prostředí. Všichni mají zájem o umírněnou fantasy hru, protože Lenny a Lily nedávno četli pár příběhů s Fafhrdem a Šedým Myšilovem. Dají dohromady koncept „dvou týpků a holky s meči“. Svět bude „vzdáleně středověký, taková přepsaná realita.“
+> Amanda, Lenny, Lily a Ryan se sešli, aby probrali herní prostředí. Všichni mají zájem o umírněnou fantasy hru, protože Lenny a Lily nedávno četli pár příběhů s *Fafhrdem a Šedým Myšilovem*. Dají dohromady koncept „dvou týpků a holky s meči“. Svět bude „vzdáleně středověký, taková přepsaná realita.“
 
 > Ryan navrhne: „týpek a holka s meči a týpek bez meče,“ aby byl mezi mužskými postavami rozdíl. Kromě toho chce hrát (pro kontrast) někoho sečtělejšího. To všem vyhovuje a posunou se dál.
 
@@ -99,13 +99,17 @@ Pokud nechcete, pak samozřejmě nemusíte využít dvě hrozby nabízené jako 
 
 > Lily chce aby v příběhu bylo také něco co bude hrozit ve vzdálenější budoucnosti, něco Skutečně Špatného. Společně s ostatními vymyslí nadcházející hrozbu: temný kult toužící přivolat do světa něco děsivého (což zároveň znamená, že jejich svět obsahuje hrozivé, Lovecraftem inspirované věci). Lenny to pojmenuje „Blížící se zkáza“ a Ryana ta myšlenka nadchne, protože to dá jeho sečtělé postavě vazbu k událosem, které se ve herním světě odehrávají.
 
+![karticka hrozeb](~./images/24-karticky.jpg)
+
 ### Přetvoření hrozeb v aspekty
 
 Jak jsme řekli dříve, hrozby jsou aspekty. Zformulujte své nápady do aspektů, které si dokážete představit použité v různých momentech příběhu (obvykle jako vynucení na protagonistech nebo jako vyvolání od nepřátel, ale chytří hráči pro aspekty vždy najdou i další využití). Sepište je a pokud potřebujete něco málo dodat na připomenutí kontextu nebo detailů, tak si vedle aspektů napište poznámku.
 
-> Amanda si napíše Zjizvené triády a Blížící se zkáza jako dva herní aspekty. Vedle Zjizvených triád si poznamená „Jsou bezohlední a dělají různé špatnosti“. Vedle Blížící se zkázy napíše „Přiváděna Kultem Pokojnosti.“ 
+> Amanda si napíše ***Zjizvené triády*** a ***Blížící se zkáza*** jako dva herní aspekty. Vedle ***Zjizvených triád*** si poznamená „Jsou bezohlední a dělají různé špatnosti“. Vedle ***Blížící se zkázy*** napíše „Přiváděna Kultem Pokojnosti.“ 
 
 Pokud jste aspekty ještě nikdy netvořili, tak to na chvíli odložte. Brzy získáte nemálo praxe při tvorbě aspektů pro vaše postavy. Své nápady na hrozby přetvořte v aspekty hned poté, co dokončíte své postavy.
+
+![rozepsane karticky hrozeb](~./images/25-karticky.jpg)
 
 ::: card Změny problémů ve hře
 
@@ -120,6 +124,8 @@ Doporučujeme vám začít tím, že dáte každému hernímu prvku jen po jedno
 
 > Kult Pokojnosti se průběžně objevuje v předherních diskusích, tak se skupina rozhodne, že se k němu také hodí dát problém. Po chvíli rozhovoru se skupina rozhodne, že by bylo zajímavé, kdyby uvnitř kultu panovala trocha napětí mezi jeho představenými a hráči vytvoří současný problém pojmenovaný „Dvě rozporná proroctví.“ — různé části kultu mají různé představy o tom, jak bude ona zkáza vypadat.
 
+
+![karticka hrozby a karta tvorby hry](~./images/26-karticky.jpg)
 
 ## Tváře a místa
 
@@ -137,9 +143,9 @@ Je-li ve vašem herním prostředí něco, co je zamýšleno jako záhada pro pr
 
 > Po pár minutách diskuse si skupina sepíše:
 
-> * Dobrosrdečný Hugo, poručík Zjizvených triád. Jeho aspektem je Všichni v Rivertonu se mě bojí.
+> * Dobrosrdečný Hugo, poručík Zjizvených triád. Jeho aspektem je ***Všichni v Rivertonu se mě bojí***.
 > * Což nás přivádí k místu, městu Riverton. Protékají jím dvě řeky, což z něj dělá obchodní uzel.
-> * Amanda přijde se sympatickou postavou, Kate Westal, která v Rivertonu vlastní obchod. Nenechává se zastrašit Hugovým vyděračstvím a nejspíše se brzy stane obětí „nehody“. Její aspekt je Jsem tvrdohlavá, protože mám pravdu.
+> * Amanda přijde se sympatickou postavou, Kate Westal, která v Rivertonu vlastní obchod. Nenechává se zastrašit Hugovým vyděračstvím a nejspíše se brzy stane obětí „nehody“. Její aspekt je ***Jsem tvrdohlavá, protože mám pravdu***.
 > * Primarcha, vůdce Kultu Pokojnosti, jehož totožnost není známa. Protože je tato část herního prostředí tajemstvím, tak mu nepřidělí žádný aspekt ani k němu nepřidají nic dalšího a nechají detaily na Amandě, aby je vymyslela tajně.
 
 > Mohli by pokračovat, ale vědí, že budou mít další nápady až si vytvoří postavy a začnou hrát. Tohle bohatě stačí k vykreslení toho o co půjde na samém počátku příběhu.
@@ -161,3 +167,5 @@ Významnou součástí vašeho herního prostředí je to, co v něm lidé moh
 
 Přidání dovednosti je blíže popsáno v kapitole *Speciality* (str. 269).
 :::
+
+![karticky postav](~./images/27-karticky.jpg)
