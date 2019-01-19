@@ -23,7 +23,7 @@ Pokud jste nový vypravěč, toto je pro vás jen vrcholek ledovce. Měli byste 
 ## Co ke hře potřebujete
 
 Začít hrát Fate je velmi snadné. Potřebujete:
-* Tři až pět lidí. Jeden z vás se stane **vypravěčem** a všichni ostatní se stanou hráči. Za okamžik vysvětlíme, co to znamená.
+* Tři až pět lidí. Jeden z vás se stane **vypravěčem** a všichni ostatní se stanou **hráči**. Za okamžik vysvětlíme, co to znamená.
 * Jednu **kartu postavy** pro každého hráče a nějaké další papíry na poznámky. O tom co je na kartě postavy budeme mluvit níže. (Vypravěči: všechny vaše důležité postavy by také měly mít svou kartu postavy.)
 * Alespoň čtyři **Fate kostky**, ideálně čtyři na osobu. Fate kostky jsou zvláštní druh šestistěnných kostek, které mají na dvou stranách symbol plus (<span class="fate-font">+</span>), na dvou stranách symbol mínus (<span class="fate-font">-</span>) a na dvou stranách jsou prázdné (<span class="fate-font">0</span>). Můžete je sehnat v různých herních a fantasy obchodech, často pod jejich původním názvem Fudge kostky. (Pro potřeby Fate je budeme dále nazývat Fate kostky, ale říkejte si jim, jak je libo!) Evil Hat nabízí Fate kostky k prodeji na **www.evilhat.com** (u nás je jako Fudge kostky prodává např. **www.fantasyobchod.cz** nebo **https://www.tomovyhry.cz**).
 * Alternativou k Fate kostkám je **Balíček Osudu** od Evil Hat. Jedná se o balíček karet, které napodobují pravděpodobnost Fate kostek a jsou navržené k použití stejným způsobem, jako Fate kostky.
@@ -59,14 +59,15 @@ Hráči, na kartách svých postav máte vše, co o svých PH potřebujete vě
 
 ### Obnova (str. 80)
 
-Obnova je počet bodů osudu, které dostanete k utracení za vaši postavu na začátku každého herního sezení. Pokud jste jich na konci předchozího sezení neměli více, pak se vám jejich množství obnoví na tuto hodnotu.
+**Obnova** je počet bodů osudu, které dostanete k utracení za vaši postavu na začátku každého herního sezení. Pokud jste jich na konci předchozího sezení neměli více, pak se vám jejich množství obnoví na tuto hodnotu.
 
 ### Aspekty (str. 56)
-Aspekty jsou fráze, které o postavě říkají něco důležitého. Jsou důvodem, *proč na vaší postavě záleží*¸ proč chceme vaši postavu vidět ve hře. Aspekty mohou pokrývat širokou škálu věcí, jako třeba osobnost nebo její popis, přesvědčení, vztahy, problémy nebo komplikace nebo cokoliv dalšího, co nám pomůže vykreslit postavu jako osobnost a ne jen jako soubor statistik.
 
-Aspekty do hry vstupují ve spojení s body osudu. Kdykoliv je pro vás aspekt výhodou, můžete utratit bod osudu k jeho vyvolání a získat bonus (str. 12). Když aspekty vaší postavě život komplikují, získáváte bod osudu zpět — tomu říkáme přijmout vynucení (str. 14).
+**Aspekty** jsou fráze, které o postavě říkají něco důležitého. Jsou důvodem, *proč na vaší postavě záleží*¸ proč chceme vaši postavu vidět ve hře. Aspekty mohou pokrývat širokou škálu věcí, jako třeba osobnost nebo její popis, přesvědčení, vztahy, problémy nebo komplikace nebo cokoliv dalšího, co nám pomůže vykreslit postavu jako osobnost a ne jen jako soubor statistik.
 
-> Liliina postava, Cynere, má na své kartě aspekt Zbožňuju třpytky, který popisuje její obecný sklon přeceňovat materiální bohatství a činit špatná rozhodnutí, když se na scénu dostanou drahokamy a mince. To postavě přidává zajímavý a zábavný prvek, který ji dostává do spousty problémů a často vnáší její osobnost do hry.
+Aspekty do hry vstupují ve spojení s body osudu. Kdykoliv je pro vás aspekt výhodou, můžete utratit bod osudu k jeho **vyvolání** a získat bonus (str. 12). Když aspekty vaší postavě život komplikují, získáváte bod osudu zpět — tomu říkáme přijmout **vynucení** (str. 14).
+
+> Liliina postava, Cynere, má na své kartě aspekt ***Zbožňuju třpytky***, který popisuje její obecný sklon přeceňovat materiální bohatství a činit špatná rozhodnutí, když se na scénu dostanou drahokamy a mince. To postavě přidává zajímavý a zábavný prvek, který ji dostává do spousty problémů a často vnáší její osobnost do hry.
 
 Aspekty popisují věci, které jsou zvýhodňující nebo škodlivé — ve skutečnosti je nejlepší, když popisují obojí současně.
 
@@ -74,7 +75,7 @@ Aspekty nenáleží pouze postavám; své aspekty má i herní prostředí, v�
 
 ### Dovednosti (str. 86)
 
-Dovednosti jsou to, co během hry používáte, když házíte kostkami při provádění komplikovaných nebo zajímavých akcí. Každá postava má několik dovedností, které reprezentují její základní schopnosti, včetně věcí jako je pozornost, fyzická zdatnost, profesionální trénink, vzdělání a další.
+**Dovednosti** jsou to, co během hry používáte, když házíte kostkami při provádění komplikovaných nebo zajímavých akcí. Každá postava má několik dovedností, které reprezentují její základní schopnosti, včetně věcí jako je pozornost, fyzická zdatnost, profesionální trénink, vzdělání a další.
 
 Na začátku hry má hráčská postava dovednosti odstupňované v úrovních od Průměrných (+1) po Skvělé (+4). Vyšší jsou lepší, což znamená, že je postava schopnější, nebo že dokáže častěji uspět, když dovednost používá.
 
@@ -84,26 +85,40 @@ Pokud z nějakého důvodu potřebujete provést hod na dovednost, kterou vaš
 
 ### Triky (str. 87)
 
-Triky jsou speciální vychytávky, které vaše postava zná, a které vám umožňují získat u dovedností zvláštní výhody nebo změnit nějaké herní pravidlo ve svůj prospěch. Triky jsou podobné speciálním pohybům ve videohře, umožňují vám udělat něco unikátního nebo odlišného od toho, co mohou udělat ostatní postavy. Dvě postavy mohou mít stejné hodnocení dovednosti, ale jejich triky jim mohou dát velice rozdílné výhody.
+**Triky** jsou speciální vychytávky, které vaše postava zná, a které vám umožňují získat u dovedností zvláštní výhody nebo změnit nějaké herní pravidlo ve svůj prospěch. Triky jsou podobné speciálním pohybům ve videohře, umožňují vám udělat něco unikátního nebo odlišného od toho, co mohou udělat ostatní postavy. Dvě postavy mohou mít stejné hodnocení dovednosti, ale jejich triky jim mohou dát velice rozdílné výhody.
 
 > Landon má trik zvaný „Další rundu?“, který mu dává bonus když se snaží z někoho vymámit informace pomocí dovednosti Vztahy, za předpokladu, že s ním popíjí v hospodě.
 
 ### Speciality (str. 269)
 
-Speciality jsou schopnosti, vybavení, dopravní prostředky, organizace a místa, pro která může vaše skupina chtít mít nějaká pravidla (když je aspekty, dovednosti ani triky nepokrývají samy o sobě).
+**Speciality** jsou schopnosti, vybavení, dopravní prostředky, organizace a místa, pro která může vaše skupina chtít mít nějaká pravidla (když je aspekty, dovednosti ani triky nepokrývají samy o sobě).
 
 ### Stres (str. 160)
 
-Stres je jedna ze dvou možností, jak se ve hře vyhnout prohře v konfliktu — představuje dočasnou únavu, vyčerpání, povrchová zranění a tak podobně. Máte několik úrovní stresu, které můžete propálit, abyste se udrželi v boji. Obnovují se na konci každého konfliktu, hned, co si najdete chvilku na odpočinek a nabrání dechu.
+**Stres** je jedna ze dvou možností, jak se ve hře vyhnout prohře v konfliktu — představuje dočasnou únavu, vyčerpání, povrchová zranění a tak podobně. Máte několik úrovní stresu, které můžete propálit, abyste se udrželi v boji. Obnovují se na konci každého konfliktu, hned, co si najdete chvilku na odpočinek a nabrání dechu.
 
 ### Následky (str. 162)
 
-Následky jsou druhou možností, jak se vyhnout vyřazení z konfliktu, mají ale mnohem trvalejší dopad. Kdykoliv, kdy přijmete některý následek, napíšete na svou kartu nový aspekt popisující vaše zranění. Na zotavení se z následků musíte na rozdíl od stresu věnovat čas, během kterého zůstanou na vaší kartě postavy, což vaší postavu zanechá zranitelnou okolnostmi, nebo těmi, kteří budou chtít její slabosti zneužít.
+**Následky** jsou druhou možností, jak se vyhnout vyřazení z konfliktu, mají ale mnohem trvalejší dopad. Kdykoliv, kdy přijmete některý následek, napíšete na svou kartu nový aspekt popisující vaše zranění. Na zotavení se z následků musíte na rozdíl od stresu věnovat čas, během kterého zůstanou na vaší kartě postavy, což vaší postavu zanechá zranitelnou okolnostmi, nebo těmi, kteří budou chtít její slabosti zneužít.
 
 
 ## Jednání
 
 Hráči, abyste zjistili, zda vaše postava uspěla nebo neuspěla v některých akcích, které budete při hraní Fate dělat, bude potřeba, abyste hodili kostkami. **Kostkami si budete házet vždy, když budete bránit jiné postavě v její snaze, nebo když bude v cestě vašemu snažení stát významná překážka.** Jinak prostě řekněte, co vaše postava dělá, a předpokládejte, že se to tak stalo.
+
+::: card
+
+Ve Fate budete kostky nejčastěji používat:
+
+Abyste překonali překážku (str. 134)
+
+Abyste pro svou postavu vytvořili nebo zpřístupnili výhodu v podobě vámi použitelného aspektu (str. 136)
+
+Abyste v konfliktu na někoho zaútočili (str. 140)
+
+Abyste se v konfliktu bránili (str. 142)
+:::
+
 
 ### Házení kostkami
 
@@ -125,7 +140,7 @@ Tak, jak teď, když jste hodili kostkami, určíte, co nějaký konkrétní vý
 
 ### Žebříček
 
-K hodnocení hodu kostek, dovedností postavy a celkového výsledku snahy používáme ve Fate žebříček přídavných jmen a čísel.
+K hodnocení hodu kostek, dovedností postavy a celkového výsledku snahy používáme ve Fate **žebříček** přídavných jmen a čísel.
 
 Tento žebříček:
 
@@ -245,7 +260,7 @@ Kdokoliv u stolu může navrhnout, co by mohlo být vhodné vynucení pro kter
 Tohle jsou základní věci, které k hraní Fate potřebujete znát. Následující kapitoly jdou u všeho, co jsme probrali výše, do většího detailu a ukáží vám, jak dát vaší hře rozlet.
 
 ::: card Kam odtud pokračovat
-* Kapitola *Tvorba hry* vás provede procesem přípravy vaší hry, takže by to nejspíše měla být vaše další zastávka. *Tvorba postav* vám následně ukáže, jak si vytvořit postavy, které budete hrát.
+* Kapitola *Tvorba hry* vás provede procesem přípravy vaší hry, takže by to nejspíše měla být vaše další zastávka. *Tvorba postavy* vám následně ukáže, jak si vytvořit postavy, které budete hrát.
 * Hráči, vy si nejspíše budete chtít přečíst *Akce a důsledky* a *Dlouhou hru*, abyste pronikli do všech možností toho, co lze ve hře dělat a jak svou postavu během hry rozvíjet.
 * Vypravěči, vy se budete chtít seznámit s celou knihou, ale zejména jsou pro vás důležité kapitoly *Vedení hry* a *Scény, sezení a scénáře.*
 :::
