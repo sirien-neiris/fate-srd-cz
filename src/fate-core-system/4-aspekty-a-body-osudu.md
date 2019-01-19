@@ -10,6 +10,7 @@ Jak jako vypravěči, tak jako hráči máte k dispozici bank bodů zvaných bod
 
 Když do hry vstoupí vaše aspekty, obvykle budete utrácet nebo získávat body osudu.
 
+![karta postavy s obnovou a aspekty](~./images/56-karta-postavy.jpg)
 
 ## Typy aspektů
 
@@ -66,7 +67,7 @@ Pokud chcete, můžete také dovolit jiné postavě vyvolat vaše posílení, po
 
 ## Co aspekty dělají
 
-Aspekty ve Fate dělají dvě hlavní věci: říkají vám, co je ve vaší hře důležité a pomáhají vám určit, kdy použít mechaniky.
+Aspekty ve Fate dělají dvě hlavní věci: **říkají vám, co je ve vaší hře důležité a pomáhají vám určit, kdy použít mechaniky**.
 
 ### Důležitost
 
@@ -119,6 +120,8 @@ Dříve jsme uvedli několik věcí, které aspekty postavy mohou popisovat: oso
 
 > Spojme tento spekt se vztahem k organizaci: ***Legie vyžaduje, abych dokázal, že za něco stojím***. Vaše možnosti se tím značně rozšiřují. Nejen, že dostanete všechen obsah, který v aspektu byl už dříve, ale navíc jste tím představili Legii, ktará po vás může něco vyžadovat, může vás dostat do problémů věcmi, za které můžete být obviňováni nebo může poslat nadřízené PV a váš život tím ztížit. Můžete takový aspekt také vyvolat, když se s Legií potýkáte, nebo když potkáte někoho, kdo bere pověst Legie vážně. Takový aspekt toho do hry přináší mnohem více. 
 
+![karticka opraveneho aspektu](~./images/62-karticky.jpg)
+
 Vypravěči, pro vaše situační aspekty si s tím nemusíte moc lámat hlavu, protože ty jsou určené k tomu, aby zůstávaly ve hře jen v rámci dané scény. Nabízet více způsobů využití je mnohem důležitější pro aspekty postav a hry. 
 
 
@@ -135,6 +138,8 @@ Nicméně, nedělejte to na úkor jasnosti. Vyhýbejte se metaforám a implikac�
 > Řekněme, že to po chvíli rozhovoru ujasníme a řekneme, že vaše postava byla poznamenána léty strávenými v poslední velké válce. Zabíjeli jste lidi které jste nechtěli zabíjet, viděli jste věci, které jste nechtěli vidět, a v podstatě všechny vaše naděje vrátit se k normálnímu životu jsou pryč.
 
 > To je všechno suprové, ale bude lepší nazvat to ***Válečné jizvy***. Je to možná méně poetické, ale přímo to odkazuje k věcem o kterých je řeč a dává to mnohem víc nápadů ohledně lidí z vaší minulosti, kteří by se třeba mohli do vašeho života navrátit.
+
+![karticka opraveneho aspektu](~./images/63-karticky.jpg)
 
 Pokud váháte, zda váš aspekt je nebo není jasný, zeptejte se lidí u stolu, co si myslí, že znamená.
 
@@ -188,6 +193,8 @@ Nechcete, aby všechny vaše aspekty popisovaly stejný typ věcí. Pět vztahů
 > Amanda se ho zeptá, co na této fázi považuje za skutečně důležité a Lenny to trochu rozvede. Landonovy první dva aspekty jsou velmi osobní – nedávají mu příliš vztahů s okolím. Lenny se proto chce soustředit právě na ně a rozhodne se, že chce ustanovit vztah k člověku, který ho dovedl ke službě v gardě.
 
 > Nakonec ho pojmenují Starý Finn a Landon dostane aspekt ***Za vše vděčím Starému Finnovi***, což dává Amandě novou PV, s nímž může ve hře dále pracovat.
+
+![vyrez karty tvorby postavy s aspekty fazi](~./images/66-vyrez-karty-tvorby-postavy.jpg)
 
 
 ### Nechte rozhodnout vaše přátele
@@ -272,7 +279,7 @@ V jiných Fate hrách se volná vyvolání nazývala „tagging“ („značkov�
 
 ## Vynucování aspektů
 
-Druhý způsob, kterým budete ve hře aspekty používat, se nazývá vynucování. Pokud jste v situaci, ve které vám nějaký aspekt vaší postavy může výrazně zdramatizovat nebo zkomplikovat život, někdo může tento aspekt vynutit.  Aspekt může být na vaší postavě, na scéně, místě, hře nebo na čemkoliv jiném, co je momentálně významné. Začneme aspekty postavy a pak si trochu popovídáme o situačních aspektech.
+Druhý způsob, kterým budete ve hře aspekty používat, se nazývá **vynucování**. Pokud jste v situaci, ve které vám nějaký aspekt vaší postavy může výrazně zdramatizovat nebo zkomplikovat život, někdo může tento aspekt vynutit.  Aspekt může být na vaší postavě, na scéně, místě, hře nebo na čemkoliv jiném, co je momentálně významné. Začneme aspekty postavy a pak si trochu popovídáme o situačních aspektech.
 
 Abyste vynutili aspekt, vysvětlete, proč je relevantní a učiňte nabídku komplikace, o kterou se jedná. Můžete trochu smlouvat podmínky oné komplikace, dokud nenajdete rozumnou shodu. Kdokoliv, na kom je vynucováno, má potom dvě možnosti:
 
@@ -361,9 +368,11 @@ Tady je pár příkladů:
 
 > Protože je skladiště ***V plamenech*** a postavy hráčů jsou v něm uvězněny, dává bohužel smysl, aby zločinec, kterého pronásledují, ve vzniklém zmatku unikl. Zatracená smůla.
 
-Protože je panské sídlo, které Cynere prohledává, ***Zavalené sutinami**, bohužel dává smysl, aby městská garda dorazila dřív, než Cynere najde to, co tam hledá, takže bude mít hodně co vysvětlovat. Zatracená smůla.
+> Protože je panské sídlo, které Cynere prohledává, ***Zavalené sutinami**, bohužel dává smysl, aby městská garda dorazila dřív, než Cynere najde to, co tam hledá, takže bude mít hodně co vysvětlovat. Zatracená smůla.
 
-Protože je prastará knihovna, v níž Zird zrovna teď pracuje, celá ***Pokryta prachem***, tak bohužel dává smysl, že ačkoliv může najít informaci, kterou hledá, tak lovec odměn, který jej pronásleduje, bude vědět, že tu byl. Zatracená smůla.
+> Protože je prastará knihovna, v níž Zird zrovna teď pracuje, celá ***Pokryta prachem***, tak bohužel dává smysl, že ačkoliv může najít informaci, kterou hledá, tak lovec odměn, který jej pronásleduje, bude vědět, že tu byl. Zatracená smůla.
+
+![karticka aspektu](~./images/75-karticky.jpg)
 
 
 ## Využívání aspektů pro hraní postavy
@@ -379,6 +388,9 @@ Vypravěči, vy využijete aspekty svých PV stejným způsobem, ale dostanete n
 Také to říká něco o tom, jak je postava velká a stavěná. Víte, že většina lidí si od takové postavy bude i v zalidněném místě udržovat odstup, mohou být přirozeně zastrašeni nebo mohou být přehnaně agresivní či strozí, aby si vynahradili své obavy.
 
 Nikdo ale nebude postavu *ignorovat*. Vložení takových detailů k aspektům do vyprávění může pomoci učinit vaši hru živější a konzistentnější, i když nepřesouváte body osudu.
+
+![karticka aspektu](~./images/76-karticky.jpg)
+
 
 > Při hře *Srdcí z oceli* se Landon vrátí domů do vesnice Vinfeld, jen aby zjistil, že byla vypleněna barbary a že jeho opatrovník, Starý Finn, byl při přepadu unesen.
 
@@ -448,9 +460,9 @@ Každý hráč dostane do začátku každého sezení určité množství bodů 
 
 ::: card Triky a Obnova
 
-Tři triky = Obnova 3
-Čtyři triky = Obnova 2
-Pět triků = Obnova 1
+* Tři triky = Obnova 3
+* Čtyři triky = Obnova 2
+* Pět triků = Obnova 1
 :::
 
 Vaše obnova se navýší, když vaše postava dosáhne zásadního milníku (což probereme v *Dlouhé hře*) a můžete ji utratit na získání dalších triků nebo si ji ponechat, abyste navýšili váš počáteční počet bodů osudu. Nikdy nemůžete mít obnovu nižší než jedna.
