@@ -98,7 +98,7 @@ Vypravěči, položte si následující otázky, když vytváříte výzvu:
 
 Teď můžete začít.
 
-Střet se sestává ze sérií výměn. V každé výměně si každý účastník jednou hodí na dovednost, aby určil, jak dobře se mu v daném kole střetu dařilo. To jsou v podstatě akce překonání.
+Střet se sestává ze sérií **výměn**. V každé výměně si každý účastník jednou hodí na dovednost, aby určil, jak dobře se mu v daném kole střetu dařilo. To jsou v podstatě akce překonání.
 
 Hráči, když provádíte hod ve střetu, porovnejte výsledky jeden s druhým.
 
@@ -114,11 +114,17 @@ Hráči, když provádíte hod ve střetu, porovnejte výsledky jeden s druhým.
 
 > V první výměně to Lily za Cynere padne špatně a skončí jen na Průměru (+1). Amandě na kostkách padne 0 a zůstane na Dobrém (+3) výsledku. Amanda má víc, takže Teran vyhrává výměnu a získává 1 vítězství. Amanda popíše, jak Teran dokončuje první významnou runu rituálu a ve vzduchu se objevuje plápolavá zelená záře.
 
+![karticka se skore stretu](~./image/152-1-skore-karticky.jpg)
+
 > V druhé výměně se pro Lily věci obrátí, hodí si velmi dobře a získá Vynikající (+5) výsledek, zatímco Amanda se za Terana dostane jen na Slušný (+2). To je pro Lily úspěch se stykem, takže si zapíše dvě vítězství a převezme tak vedení. Lily popíše, jak se naplno rozeběhla Teranovi vstříc.
+
+![karticka se skore stretu](~./image/152-2-skore-karticky.jpg)
 
 > Ve třetí výměně dojde k remíze na Dobrém (+3) výsledku! Amanda teď musí ve střetu představit nějaký nečekaný zvrat. Krátce se nad tím zamyslí a pak prohlásí: „Fajn, takže to vypadá, že nějaké magické ingredience z váčku na Zirdově opasku nějak podivně zareagovaly s Teranovým kouzlem, což okolí zaplnilo ***Magickými výboji***.“ Tento situační aspekt napíše na kartičku a položí na stůl.
 
 > Ve čtvrté výměně dojde k další remíze, tentokrát na Skvělém (+4) výsledku. Lily ale prohlásí: „Zapomeň na to. Chci vyvolat dva aspekty. Zaprvé ***Kreju Zirdovi záda*** z mojí karty a zadruhé ***Magické výboje***, protože si jsem jistá že ty interagují mnohem víc se sesíláním kouzla než s běháním.“ S tím Amandě předá dva body osudu.
+
+![karticka se skore stretu](~./image/152-3-skore-karticky.jpg)
 
 > To posune její celkový výsledek na Legendární (+8), což je další úspěch se stylem a další dvě vítězství. To jí dává čtyři vítězství na jedno Teranovo, čímž vyhrává výměnu i celý střet!
 
@@ -153,7 +159,7 @@ Konflikty jsou jak fyzické, tak duševní podstaty, rozlišené podle druhu új
 
 Vytvoření konfliktu je trochu složitější, než vytvoření střetu či výzvy. Tady je postup:
 
-* Vykreslení scény, popis prostředí, v němž se konflikt odehrává, vytvoření situačních aspektů a zón a určení, kdo je účastníkem a na které je straně.
+* Vykreslení scény, popis prostředí, v němž se konflikt odehrává, vytvoření situačních aspektů a **zón** a určení, kdo je účastníkem a na které je straně.
 * Určení pořadí jednání.
 * Zahájení první výměny:
  * Ve svém tahu udělejte akci a pak ji vyhodnoťte.
@@ -193,7 +199,7 @@ Dobré možnosti pro situační aspekty zahrnují:
 
 > Amanda si znovu představí celé skladiště a přemýšlí, co by mohly být dobré situační aspekty. 
 
-> Rozhodne se, že tam je dost přepravek na to, aby mohly znesnadnit volný pohyb po okolí, takže vytvoří aspekty ***Těžké přepravky*** a ***Stísněný prostor***. Vrata pro nakládání jsou otevřená, což znamená, že tam je velký prostor zaplněný vodou, takže k tomu přidá ještě situační aspekt Otevřené k vodě, protože jí přijde, že by se tam někdo mohl pokusit někoho shodit.
+> Rozhodne se, že tam je dost přepravek na to, aby mohly znesnadnit volný pohyb po okolí, takže vytvoří aspekty ***Těžké přepravky*** a ***Stísněný prostor***. Vrata pro nakládání jsou otevřená, což znamená, že tam je velký prostor zaplněný vodou, takže k tomu přidá ještě situační aspekt ***Otevřené k vodě***, protože jí přijde, že by se tam někdo mohl pokusit někoho shodit.
 
 Jak se scéna rozvíjí, hráči mohou navrhovat vlastnosti prostředí, které jsou perfektní jako aspekty. Pokud vypravěč popíše scénu jako slabě osvětlenou, hráč by měl být schopný vyvolat Stíny, aby mu pomohly v hodu na Skrývání, i když dříve nebyly ustanoveny jako aspekt. Pokud by prvek vyžadoval nějaký zásah ve scéně ze strany postavy, aby se stal hodný aspektu, pak je na dosah akce vytvoření výhody. Obvykle se stodola neoctne ***V plamenech!***, aniž by někdo neskopl lucernu. Obvykle.
 
@@ -218,14 +224,16 @@ Obecně řečeno, konflikt by obvykle neměl obsahovat více než jen pár zón.
 
 Když rozvrhujete své zóny, poznamenejte si situační aspekty, které mohou pohyb mezi nimi zkomplikovat. To bude důležité později, až se lidé začnou pohybovat ze zóny do zóny. Pokud to znamená, že budete potřebovat více situačních aspektů, přidejte je teď.
 
-> Amanda se rozhodne, že skladiště potřebuje rozdělit na několik zón. Hlavní podlaží je v její představě dost velké na dvě zóny a Těžké přepravky zmíněné dříve ztěžují volný pohyb mezi nimi.
+> Amanda se rozhodne, že skladiště potřebuje rozdělit na několik zón. Hlavní podlaží je v její představě dost velké na dvě zóny a ***Těžké přepravky*** zmíněné dříve ztěžují volný pohyb mezi nimi.
 
-> Kromě toho tam je také druhé podlaží, které se táhne podél vnitřních stěn, což bude další zóna. Připíše ke scéně Dostupné jen po žebříku.
+> Kromě toho tam je také druhé podlaží, které se táhne podél vnitřních stěn, což bude další zóna. Připíše ke scéně ***Dostupné jen po žebříku***.
 
 > Napadne jí, že pokud by se někdo z nějakého důvodu rozhodl vyběhnout ven, tak by to asi byla čtvrtá zóna, ale nepřijde jí,
 že by pro ní potřebovala nějaký aspekt.
 
 > Na list papíru ještě načrtne hrubou mapku, aby všichni viděli, jak si to představuje.
+
+![karticka s nakresem zony](~./images/157-karticky.jpg)
 
 ### Určení stran
 
@@ -279,7 +287,7 @@ Pokud chcete, můžete vynechat svou akci ve výměně, abyste se soustředili n
 > V první výměně v naší bitce ve skladišti začíná Cynere. Lily se rozhodne zaútočit na rváče, který se na ni zaměřil. To je její akce ve výměně – pořád si může hodit na obranu kdykoliv bude potřebovat, ale cokoliv proaktivního už udělat (až do svého dalšího tahu) nemůže.
 Ryan se ve svém tahu rozhodne, že Zird zvolí plnou obranu – normálně by se mohl v této výměně bránit i jednat, ale namísto toho dostane na všechny hody na obranu až do svého dalšího tahu +2. 
 
-> Lenny se ve svém tahu rozhodne, že Landon umístí na Oga aspekt Sevřený pomocí akce vytvoření výhody. Doufá, že jej zatlačí do kouta mezi nějaké přepravky. To je jeho akce pro tuto výměnu.
+> Lenny se ve svém tahu rozhodne, že Landon umístí na Oga aspekt ***Sevřený*** pomocí akce vytvoření výhody. Doufá, že jej zatlačí do kouta mezi nějaké přepravky. To je jeho akce pro tuto výměnu.
 
 > Amanda jedná poslední a prostě nechá všechny své PV zaútočit na jejich vybrané cíle.
 
@@ -309,6 +317,8 @@ Duševní stres může znamenat, že jste sotva zvládli ignorovat urážku nebo
 
 Na vaší kartě postavy máte několik čtverečků stresu, každý s různou hodnotou posunu. V základu mají všechny postavy 1bodový a 2bodový čtvereček. Můžete získat další čtverečky stresu s vyššími hodnotami v závislosti na vašich dovednostech (obvykle Kondice a Vůle).
 
+![meritka stresu z karty postavy](~./images/160-meritka-stresu.jpg)
+
 Když obdržíte stres, odškrtnete čtvereček stresu s hodnotou odpovídající hodnotě posunu zásahu. Pokud je tento čtvereček už proškrtnutý, zaškrtněte čtvereček s vyšší hodnotou. Pokud už nemáte žádný vyšší dostupný, a nechcete přijmout žádné následky, jste z konfliktu vyřazeni.
 
 Můžete proškrtnout pouze jeden čtvereček stresu na jeden zásah.
@@ -321,7 +331,11 @@ Po konfliktu, až budete mít minutu na rozdýchání, se všechny proškrtnuté
 
 > Lenny mrkne na svou kartu postavy a zjistí, že mu zbývají už jen dva čtverečky stresu – 2 bodový a 4 bodový.
 
+![meritka stresu z karty postavy](~./images/161-1-meritka-stresu.jpg)
+
 > Protože už má 3 bodový čtvereček proškrtnutý, zásah musí přijmout do čtverečku s vyšší hodnotou a tak neochotně proškrtne svůj 4 bodový čtvereček.
+
+![meritka stresu z karty postavy](~./images/161-2-meritka-stresu.jpg)
 
 > Amanda s Lennym popíší výsledek – Landon pozvedne svůj meč na poslední chvíli, aby odrazil úder, který místo něj rozdrtí přilehlou bednu a do jeho tváře se zasekne několik třísek. Jen o pár centimetrů blíže a Og by mu značně upravil vizáž.
 
@@ -333,6 +347,8 @@ Po konfliktu, až budete mít minutu na rozdýchání, se všechny proškrtnuté
 Druhou možností, kterou máte pro zmírnění zásahu, je přijetí následků. Následky jsou závažnější než stres – reprezentují nějaký druh přetrvávajícího zranění nebo překážky, kterou jste si z konfliktu odnesli, něco, co bude pro vaši postavu problém, až konflikt skončí.
 
 Následky mají tři úrovně závažnosti – drobnou, mírnou a vážnou. Každá z nich má různou hodnotu posunu: konkrétně dvou, čtyř a šesti. Na vaší kartě postavy máte několik dostupných políček následků v této sekci:
+
+![meritka stresu z karty postavy](~./images/162-nasledky.jpg)
 
 Když použijete políčko následků, snížíte hodnotu posunu útoku o hodnotu posunu následku. Můžete použít více než jeden následek najednou, pokud jsou dostupné. Všechny zbývající posuny musí být pokryty čtverečky stresu, abyste se vyhnuli vyřazení.
 
@@ -349,6 +365,8 @@ Pořád to je ale lepší, než nechat se vyřadit, ne?
 > Rozhodne se, že je nepravděpodobné, že by znovu dostala tak silný zásah a rozhodne se vzít si vážný následek, aby udržela své měřítko stresu volné pro menší zásahy. 
 
 > Amanda a Lily se shodnou, že vážný následek nazvou ***Téměř vykuchaná***. Cynere obdrží ošklivé seknutí mečem od jednoho z rváčů, což ji přiměje zaskučet bolestí.
+
+![meritka stresu z karty postavy](~./images/163-nasledky.jpg)
 
 ##### Pojmenování Následku
 
@@ -407,9 +425,9 @@ Přinejlepším by mocné uzdravování mělo prostě odstranit potřebu hodu na
 
 ##### Extrémní následky
 
-Navíc k normální sadě drobných, mírných a vážných následků dostává každá PH také jednu možnost posledního soudu, aby mohla zůstat v boji – extrémní následek. Mezi zásadními milníky můžete tuto možnost použít jen jednou.
+Navíc k normální sadě drobných, mírných a vážných následků dostává každá PH také jednu možnost posledního soudu, aby mohla zůstat v boji – **extrémní následek**. Mezi zásadními milníky můžete tuto možnost použít jen jednou.
 
-Extrémní následek pohltí až 8-posunový zásah, ale za velmi závažnou cenu – musíte nahradit jeden z vašich aspektů (vyjma základního konceptu, ten takto změnit nelze) extrémním následkem. Přesně tak, extrémní následek je tak závažný, že doslova změní, kým jste. 
+Extrémní následek pohltí až 8-posunový zásah, ale za velmi závažnou cenu – **musíte nahradit jeden z vašich aspektů (vyjma základního konceptu, ten takto změnit nelze) extrémním následkem**. Přesně tak, extrémní následek je tak závažný, že doslova změní, kým jste. 
 Na rozdíl od jiných následků, nemůžete provést akci na zotavení, abyste umenšili extrémní následek – zůstane s vámi až do dalšího zásadního milníku. Poté můžete extrémní následek přejmenovat, abyste ukázali, že už nadále nejste zranitelní tím nejhorším z něj, dokud ho prostě nezaměníte za cokoliv, co bylo vaším původním aspektem. Přijmout extrémní následek je permanentní změna postavy, tak ho tak berte.  
 
 ### Odstoupení z konfliktu
@@ -509,6 +527,8 @@ Možností k tvorbě výhod je tolik, že seznam končí až za obzorem. V podst
 * **Znavený nebo jiné malé újmy:** Některé údery v boji jsou vysilující, protože jsou bolestivé, spíše než že by způsobovaly zranění. Údery na citlivá místa, útoky do slabin a další kousky „špinavého boje“ spadají do této kategorie. Můžete použít výhody k jejich reprezentaci, zadržet vašeho oponenta ***Oslepující bolestí*** nebo ***Omráčením*** nebo něčím takovým, co po čem následuje útok, který aspekt rozvine a způsobí trvalejší újmu. 
 * **Krytí se:** Můžete použít výhody k reprezentaci přemístění se do krytu a jeho vyvolání ke své obraně. To může být obecné jako ***V nějakém krytu*** nebo konkrétní jako ***Za velkým dubovým barem***.
 * **Změna prostředí:** Můžete použít výhody, abyste změnili prostředí ke svému prospěchu, vytvářet bariéry pro pohyb rozhazováním ***Různého haraburdí*** všude okolo, nebo tím, že věci v okolí podpálíte a necháte je ***V plamenech***. Tahle poslední možnost je ve Fate oblíbená.
+
+![karticka aspektu s plaminky](~./images/171-karticky.jpg)
 
 ### Další akce v konfliktech
 
