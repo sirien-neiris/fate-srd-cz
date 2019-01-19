@@ -279,7 +279,7 @@ Samozřejmě můžete otevření svého scénáře také pojmout jako předem na
 
 > Amanda chce, aby hráči začali hru s hromadou bodů osudu v zásobě, takže na začátku sezení hráčům řekne:
 
-> „Zirde, už tak je špatné, že ti ***Rivalové v Mystickém bratrstvu*** dělají problémy, ale když se teď ještě navíc v místním pajzlu vydávali za obyčejné rolníky aby tě opili a mohli začít rvačku, v níž tě odtáhli někam bokem, je to ještě horší. Probereš se s hroznou kocovinou a monoklem – někdo tě praštil do obličeje!“ (2 body osudu, za ***Rivaly*** a za ***Do tváře ne!***)
+> „Zirde, už tak je špatné, že ti ***Rivalové v Mystickém bratrstvu*** dělají problémy, ale když se teď ještě navíc v místním pajzlu vydávali za obyčejné rolníky aby tě opili a mohli začít rvačku, v níž tě odtáhli někam bokem, je to ještě horší. Probereš se s hroznou kocovinou a monoklem – někdo tě praštil do obličeje!“ (2 body osudu, za ***Rivaly*** a za _**Do tváře ne!**_)
 
 > „Landone, vím, že ***Vždy lze použít násilí***, nicméně jak vysvětlíš, co se stalo, když ses pokoušel opravit ten vůz, když okolo nebyl nikdo jiný?“ (1 bod osudu za ***Násilí***)
 
@@ -328,7 +328,7 @@ Pokud u této otázky znejistíte, zamyslete se nad tím, co může zkomplikovat
 
 > „Vau!“ Prohlásí Lily. „Jak mohli vědět, že budeme právě tady?“
 
-> „Těžko říct.“ Odpoví Amanda a podá jim oběma bod osudu. „Ale tohle nakonec je ***Centrum obchodu, Doupě zločinu.***“
+> „Těžko říct.“ Odpoví Amanda a podá jim oběma bod osudu. „Ale tohle nakonec je _**Centrum obchodu, Doupě zločinu.**_“
 
 > „No dobrá.“ Prohlásí Lenny a oba vynucení přijmou.
 
@@ -378,7 +378,7 @@ Další dobrý způsob, jak vymyslet zajímavou akci do scény, je obrátit se n
 
 > Amanda se otočí k Lily: „To je necháš, aby s tvým přítelem zacházeli tímhle způsobem?“
 
-> „Máš pravdu! Tohle už dál nesnesu!“ prohlásí Lily. „***Kreju Zirdovi záda!***“
+> „Máš pravdu! Tohle už dál nesnesu!“ prohlásí Lily. „_**Kreju Zirdovi záda!**_“
 
 > Cynere se postaví a vykřikne na předsedajícího: „Hej, chceš někoho soudit za zločiny proti světu? Co takhle začít s tvou máti, hnusáku?“
 
