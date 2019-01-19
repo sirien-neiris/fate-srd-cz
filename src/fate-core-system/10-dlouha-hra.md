@@ -33,11 +33,8 @@ Nejlepší místo, kam se podívat po problémech o velikosti příběhových ob
 > Potřebuje si ujasnit příběhové otázky, které budou více obecné, aby jejich rozřešení zabralo nějaký čas. Po troše přemýšlení se rozhodne pro:
 
 > * Zvládne Zird odhalit identitu vůdce kultistů dříve, než proběhne převrat? (Toto jí umožní vytvořit dílčí scénáře okolo pokusu o převrat.)
-
 > * Spřáhnou se Zirdovi rivalové s kultem? (Tohle jí umožní vytvořit scénáře pro každého ze Zirdových klíčových rivalů.)
-
 > * Dokáže se Zird se svými rivaly časem usmířit?
-
 > * Uspěje kult v přetvoření Bratrstva navždy? (Zodpovězení této otázky uzavře celý oblouk.)
 
 Následně projděte stejným procesem výběru oponujících PV. Pamatujte, že jejich vliv by měl mít v příběhovém oblouku větší dosah, než v jediném scénáři. 
@@ -126,11 +123,11 @@ Pyramida již toto pravidlo dodržuje, ale když přidáváte dovednosti, potře
 
 Řekněme třeba, že máte jednu Dobrou (+3), dvě Slušné (+2) a jednu Průměrnou (+1) dovednost. Rozdělení vašich dovedností vypadá zhruba takto:
 
-**!!! OBRÁZEK !!!**
+![dovednostni sloupce - spravne](~./image/258-1-dovednosti.jpg)
 
 Během milníku si chcete zlepšit svou Slušnou (+2) dovednost na Dobrou (+3). To by vám dalo dvě Dobré (+3), jednu Slušnou (+2) a tři Průměrné (+1).
 
-**!!! OBRÁZEK !!!**
+![dovednostni sloupce - spatne](~./image/258-2-dovednosti.jpg)
 
 Vidíte, jak to nefunguje? Najednou postrádáte druhou Slušnou dovednost, kterou potřebujete, abyste byli s pravidly zadobře.
 
