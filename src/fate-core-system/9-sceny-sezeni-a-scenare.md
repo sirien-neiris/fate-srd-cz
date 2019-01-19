@@ -116,11 +116,11 @@ Ptejte se:
 * Ukazují aspekty na nějaký prvek historie, který může prosakovat do současnosti?
 * Je tu možnost, aby se kvůli těmto aspektům štěstí jedné PH stalo neštěstím té druhé?
 
-> Protože je Landon Učedníkem Slonovinového rubáše a Zird má Rivaly v Mystickém bratrstvu, může se občas stát, že tyto skupiny skříží své cesty s konfliktními zájmy. Což znamená, že pokud mniši místního kláštera Rubáše nařídí zajmutí nebo zabití členů místní kapituly Bratrstva kvůli menší urážce, tak to nejspíš bude pro postavy velký problém.
+> Protože je Landon ***Učedníkem Slonovinového rubáše*** a Zird má ***Rivaly v Mystickém bratrstvu***, může se občas stát, že tyto skupiny skříží své cesty s konfliktními zájmy. Což znamená, že pokud mniši místního kláštera Rubáše nařídí zajmutí nebo zabití členů místní kapituly Bratrstva kvůli menší urážce, tak to nejspíš bude pro postavy velký problém.
 
-> Protože Cynere Zbožňuje třpytky a Landon má Manýry řeznického psa, znamená to, že jsou nejspíš nejhorší možnou dvojicí pro decentně provedenou krádež. Což znamená, že zakázka zahrnující vmísení se na Ictheryjský Královský bál bez jakékoliv pomoci a ukradení korunovačních klenotů pro sousední království pro ně tedy nejspíš bude velký problém.
+> Protože Cynere ***Zbožňuje třpytky*** a Landon má ***Manýry řeznického psa***, znamená to, že jsou nejspíš nejhorší možnou dvojicí pro decentně provedenou krádež. Což znamená, že zakázka zahrnující vmísení se na Ictheryjský Královský bál bez jakékoliv pomoci a ukradení korunovačních klenotů pro sousední království pro ně tedy nejspíš bude velký problém.
 
-> Protože Pokud Zird ještě někde nebyl, tak o tom četl a Cynere je Barathařina utajená sestra, může se stát, že důkaz Cyneřina skutečného dědictví by jednoho dne mohl skončit Zirdovi v rukou. Což znamená, že pokud k postavám nečekaně dorazí zašifrovaný heraldický dokument který Barathar a jeho poskoci touží získat zpět za každou cenu, bude to pro postavy nejspíše velký problém.
+> Protože ***Pokud Zird ještě někde nebyl, tak o tom četl*** a Cynere je ***Barathařina utajená sestra***, může se stát, že důkaz Cyneřina skutečného dědictví by jednoho dne mohl skončit Zirdovi v rukou. Což znamená, že pokud k postavám nečekaně dorazí zašifrovaný heraldický dokument který Barathar a jeho poskoci touží získat zpět za každou cenu, bude to pro postavy nejspíše velký problém.
 
 
 #### Aspekty postavy a problému
@@ -408,9 +408,9 @@ Nicméně ne vše je ztraceno – vámi připravené věci by vám měly ohromn�
 
 > Takže krok zpátky. Amanda vidí několik možností, kam se odtud vydat:
 
-* Bojovníci odhodí zábrany, zařvou „odplata!“ a budou bojovat na život a na smrt.
-* Jeden z bojovníků převezme Anninu roli ve scéně a bude pokračovat v konverzaci.
-* Bojovníci uniknou (odstoupí ze scény) a ohlásí zabití své nadřízené Společenstvu, ponechávajíc Annino tělo osudu.
+> * Bojovníci odhodí zábrany, zařvou „odplata!“ a budou bojovat na život a na smrt.
+> * Jeden z bojovníků převezme Anninu roli ve scéně a bude pokračovat v konverzaci.
+> * Bojovníci uniknou (odstoupí ze scény) a ohlásí zabití své nadřízené Společenstvu, ponechávajíc Annino tělo osudu.
 
 > Rozhodne se pokračovat s třetí možností. Ti dva mohou být dobří chlapi, ale nejsou to hrdinové a ani jeden si po tomto úvodu na Landona netroufá. A šance, že by si chtěli popovídat s Anniným tělem ležícím jim u nohou jsou přinejlepším dost slabé.
 
