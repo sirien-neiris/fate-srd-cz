@@ -123,11 +123,11 @@ Pyramida již toto pravidlo dodržuje, ale když přidáváte dovednosti, potře
 
 Řekněme třeba, že máte jednu Dobrou (+3), dvě Slušné (+2) a jednu Průměrnou (+1) dovednost. Rozdělení vašich dovedností vypadá zhruba takto:
 
-![dovednostni sloupce - spravne](~./image/258-1-dovednosti.jpg)
+![dovednostni sloupce - spravne](~./images/258-1-dovednosti.jpg)
 
 Během milníku si chcete zlepšit svou Slušnou (+2) dovednost na Dobrou (+3). To by vám dalo dvě Dobré (+3), jednu Slušnou (+2) a tři Průměrné (+1).
 
-![dovednostni sloupce - spatne](~./image/258-2-dovednosti.jpg)
+![dovednostni sloupce - spatne](~./images/258-2-dovednosti.jpg)
 
 Vidíte, jak to nefunguje? Najednou postrádáte druhou Slušnou dovednost, kterou potřebujete, abyste byli s pravidly zadobře.
 
