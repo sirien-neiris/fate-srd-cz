@@ -99,7 +99,7 @@ Pokud nechcete, pak samozřejmě nemusíte využít dvě hrozby nabízené jako 
 
 > Lily chce aby v příběhu bylo také něco co bude hrozit ve vzdálenější budoucnosti, něco Skutečně Špatného. Společně s ostatními vymyslí nadcházející hrozbu: temný kult toužící přivolat do světa něco děsivého (což zároveň znamená, že jejich svět obsahuje hrozivé, Lovecraftem inspirované věci). Lenny to pojmenuje „Blížící se zkáza“ a Ryana ta myšlenka nadchne, protože to dá jeho sečtělé postavě vazbu k událosem, které se ve herním světě odehrávají.
 
-![karticka hrozeb](~./images/24-karticky.jpg)
+![karticka hrozeb](~./images/23-karticky.jpg)
 
 ### Přetvoření hrozeb v aspekty
 
@@ -109,7 +109,7 @@ Jak jsme řekli dříve, hrozby jsou aspekty. Zformulujte své nápady do aspekt
 
 Pokud jste aspekty ještě nikdy netvořili, tak to na chvíli odložte. Brzy získáte nemálo praxe při tvorbě aspektů pro vaše postavy. Své nápady na hrozby přetvořte v aspekty hned poté, co dokončíte své postavy.
 
-![rozepsane karticky hrozeb](~./images/25-karticky.jpg)
+![rozepsane karticky hrozeb](~./images/24-karticky.jpg)
 
 ::: card Změny problémů ve hře
 
@@ -125,7 +125,7 @@ Doporučujeme vám začít tím, že dáte každému hernímu prvku jen po jedno
 > Kult Pokojnosti se průběžně objevuje v předherních diskusích, tak se skupina rozhodne, že se k němu také hodí dát problém. Po chvíli rozhovoru se skupina rozhodne, že by bylo zajímavé, kdyby uvnitř kultu panovala trocha napětí mezi jeho představenými a hráči vytvoří současný problém pojmenovaný „Dvě rozporná proroctví.“ — různé části kultu mají různé představy o tom, jak bude ona zkáza vypadat.
 
 
-![karticka hrozby a karta tvorby hry](~./images/26-karticky.jpg)
+![karticka hrozby a karta tvorby hry](~./images/25-karticky.jpg)
 
 ## Tváře a místa
 
