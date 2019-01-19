@@ -89,13 +89,15 @@ Zlaté pravidlo tvorby aspektů při tvorbě postavy: *vždycky to můžete pozd
 Pokud skutečně potřebujete nechat něco prázdné, je to v pohodě. Podívejte se na Rychlou tvorbu postavy (str. 52) na podrobnosti ohledně vynechávání míst na kartě postavy. 
 ::: 
 
-> Lenny a Lily si vzali nápad na „týpka a holku s mečem“ a Ryan se rozhodl pro „týpka bez meče“. To jsou nicméně pouze počáteční náměty. Teď je čas z nich udělat skutečné základní koncepty. 7
+> Lenny a Lily si vzali nápad na „týpka a holku s mečem“ a Ryan se rozhodl pro „týpka bez meče“. To jsou nicméně pouze počáteční náměty. Teď je čas z nich udělat skutečné základní koncepty.
 
 > Lennymu se zalíbil nápad spojit svůj koncept s organizací, takže začal s „Učedník ...něčeho“. Představil si postavu, která je trénovaná v nějakém mystickém bojovém umění, což zahrnuje konkurenční školu a nepřátele, kteří se budou chtít dozvědět jeho tajemství. Skupina mu pomohla vymyslet vhodné mystické jméno: ***Učedník Slonovinového rubáše***. (A tím jsme vytvořili i část herního prostředí: Je tu Slonovinový rubáš, mystické bojové umění, a vše, co z toho vyplývá.) 
 
 > Lily, na druhou stranu, nemá moc tušení kam se od „holky s mečem“ odrazit dál. Nemá zájem o žádnou organizaci, takže přemýšlí o přídavných jménech. Nakonec vymyslí ***Nechvalně proslulá holka s mečem***. (Nechá tam část s „holkou s mečem“, protože se jí ta fráze líbí a chce jí ve hře často používat.) 
 
 > Ryanova představa „sečtělého týpka bez meče“ by byla dost nudným aspektem. Přemýšlí, co bylo doposud ustanovené: zlý kult, který chce přivolat Zlé Věci a škola mystického bojového umění. Zeptá se ostatních: „Hele, co kdybych byl čaroděj?“ Chvíli probírají, jak bude magie fungovat, aby postava kouzelníka na jedné straně nezastínila šermíře a na druhé straně aby to nebyl příliš slabý koncept. Nakonec si Ryan napíše ***Námezdní kouzelník***. 
+
+![karta postavy](~./images/33-karta-postavy.jpg)
 
 
 ### Problém 
@@ -164,6 +166,8 @@ Pokud jste tak ještě neučinili, je čas dát vaší postavě jméno!
 
 > Ryan pojmenuje svou postavu „Zird“, protože ho to zrovna napadlo jako příhodně směšné kouzelnické jméno. Pak se na chvíli zarazí a dodá „Tajemný“, protože si Zirda představuje jako týpka, který by toužil po tom být znám jako „Tajemný Zird“.
 
+![karta postavy](~./images/37-karta-postavy.jpg)
+
 
 ## Trio fází
 
@@ -175,9 +179,8 @@ Tři zbývající aspekty vaší postavy jsou tvořeny ve **fázích** společn�
 
 Toto je příležitost k vyprávění příběhu o vašich postavách. Každá fáze po vás vyžaduje, abyste sepsali dvě věci. Použijte kartu tvorby postavy (z konce této knihy nebo z **http://FateRPG.com**) k sepsání těchto detailů.
 
-**Za prvé sepište shrnutí toho, co se ve fázi stalo**. Pár vět v odstavci by mělo stačit — nechcete to s detaily přehnat, protože je možná budete chtít přizpůsobit v pozdějších fázích.
-
-**Za druhé si napište aspekt, který některou část této fáze reflektuje**. Aspekt by měl pokrývat obecné vyznění jejího shrnutí nebo se soustředit na nějaký její fragment, který stále přetrvává do dnešních dnů.
+* **Za prvé sepište shrnutí toho, co se ve fázi stalo**. Pár vět v odstavci by mělo stačit — nechcete to s detaily přehnat, protože je možná budete chtít přizpůsobit v pozdějších fázích.
+* **Za druhé si napište aspekt, který některou část této fáze reflektuje**. Aspekt by měl pokrývat obecné vyznění jejího shrnutí nebo se soustředit na nějaký její fragment, který stále přetrvává do dnešních dnů.
 
 
 ::: card Pro veterány
@@ -193,6 +196,8 @@ Pokud vaše hra využívá hodně specialit, nebo máte ve své hře specifické
 První fáze je první skutečné dobrodružství vaší postavy, její první kniha, epizoda, případ, film — cokoliv, kde se objevila.
 
 Abyste fázi shrnuli, potřebujete vymyslet a sepsat základní detaily této příhody. Nemusí to být detailní příběh — popravdě, bude stačit jen pár vět — protože vaši spoluhráči budou chtít do této části dobrodružství přidat své vlastní detaily (stejně jako vy do těch jejich).
+
+![karticka prvni faze](~./images/40-karticky.jpg)
 
 Pokud zjistíte, že jste se zasekli, podívejte se na základní koncept a problém vaší postavy. Najděte dilema, které má naději vrhnout tyto myšlenky do centra pozornosti. Do jakého problému jste se navezli kvůli svému základnímu konceptu nebo problému? Jak vám ostatní aspekty pomohly nebo zkomplikovaly život?
 
@@ -255,6 +260,9 @@ Nakonec sepište shrnutí vašeho dobrodružství a přínos vaší postavy do
 > Jako aspekt si vezme ***Neodolám smutnému příběhu***, aby tím vystihla důvod, kvůli kterému se do věci zapojila.
 
 
+![karticky druhe faze](~./images/43-karticky.jpg)
+
+
 ### Fáze tři: Opětovné křížení cest
 Jakmile jsou všichni hotovi s druhou fází, znovu si dobrodružství vyměníte pomocí jakékoliv metody, kterou jste použili dříve, tolikrát, aby měli všichni dobrodružství někoho jiného, k němuž ještě nepřispěli. V tu chvíli jste připraveni pro fázi tři, kdy přispějete do tohoto druhého dobrodružství a určíte si váš další aspekt. Následujte instrukce k fázi dvě.
 
@@ -265,6 +273,8 @@ Jakmile jsou všichni hotovi s druhou fází, znovu si dobrodružství vyměn�
 > Rozhodne se vzít si ***Kreju Zirdovi záda***, aby tím vyjádřila svou ochotu riskovat pro Zirda krk — skupina neví, čím si Zird takovou loajalitu zasloužil, ale to už domyslí někdy později.
 
 Nyní máte pět aspektů a slušný kus pozadí k příběhu své postavy!
+
+![karticka treti faze](~./images/44-karticky.jpg)
 
 
 ::: card Méně než tři hráči?
@@ -278,13 +288,16 @@ Trio fází předpokládá, že budete mít alespoň tři hráče. Pokud máte j
 * Nechte vypravěče, ať také vytvoří postavu. Vypravěč nicméně nebude postavu skutečně hrát vedle PH, bude to PV. Jako PV bude výborným nástrojem pro nastartování kampaně — pokud kamarád, s nímž jste se svázali během tvorby postav, záhadně zmizí nebo dokonce zemře, je to instantní palivo dramatu.
 
 Máte-li jen jednoho hráče, přeskočte fáze dvě a tři a nechte aspekty prázdné, aby se doplnily později během hry.
+:::
+
+![karta tvorby postavy](~./images/45-karta-tvorby-postavy.jpg)
 
 
 ## Dovednosti
 
 **Vyberte si dovednosti a jejich hodnocení.**
 
-Jakmile máte zmapovány fáze vaší postavy a máte vybrané aspekty, je čas vybrat si dovednosti. Popisy a detaily pro každou dovednost najdete v kapitole Dovednosti a triky.
+Jakmile máte zmapovány fáze vaší postavy a máte vybrané aspekty, je čas vybrat si dovednosti. Popisy a detaily pro každou dovednost najdete v kapitole *Dovednosti a triky*.
 
 Vaše dovednosti tvoří pyramidu, s jedinou dovedností na vrcholu s hodnocením Skvělá (+4) — což obvykle odkazuje na špičkovou dovednost — a více dovedností na každém dalším nižším hodnocení žebříčku až po Průměrné (+1):
 
@@ -311,6 +324,7 @@ V základu dáváme Skvělé (+4) jako nejlepší hodnocení dovednosti, s n
 Pokud tvoříte hru o superhrdinech, pandimenzionálních tvorech, mytických bozích nebo jiných nadlidských postavách, neváhejte a nastavte vrchol dovednostní pyramidy — a tedy i strop — na Vynikající (+5) nebo Fantastické (+6).
 
 Počet dovedností, které dostanete, by měl být relativní velikosti seznamu dovedností. Náš základní seznam má 18 dovedností a Velká pyramida vám dá hodnocení v 10 z nich, což znamená, že každá postava má možnosti ve více než polovině celkového počtu věcí, které můžete dělat, a je tu prostor pro šest PH vynikat (tzn. vybrat si své tři nejlepší dovednosti), aniž by se překrývaly. To můžete ve své hře změnit, zejména pokud jste změnili dovednostní strop. Jen mějte na paměti, že větší pyramida znamená větší překryv mezi postavami, pokud tedy vaše hra nemá rozsáhlejší seznam dovedností.
+:::
 
 > Ryan ví, že Zird není co do dovedností jako ostatní PH, takže se od nich snaží Zirda co nejvíce odlišit. Skupina se rozhodla, že Zirdova magie bude fungovat skrze jeho dovednost Učenost, takže se na ní bude přirozeně soustředit.
 
@@ -342,7 +356,7 @@ Pokud si vezmete čtyři triky, vaše obnova je 2. Pokud si vezmete pět triků,
 
 ::: card
 
-Pokud chcete, aby PH měly spoustu cool vychytávek a speciálních bonusů, můžete tyto základní hodnoty upravit a dát triků zdarma více. Můžete také změnit základní úroveň obnovy — vyšší obnova znamená, že PH nebudou potřebovat tolik vynucení jako obvykle (představte si superhrdinský komiks) a nižší obnova znamená, že budou potřebovat několik hned z kraje každého sezení, aby dostaly dostatečnou zásobu (představte si Smrtonosnou past). Také platí, že čím vyšší obnova, tím více si budou hráči kupovat triky.
+Pokud chcete, aby PH měly spoustu cool vychytávek a speciálních bonusů, můžete tyto základní hodnoty upravit a dát triků zdarma více. Můžete také změnit základní úroveň obnovy — vyšší obnova znamená, že PH nebudou potřebovat tolik vynucení jako obvykle (představte si superhrdinský komiks) a nižší obnova znamená, že budou potřebovat několik hned z kraje každého sezení, aby dostaly dostatečnou zásobu (představte si *Smrtonosnou past*). Také platí, že čím vyšší obnova, tím více si budou hráči kupovat triky.
 :::
 
 
@@ -371,9 +385,15 @@ Můžete si přidat měřítko stresu, pokud postavy ve vaší hře trpí zvlá�
 
 > Landon má Dobrou (+3) Kondici, což mu přidává další dva čtverečky fyzického stresu. Jeho Vůle je sice pouze Průměrná (+1), ale i tak mu přidá jeden další čtvereček duševního stresu.
 
+![landonova meritka stresu](~./images/21-1-meritko-stresu.jpg)
+
 > Cynere má Slušnou (+2) Kondici, takže dostane třetí čtvereček fyzického stresu. Její měřítko duševního stresu zůstane na dvou čtverečcích, protože má jen Nevalnou (+0) Vůli.
 
+![cynerina meritka stresu](~./images/21-2-meritko-stresu.jpg)
+
 > Tajemný Zird je spíš knihomol a má Nevalnou (+0) Kondici, takže má jen základní měřítko fyzického stresu se dvěma čtverečky. Má nicméně Slušnou (+2) Vůli, což mu přinese jeden bonusový čtvereček duševního stresu.
+
+![zirdova meritka stresu](~./images/21-3-meritko-stresu.jpg)
 
 > Protože žádná z postav nemá Vynikající (+5) nebo lepší Kondici ani Vůli, mají všechny základní počet následků: jeden drobný, jeden mírný a jeden vážný.
 
