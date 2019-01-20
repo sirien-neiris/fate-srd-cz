@@ -241,7 +241,7 @@ Přehazování kostek je trochu riskantnější, než vzít si +2 bonus, ale je 
 
 Pokud chcete více příkladů na vyvolávání aspektů, rozházeli jsme je napříč knihou – jsou natolik nedílnou součástí toho, jak Fate funguje, že přirozeně skončily v mnoha příkladech ze hry. Mrkněte na stranu 135, stranu 149 a stranu 152.
 
-Pokud jsou aspekty, které vyvoláváte, na kartě postavy někoho jiného, včetně situačních aspektů, které jsou k ní přiděleny, dáváte utracený bod osudu jejímu hráči. Ten je však nemůže nijak využít, dokud scéna neskončí.
+Pokud jsou aspekty, které vyvoláváte, na kartě postavy někoho jiného, včetně situačních aspektů, které jsou k ní přiděleny, a pokud tyto aspekty vyvoláváte v neprospěch dané postavy, tak dáváte utracený bod osudu jejímu hráči. Ten je však nemůže nijak využít, dokud scéna neskončí. (Vyvolávání aspektů třetích stran se provádí stejně jako vyvolávání k nikomu nepřilepených situačních aspektů.)
 
 
 ::: card Trik s výpustkou
