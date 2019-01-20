@@ -67,6 +67,19 @@ Zejména zvažte tyto body:
 
 Toto je důležitý krok, protože může odhalit, že navržená specialita ve skutečnosti nepřidává tolik, kolik jste mysleli, což vám umožní buď přidat jí více možností, nebo ji prostě do hry nezahrnout. 
 
+> U Zirdovy magie se hráči rozhodnou, že chtějí, aby věci zůstaly jednoduché a absraktní – je to jen další prostředek pro řešení problémů, stejně jako Landonova bojová umění nebo Cyneřina mečozlodějna (u čehož Lily trvá na tom, že jde o skutečný termín) – velmi schopný kouzelník by měl být obáván stejně, jako velmi dobře trénovaný šermíř, ale ne víc.
+
+> Shodnou se, že to příběh ovlivní hned z několika důvodů. Představují si spoustu tajemných magických efektů a zápletek, do nichž bude Zird moci šťourat, stejně jako majetnické sklony Bratrstva ohledně znalostí.
+
+> Rozhodnou se, že Zirdova magie bude umožňovat interakci s nadpřirozenem, která pro jiné lidi prostě není možná, a že bude moci lidi ovlivňovat nebo jim ubližovat, ale opět zdůrazní, že by neměla být o nic mocnější než jiné dovednosti. Jednoduchá kouzla budou prostě používat základní čtyři akce a rituály budou užívat výzev, střetů nebo konfliktů, podle toho, co se bude hodit.
+
+> Jmenovitě vyloučí přítomnost svět měnící „vysoké“ magie která by tvořila věci z ničeho, ničila města a tak podobně. Pokud by se podobné věci objeví, půjde o námět pro celý scénář a o výsledek snahy několika lidí, kteří tomu přinesou značné oběti.
+
+> Nikomu ve skupině se nezdá, že by magie nějak víc ovlivňovala ostatní dovednosti, což pomůže udržet její zvláštní povahu.
+
+> Používání Zirdovy magie je především o podivnostech. Ryan si představuje vytváření seznamu podivných požadavků a přísad, které nejsou nijak zvlášť konzistentní – některé věci lze udělat rychle, jiné ne a rozhodnout které jsou které je jen o dramatickém momentu. Zbytku skupiny tato neurčitost vyhovuje, takže to odklepnou. 
+
+
 
 ### Přiřazení k prvkům postavy
 
@@ -272,7 +285,7 @@ V těch vzácných situacích, kde budete mít naprosto ideální nástroj pro d
 
 **Cena:** Žádná
 
-Meč Démonobij má apsket zvaný Ničitel démonů. Pokud jste nositelem meče, můžete tento aspekt vyvolat při střetu s démony, ať už v boji, nebo když jim poskytujete opozici. Můžete se kvůli magii meče stát také cílem vynucení; meč neustále tlačí svého nositele k ničení démonů, bez ohledu na cokoliv dalšího. To může vést až k naprostému odvrácení se od jakýchkoliv jiných cílů, nechtěnému přilákání démonovy pozornosti nebo jiným komplikacím.
+Meč Démonobij má apsket zvaný ***Ničitel démonů***. Pokud jste nositelem meče, můžete tento aspekt vyvolat při střetu s démony, ať už v boji, nebo když jim poskytujete opozici. Můžete se kvůli magii meče stát také cílem vynucení; meč neustále tlačí svého nositele k ničení démonů, bez ohledu na cokoliv dalšího. To může vést až k naprostému odvrácení se od jakýchkoliv jiných cílů, nechtěnému přilákání démonovy pozornosti nebo jiným komplikacím.
 
 Navíc k tomu má vyvolání aspektu meče pár dalších zvláštních efektů: může zahnat jakoukoliv bezejmenou démonickou PV bez nutnosti konfliktu nebo střetu a vždy bez ohledu na další okolnosti dokáže odhalit přítomnost skrytého démona.
 :::
@@ -416,7 +429,7 @@ Ghirualská federace je malý stát známý svou rozsáhlou špionážní sítí
 * Průměrný (+1) Boj
 
 **Triky:** **Kontrarozvědka.** Federace může použít Vyšetřování k obraně proti pokusům jiných národů o zjištění svých aspektů. Úspěch se stylem při této obraně umožní Federaci podstrčit namísto skutečného aspektu aspekt obsahující mylné informace.
-
+:::
 
 ### Magie
 
@@ -430,7 +443,7 @@ Když tvoříte magický systém, je extrémně důležité prodiskutovat jej p�
 
 **Cena:** Kolonky aspektů, úrovně dovedností, stres/následky
 
-Při tvorbě postav získáte tři další kolonky pro aspekty, které můžete využít k popsání svého vztahu s prastarým duchem. Aspekt by měl zahrnovat kontext, například něco jako ***Sujan to pro mě zařídí*** nebo ****S Damarem se vzájemně respektujeme***.
+Při tvorbě postav získáte tři další kolonky pro aspekty, které můžete využít k popsání svého vztahu s prastarým duchem. Aspekt by měl zahrnovat kontext, například něco jako ***Sujan to pro mě zařídí*** nebo ***S Damarem se vzájemně respektujeme***.
 :::
 
 Abyste mohli používat prastaré síly, musíte si vzít novou dovednost zvanou Dorozumění.
@@ -447,7 +460,7 @@ Toto je dovednost ke sladění se s prastarými duchy a využívání jejich ene
 
 **Obrana:** Použijte Dorozumění k obraně proti nepřátelským nadpřirozeným vlivům. Selhání v obraně před těmito útoky způsobuje karmický stres. (Poznámka: Touto akcí se nemůžete přímo bránit proti magicky zesíleným útokům lidí ani jiných hmotných entit.)
 
-Speciální: Dorozumění přidává čtverečky stresu a kolonky následků vašemu měřítku karmického stresu, použijte stejná pravidla jako u Kondice a Vůle. Následky z karmického útoku doslova přeladí vesmír okolo postavy, takže se nabízí věci typu ***Hrozná smůla*** nebo ***Obklopen smutkem***.
+**Speciální:** Dorozumění přidává čtverečky stresu a kolonky následků vašemu měřítku karmického stresu, použijte stejná pravidla jako u Kondice a Vůle. Následky z karmického útoku doslova přeladí vesmír okolo postavy, takže se nabízí věci typu ***Hrozná smůla*** nebo ***Obklopen smutkem***.
 :::
 
 Každý z pradávných duchů dostane také svou kartu, která popisuje jeho portfolio, obecnou filosofii a výhody, které může nabídnout. Abyste mohli tyto výhody získat a využít, musíte využít volných vyvolání získaných akcí vytvoření výhody za pomoci dovednosti Dorozumění (jinou dovednost k tomu využít nelze) nebo utracením dvou bodů osudu. Tato výhoda vám umožní bez házení říci, že se v příběhu prostě něco stalo.
