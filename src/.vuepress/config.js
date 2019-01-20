@@ -3,7 +3,7 @@ const moment = require('moment');
 
 module.exports = {
 
-    title: 'Fate SRD Czech',
+    title: 'Český překlad Fate SRD',
     description: 'Český překlad fate SRD',
 
     themeConfig: {
@@ -12,9 +12,13 @@ module.exports = {
         // horní navigace
         nav: [
             {
+                text: 'FAQ',
+                link: '/faq/'
+            },
+            {
                 text: 'd20.cz',
                 link: 'http://www.d20.cz/'
-            }
+            },
         ],
 
         // boční menu
