@@ -82,7 +82,7 @@ Utraťte bod osudu nebo volné vyvolání. Vyberte si jedno:
 
 * +2 k vašemu hodu na dovednost
 * Přehození všech hozených kostek
-* Týmový spolupráce: +2 na hod jiné postavy proti relevantní pasivní opozici
+* Týmový spolupráce: +2 na hod jiné postavy
 * Překážka: +2 na pasivní opozici
 
 Volná vyvolání lze vzájemně skládat nebo přidávat k zaplacenému vyvolání.
