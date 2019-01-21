@@ -3,163 +3,178 @@ sidebar: auto
 ---
 
 # Formátování
-    
-## Základ
 
- * [Nápověda knihovny](https://vuepress.vuejs.org/guide/markdown.html)
+## TLDR for dummies :)
 
-```markdown
- * [Nápověda knihovny](https://vuepress.vuejs.org/guide/markdown.html)
-```
+### Standardní text
 
-## Boxy
+Odstavce musíte oddělit dvěma entery (prázdným řádkem)
+
+Pokud to neuděláte, ENTER
+tak se to přeloží jako stále ta samá řádka
+
+
+\*kurzíva\* = *kurzíva*
+
+\*\*tučné\*\* = **tučné**
+
+\*\*\*tučná kurzíva\*\*\* = ***tučná kurzíva***
+
+\[Odkaz na Kostku\](http://www.d20.cz) = \[Odkaz na Kostku\](http://www.d20.cz) 
+
+
+"Znegování" markdownu se provádí pomocí "\\". Tzn pokud nechci **tučně** ale \*\*tučně*\*\* tak to musím psát \\\*\\\*tučně\\\*\\\*. Zpětné lomítko \\ se tudíž píše jako \\\\ .
+
+
+\# tohle je hlavní nadpis (H1). Tento musí být v dokumentu jen jeden (nejspíš na začátku jako titulka kapitoly)
+
+\#\# tohle je "velký" nadpis (H2). Těch můžete mít kolik chcete
+
+\#\#\# tohle je "menší" nadpis (H3). Víc a víc křížků pak vyrobí menší a menší nadpisy (všechny budou odkazovatelné)
+
+...ukázka nebude, protože by to zbořilo levé menu tohodle dokumentu, ale jak nadpisy vypadají vidíte výše i níže. Ale že to jste vy tak takhle vypadá nadpis H4:
+
+#### Fonty (Fate značky)
+
+Fate symboly:
+
+* \<span class="fate-font"\>+\</span\> = <span class="fate-font">+</span>
+* \<span class="fate-font"\>-\</span\> = <span class="fate-font">-</span>
+* \<span class="fate-font"\>0\</span\> = <span class="fate-font">0</span>
+* \<span class="fate-font"\>o\</span\> = <span class="fate-font">o</span>
+* \<span class="fate-font"\>c\</span\> = <span class="fate-font">c</span>
+* \<span class="fate-font"\>a\</span\> = <span class="fate-font">a</span>
+* \<span class="fate-font"\>d\</span\> = <span class="fate-font">d</span>
+
+
+
+
+
+### seznamy
+
+\* tohle vyrobí bodový seznam
+  \* tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
+\* jednotlivé položky bodového seznamu *nemusí* být odděleny prázdnou řádkou
+
+\* prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
+  
+* tohle vyrobí bodový seznam
+  * tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
+* jednotlivé položky bodového seznamu *nemusí* být odděleny prázdnou řádkou
+
+* prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
+
+
+\1. pro číslovaný seznam 
+\2. platí totéž
+
+\1. pro číslovaný seznam 
+\2. platí totéž
+
+
+
+### Příklady (citace)
+
+\> tohle je funkce "citace" a používáme ji na příklady
+
+> tohle je funkce "citace" a používáme ji na příklady
+
+
+Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná pravidla pro formátování textu.
+
+\> Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
+
+\> vodící linie z toho udělá jednu celistvou citaci
+
+> Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
+
+> vodící linie z toho udělá jednu celistvou citaci
+
+
+\> \* tohle je bodový seznam v citaci
+\> \* opět platí totéž ci výše pro 
+\>   \* druhou úroveň
+
+\> \* i pro odskoky
+
+> * tohle je bodový seznam v citaci
+> * opět platí totéž ci výše pro 
+>   * druhou úroveň
+
+> * i pro odskoky
+
+
+
+
+### Rámečky (kartičky atp.)
+
+\:\:\: card
+
+Tohle bude základní rámeček. 
+
+MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
+\:\:\:
 
 ::: card
-Metry špičku zločinem veršů sprosté. 
-81 žalu kývla ně instrumentem našemu vryl číslem. 
-Vole jo podřízení připadly ah roubalová. 
 
-Tajná, eh vašemu však ním toje makaróny dotyčný a kadaníka oči dá dosud.
+Tohle bude základní rámeček. 
+
+MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
 :::
 
-```markdown
-::: card
-Metry špičku zločinem veršů sprosté. 
-81 žalu kývla ně instrumentem našemu vryl číslem. 
-Vole jo podřízení připadly ah roubalová. 
 
-Tajná, eh vašemu však ním toje makaróny dotyčný a kadaníka oči dá dosud.
-:::
-```
+\:\:\: card Tohle je nadpis
 
-::: card S nadpisem
-Odborníkem eh ferdo zabouchne chodník: 56 štábu loupež ruku kalousů 
-pivo i nikom mysli knížek baštovi ó z nepřízní andělskou sedli. 
-Řeky 19 borůvčím tak angličani u uzná hubu. 
+Karta s nadpisem
+\:\:\:
 
-Nemocí i pec začal nás prostřelil citu zamkl. Ní ke ó pasu zeleninu. Kaktus ne mučen míním ex ukryla.
+::: card Tohle je nadpis
+
+Karta s nadpisem
 :::
 
-```markdown
-::: card S nadpisem
-Odborníkem eh ferdo zabouchne chodník: 56 štábu loupež ruku kalousů 
-pivo i nikom mysli knížek baštovi ó z nepřízní andělskou sedli. 
-Řeky 19 borůvčím tak angličani u uzná hubu. 
 
-Nemocí i pec začal nás prostřelil citu zamkl. 
-Ní ke ó pasu zeleninu. Kaktus ne mučen míním ex ukryla.
+\:\:\: card V rámečku lze opět dále formátovat
+
+Za pomoci standardní \*kurzívy\*, \*\*tučného\*\* a \*\*\*tučné kurzívy\*\*\*
+
+\* bodových seznamů
+
+\> citací
+
+\*\*uvnitř rámečků NEpoužívejte nadpisy\*\*
+\:\:\:
+
+::: card V rámečku lze opět dále formátovat
+
+Za pomoci standardní *kurzívy*, **tučného** a ***tučné kurzívy***
+
+* bodových seznamů
+
+> citací
+
+**uvnitř rámečků NEpoužívejte nadpisy**
 :::
-```
 
-::: card Když tvoříte svou hru
-* **Herní prostředí:** Rozhodněte, jaký je svět, který protagonisty obklopuje.
-* **Rozsah:** Rozhodněte, jak výpravný nebo osobní váš příběh bude.
-* **Problémy:** Rozhodněte, jaké hrozby a tlaky vlastní vašemu hernímu prostředí 
-přimějí protagonisty k akci.
-* **PV:** Rozhodněte, jací lidé a jaká místa jsou důležitá.
-* **Dovednosti a Triky:** Rozhodněte, jaké druhy činností budou chtít postavy v daném 
-herním prostředí nejspíše dělat.
-* **Tvorba postav:** Vytvořte si postavy.
-:::
 
-```markdown
-::: card Když tvoříte svou hru
-* **Herní prostředí:** Rozhodněte, jaký je svět, který protagonisty obklopuje.
-* **Rozsah:** Rozhodněte, jak výpravný nebo osobní váš příběh bude.
-* **Problémy:** Rozhodněte, jaké hrozby a tlaky vlastní vašemu hernímu prostředí 
-přimějí protagonisty k akci.
-* **PV:** Rozhodněte, jací lidé a jaká místa jsou důležitá.
-* **Dovednosti a Triky:** Rozhodněte, jaké druhy činností budou chtít postavy v daném 
-herním prostředí nejspíše dělat.
-* **Tvorba postav:** Vytvořte si postavy.
-:::
-```
+### Tabulky
 
-## Příklady
+\| hlavička \| bohužel \| musí      \| být     \|
+\| ---      \| :---:   \| ---:      \| ---     \|
+\| \*\*2. řádek\*\* \| je      \| zarovnání \| sloupce \|
+\| není nutné snažít se mít \| ten zdroj nějak \| zvlášť \| hezky \|
+
+| hlavička | bohužel | musí      | být     |
+| ---      | :---:   | ---:      | ---     |
+| **2. řádek** | je      | zarovnání | sloupce |
+| není nutné snažít se mít | ten zdroj nějak | zvlášť | hezky |
 
 
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+## Ofiko složitá nápověda
 
-Quote break.
-
-> This is a very long line that will still be quoted properly 
-when it wraps. Oh boy let's keep writing to make sure this is long enough to 
-actually wrap for everyone. Oh, you can  
-
-```markdown
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly 
-when it wraps. Oh boy let's keep writing to make sure this is long enough to 
-actually wrap for everyone. Oh, you can  
-```
-
-## Listy
-
-1. First ordered list item
-2. Another item
-   * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-    1. Ordered sub-list
-4. And another item.
-    
-    You can have properly indented paragraphs within list items. Notice the 
-    blank line above, and the leading spaces (at least one, 
-    but we'll use three here to also align the raw Markdown).
-    
-    To have a line break without a paragraph, you will need to use two trailing spaces.
-    
-    Note that this line is separate, but within the same paragraph.
-    
-    (This is contrary to HTML the typical GFM line break behaviour, 
-    where trailing spaces are not required.)
-    
+ * [Tady máte nápovědu knihovny](https://vuepress.vuejs.org/guide/markdown.html), pokud myslíte že jí potřebujete a věříte si že se v tom vyznáte :)
 
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
 
-```markdown
-1. First ordered list item
-2. Another item
-   * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-    1. Ordered sub-list
-4. And another item.
-    
-    You can have properly indented paragraphs within list items. Notice the 
-    blank line above, and the leading spaces (at least one, 
-    but we'll use three here to also align the raw Markdown).
-    
-    To have a line break without a paragraph, you will need to use two trailing spaces.
-    
-    Note that this line is separate, but within the same paragraph.
-    
-    (This is contrary to HTML the typical GFM line break behaviour, 
-    where trailing spaces are not required.)
-    
-
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-```
-
-## Fate znaky
-
-| znak | html |
-| :---: | :---: |
-| <span class="fate-font">+</span> | `<span class="fate-font">+</span>` |
-| <span class="fate-font">-</span> | `<span class="fate-font">-</span>` |
-| <span class="fate-font">0</span> | `<span class="fate-font">0</span>` |
-| <span class="fate-font">a</span> | `<span class="fate-font">a</span>` |
-| <span class="fate-font">c</span> | `<span class="fate-font">c</span>` |
-| <span class="fate-font">d</span> | `<span class="fate-font">d</span>` |
-| <span class="fate-font">o</span> | `<span class="fate-font">o</span>` |
 
