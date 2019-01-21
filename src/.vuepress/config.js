@@ -1,6 +1,9 @@
 const sidebarMenu = require('../menu');
 const moment = require('moment');
 
+const googleAnalytics = process.env.GOOGLE_ANALYTICS;
+
+
 module.exports = {
 
     title: 'Český překlad Fate SRD',
@@ -110,7 +113,7 @@ module.exports = {
         }],
         ['@vuepress/medium-zoom'],
         ['@vuepress/google-analytics', {
-            'ga': '' // UA-00000000-0
+            'ga': googleAnalytics
         }]
     ],
 
