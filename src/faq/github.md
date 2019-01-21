@@ -75,12 +75,12 @@ Tlačítko ***Editace stránky na GitHub*** najdete určitě sami - pokud jste z
 
 **Cesta k souboru:***
 
-![cesta k souboru](~.images/cesta-k-souboru.jpg)
+![cesta k souboru](~./images/cesta-k-souboru.jpg)
 
 
 **Fork tlačítko**
 
-![fork tlacitko](~.images/fork-tlacitko.jpg)
+![fork tlacitko](~./images/fork-tlacitko.jpg)
 
 
 ### Práce s vaší kopií (forkem)
@@ -114,7 +114,7 @@ Jakmile změny odešlete, tak můžete svůj fork pro pořádek klidně smazat (
 
 Cesta je zobrazená nalevo nahoře, tlačítka pro práci se soubory o něco níže po pravé straně:
 
-![vase slozka - fork](~.images/vlastni-fork.jpg)
+![vase slozka - fork](~./images/vlastni-fork.jpg)
 
 
 **src složka**
