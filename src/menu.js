@@ -31,6 +31,10 @@ const menu = {
             children: [
                 '/fae/1-zaciname',
                 '/fae/2-spolecne-vypraveni-pribehu',
+                '/fae/3-kym-chcete-byt',
+                '/fae/4-vysledky-akce-pristupy',
+                '/fae/5-vyzvy-strety-a-konflikty',
+                '/fae/6-hups-poskozeni-stres-a-nasledky',
             ]
         },
         {
