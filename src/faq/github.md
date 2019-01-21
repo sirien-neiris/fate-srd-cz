@@ -6,77 +6,190 @@ sidebar: auto
 
 ## Pojmy
 
- * **Git** - systém verzování souborů
- * **GitHub** - stránky kde může mít člověk veřejný git repozitář 
- zde je potřeba mít učet pokud chcete editovat SRD
- * **Repozitář** - složka kde se používá git
+Moc se omlouváme, tím, že používáme Github, jsme bohužel nuceni používat i trochu tamnější ITácké terminologie. Nemusíte se toho děsit ani si to "zapamatovávat", ale bude lepší, když si alespoň pročtete tento seznam:
+
+ * **Git** - systém verzování souborů (nemusíte řešit, prostě název technologie, kterou toto SRD používá)
+ * **GitHub** - stránka pro skladování git projektů a práci s nimi (jako Dropbox / Google Drive, jen úplně něco jinýho)
+   * GitHub bohužel nemá možnost anonymního přispívání, takže **k editaci SRD je potřeba udělat si účet**.
+ * **Repozitář** - složka
+ * **Master** - hlavní verze (složky, dokumentu - hlavní složka / hlavní dokument)
+ * **Fork (věc)** - kopie oddělená od originálu, kterou lze dále měnit
+ * **Fork (činnost)** - vytvořit fork, tzn. udělat si vlastní kopii originálu (masteru)
+ * **Pull** - odeslaný požadavek o spojení vašeho forku (editace) s originálem (masteru) (žádost o přepsání masteru vaším forkem)
+ * **Markdown (soubor)** formát souboru (jako .docx nebo .xls) v němž je text formátovaný za pomocí markdownu
+ * **Markdown (formát)** způsob formátování hvězdičkami a jinými značkami, který znáte z internetu - \*kurzíva*\* je *kurzíva*, \*\*tučně\*\* je **tučně** atd.
 
 ## Základní fungování 
 
- * Máme hlavní repozitář daného SRD ve kterém je aktuální verze textů v markdownu
- * Přispívání a editování jednotlivbých části se provádní přes fork aktuální 
- verze provedení požadovaných změn a vytvoření pull requestu
- * pulrequest projde kontrolou osoby zodpovědné za SRD a pak kontrolou člověka zodpovědného za technické řešení.
- * Po uspěšné kontrole dojde k začlenění requestu do SRD a aktualizace webu
- 
-## Jak přidat nebo změnit obsah 
+ * Pro místní SRD máme na Githubu vlastní složku
+   * Všechen obsah místního SRD je v této složce
+ * Obsah SRD je uložen v textových "markdown" souborech (koncovka .md, název_souboru.md)
+ * **Tyto soubory jsou přístupné** přes tlačítko *"Editace stránky na GitHub"* vždy na konci stránky nalevo dole
+ * **Jednotlivé soubory lze editovat** (detaily viz níže)
+   * jednorázově (pro velmi rychlé úpravy nebo pro jednorázové nahrání věcí)
+   * rozsáhle (za pomoci vytvoření vlastního forku)
+ * Všechny editace prochází kontrolou na naší straně (Github umožňuje velmi rychlé porovnání verzí souboru)
+   * změny se tedy neprojeví ihned, ale až po našem schválení (tzn. nebojte, nic nerozbijete)
+   
+### Založení účtu na Github
 
-### Vytvoření forku
+...vám zabere míň než 1 minutu. Doslova. Jde o opensource projekt ITáků pro ITáky:
 
-Fork vytvoříte tlačítkem na obrázku v repozitáři SRD
+* jděte na [github.com](https://github.com/)
+* napíšete nick
+* zadáte e-mail
+* zvolíte si heslo
+* ...a kliknete na "založit účet"
 
-![Vytvoření forku](~./images/navod1.jpg)
+Hotovo, nic víc v tom neni, tak se toho nebojte a [jděte to udělat hned teď](https://github.com/)
 
-### Práce s vlastním repozitářem 
 
-Výsledkem forku je že se vám po chvíli zobrazí váš vlastní repozitář s SRD, 
-vydíte info že je to výš repozitář a odkud byl forknut. V pravo vidíte lačítka pro přidání souborů
-a pod nimi část kde mužete procházet jednotlivé složky. 
 
-![Vytvoření forku](~./images/navod2.jpg)
+## Jednorázová editace
 
-Vás bude zajímat složka src ve které by měly být jednotlivé složky pro jednotlivé knihy SRD. Skrze ní se mužete dostat k jednotlivíms tránkám v markdovnu.
+* Na stránce kterou chcete editovat nalevo dole kliknete na ***Editace stránky na GitHub***
+* Objevíte se rovnou v editačním okně. Změníte co chcete změnit. 
+  * Dejte si pozor ať to je skutečně VŠECHNO co chcete změnit!!!
+* Dole kliknete na zelené tlačítko ***Propose file change***
+* Změny se uloží do samostatného souboru a objevíte se na potvrzovací stránce. Zde klikněte na ***Create pull request***
 
-![Vytvoření forku](~./images/navod3.jpg)
+Poté, co editaci uzavřete a odešlete pomocí Create pull request **už nezkoušejte dělat žádné další změny**, dokud nezapracujeme ty současné (poté je udělejte opět standardní cestou). Ano, Github to umožňuje a zvládnete se k tomu proklikat, ale nám to udělá dost bordel - pokud chcete pracovat postupně a věci si v mezičase ukládat, tak prosíme použijte korektnější metodu:
 
-Když budete mít daný soubor otevřený a uvidíte jeho obsah můžete kliknout na tužtičku a začít editovat. 
 
-![Vytvoření forku](~./images/navod4.jpg)
 
-Po skončení editace soubor comitnete, uložíte tak jeho změny pokud je to první commit ve forku 
-doporučuji místo comitu do větve master vytvořit novou větev. 
-Pokud už máte větev vytvořenou tak ji nechte vybranou. 
+## Rozsáhlá ("korektní") editace
 
-Po potvrzení na vás vyskočí formulář jestli chcete udělat pull request pokud už nechcete nic dál 
-editovat tak mužete změny odestal pul requestem ke schválení a začlenění do srd. 
+### Vytvoření vlastní kopie (forku)
 
-![Vytvoření forku](~./images/navod5.jpg)
+* Na stránce kterou chcete editovat nalevo dole kliknete na ***Editace stránky na GitHub***
+* Nalevo nahoře máte vypsanou "cestu" k souboru, který jste chtěli editovat. 
+* Klikněte v ní na druhou položku cesty (tedy za to co vidíte za "d20cz", v případě Fate to je "d20cz / fate-srd-cz", takže kliknete na ***fate-srd-cz***
+* Napravo nahoře je tlačítko ***Fork***. Klikněte na něj
 
-Pokud ale chcete dělat další změny tak mužete pokračovat v editaci jen pozor aby ste byly ve správné větvi kde děláte změny. 
+Výsledkem je že se vám na Githubu za moment vytvoří vaše vlastní kopie SRD obsahu (viz dále)
 
-![Vytvoření forku](~./images/navod6.jpg)
 
-### Vytvoření Pull requestu
+#### Obrázkový (printscreen) průvodce
 
-Když už budete mít všechny změny hotové tak a budete je chtít odeslat ke zpracování do SRD tak kliknete na tlačítko create pull request
+Tlačítko ***Editace stránky na GitHub*** najdete určitě sami - pokud jste zapomněli, tak je nakaždé stránce SRD na stejném místě co Peroutkův článek o Hitlerovi. Když na něj kliknete, přenese vás to na Github. To co vás zajímá je v horní části stránky:
 
-![Vytvoření forku](~./images/navod7.jpg)
+**Cesta k souboru:***
 
-Zde zvolíte větev ve které ste změny dělaly. Popíšete změny které ste udělaly. A vytvoříte lull request. 
+![cesta k souboru](~.images/cesta-k-souboru.jpg)
 
-![Vytvoření forku](~./images/navod8.jpg)
 
-Zde vydíte vytvořený pull request který čeká na zpracování  začlenení z naší strany. 
+**Fork tlačítko**
 
-### Smazání svého forknutého repozitáře
+![fork tlacitko](~.images/fork-tlacitko.jpg)
 
-Pokud už máte vše hotové a odeslané mužete smazat repozitář a příště si forknout aktuální verzi znovu. 
 
-![Vytvoření forku](~./images/navod9.jpg)
+### Práce s vaší kopií (forkem)
 
-Smazat jde repozitář v nastavení.
+Po kliknutí na Fork tlačítko se vám vytvoří vlastní fork - tedy kopie složky, do níž jste rovnou přeneseni. V ní vidíte:
 
-![Vytvoření forku](~./images/navod10.jpg)
+* opět cestu k vaší složce (forku) - na stejném místě nalevo nahoře
+* po pravé straně nad zobrazením samotné složky tlačítka pro práci se soubory (tvorba nových, nahrávání, vyhledávání)
+* podsložku ***src*** - ta vás zajímá *("src" jako zkratka z "sources", tedy "zdroje" - zdrojové soubory)*
+  * v této složce najdete složky s jednotlivými "knihami", tedy nejvyššími položkami z levého menu - Fate Core, FAE atd.
+  * v těchto složkách se pak nachází samostatné jednotlivé soubory
+* Po otevření souboru jej musíte otevřít pro editaci - tlačítko tužtičky napravo nad souborem
+* Po dokončení práce soubor uložte tlačítkem ***Propose file change***, ALE ještě předtím:
+  * pokud to je vaše první editace, přepněte překlikávátko z "master branch" do "create a new branch"
+  * pokud to je už x-tá editace, tak nechte vybranou stávající "větev"
+  * *nové podobě souboru se říká "commit". To si nemusíte pamatovat a není to důležité, ale může se vám to hodit vědět někdy jindy.*
+  
+* **pokud si jen ukládáte práci, ale budete se k ní chtít vrátit**, tak zde vaše práce končí 
+  * můžete se vrátit do editace (tlačítko "View file" napravo dole nad náhledem změn, poté opět tlačítko tužtičky napravo)
+  * nebo můžete prostě odejít a k věci se vrátit kdykoliv později
+* **pokud jste s prací hotovi, vytvoříte pull request** pro celý váš fork
+  * vraťte se do vaší základní složky
+  * napravo nad přehledem obsahu složky klikněte na ***New pull request***, následně na ***Create pull request***
+  * Při odesílání pull requestu prosím **krátce popište do textového pole změny které jste udělali** - Github sice usnadňuje porovnání souborů, ale je to mnohem snazší zpracovat když člověk ví, na co se vlastně má dívat.
+
+Jakmile změny odešlete, tak můžete svůj fork pro pořádek klidně smazat (viz níže)
+  
+#### Obrázkový (printscreen) průvodce
+
+**Vaše složka (fork)** 
+
+Cesta je zobrazená nalevo nahoře, tlačítka pro práci se soubory o něco níže po pravé straně:
+
+![vase slozka - fork](~.images/vlastni-fork.jpg)
+
+
+**src složka**
+
+![src slozka](~./images/slozka-src.jpg)
+
+
+**Zdrojové soubory**
+
+![zdrojove soubory](~./images/zdrojove-soubory.jpg)
+
+
+**Tlačítko editace souboru**
+
+![tlacitko-editace](~./images/tlacitko-editace.jpg)
+
+
+**Ukládání editací**
+
+![ukladani editaci](~./images/ukladani-editaci.jpg)
+
+
+**Uložená editace**
+
+![ulozena editace](~./images/ulozena-editace.jpg)
+
+
+**Odeslání změn (nový pull)**
+
+![odeslani editace](~./images/new-pull.jpg)
+
+...a následně
+
+![potvrzeni odeslani](~./images/potvrzeni-odeslani.jpg)
+
+
+
+### Smazání forku
+
+Jakmile odešlete svoje změny tak můžete svůj fork klidně smazat.
+
+* Otevřete si znovu svůj fork
+  * pokud ho nemáte poruce, tak napravo nahoře v uživatelském menu tlačítko ***your repositories***
+* Ve svém forku jděte do Settings 
+* Odscrollujte úplně na konec stránky kde se nachází červeně obtáhnutá "Danger Zone"
+* klikněte na poslední červeně nadepsané tlačítko ***Delete this repository***
+  * objeví se potvrzovací dialog který vás vyzve k napsání jména smazávané složky. Jde o tu část jména která je v názvu cesty, tedy pro Fate to je "fate-srd-cz". Pak můžete dát potvrdit.
+
+
+#### Obrázkový (printscreen) průvodce
+
+**Vaše složky**
+
+![vase slozky](~./images/your-repositories.jpg)
+
+
+**Fork settings**
+
+![settings](~./images/settings.jpg)
+
+
+**Danger Zone - delete**
+
+![danger zone delete tlacitko](~./images/danger-zone.jpg)
+
+
+**Potvrzení smazání**
+
+![potvrzeni-smazani](~./images/potvrzeni-smazani.jpg)
+
+
+
+
+
+## Jsem "ITák" a vím o co jde - info navíc
 
 ## Struktura složek
 
