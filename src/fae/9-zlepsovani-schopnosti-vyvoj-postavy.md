@@ -5,9 +5,9 @@ Lidé se mění. Vaše dovednosti se vybrušují s tím, jak je procvičujete. V
 
 ## Milníky
 
-Příběhy v seriálech, komiksech, filmech a i ve videohrách obvykle pokračují od epizody k epizodě, od série k sérii. Donést Prsten do Ohnivé hory Frodovi trvalo tři tlusté knihy. Porazit Ohnivého Lorda zabralo Aangovi tři série. Chápete, o čem mluvíme. FAE dokáže takové typy příběhů vyprávět; odehrajete mnoho herních sezení v řadě s těmi samými postavami – to se nazývá **kampaň** – a příběh se vytvoří sám. Uvnitř dlouhých příběhů jsou ale kratší příběhové oblouky, jako jsou jednotlivé epizody seriálu nebo jednotlivé problémy v komiksu, v nichž jsou kratší příběhy odvyprávěny a uzavřeny. *FAE* dokáže i to, dokonce i v delší kampani. 
+Příběhy v seriálech, komiksech, filmech a i ve videohrách obvykle pokračují od epizody k epizodě, od série k sérii. Donést Prsten do Ohnivé hory Frodovi trvalo tři tlusté knihy. Porazit Ohnivého Lorda zabralo Aangovi tři série. Chápete, o čem mluvíme. *FAE* dokáže takové typy příběhů vyprávět; odehrajete mnoho herních sezení v řadě s těmi samými postavami – to se nazývá **kampaň** – a příběh se vytvoří sám. Uvnitř dlouhých příběhů jsou ale kratší příběhové oblouky, jako jsou jednotlivé epizody seriálu nebo jednotlivé problémy v komiksu, v nichž jsou kratší příběhy odvyprávěny a uzavřeny. *FAE* dokáže i to, dokonce i v delší kampani. 
 
-Ve *FAE* tato zakončení nazýváme **milníky** – ať už jsou malé pro krátké příběhy, nebo skutečně velké pro zakončení mnoha herních sezení. FAE rozeznává tři typy milníků a každý z nich vám umožňuje svou postavu nějakým způsobem změnit.
+Ve *FAE* tato zakončení nazýváme **milníky** – ať už jsou malé pro krátké příběhy, nebo skutečně velké pro zakončení mnoha herních sezení. *FAE* rozeznává tři typy milníků a každý z nich vám umožňuje svou postavu nějakým způsobem změnit.
 
 
 ### Malé milníky
