@@ -38,7 +38,9 @@ Střet vyhrává první účastník, který získá tři vítězství.
 ### Příprava scény
 
 Určete, co se děje, kde kdo je a jaké je okolní prostředí. Kdo jsou protivníci? Vypravěč by měl sepsat na kartičky nebo papírky pár situačních aspektů a dát je na stůl. Pokud hráči chtějí, mohou mu nějaké navrhnout.
-Vypravěč také ustanoví zóny, volně definované oblasti, které říkají, kde se kdo nachází. Zóny určíte na základě scény a následujících vodítek:
+
+Vypravěč také ustanoví **zóny**, volně definované oblasti, které říkají, kde se kdo nachází. Zóny určíte na základě scény a následujících vodítek:
+
 Obecně můžete interagovat s jinými postavami ve stejné zóně – nebo ve vedlejší zóně, pokud můžete ospravedlnit, že jednáte na větší vzdálenost (například, pokud máte zbraň na dálku nebo vhodné kouzlo).
 
 
