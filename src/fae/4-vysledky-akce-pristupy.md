@@ -113,6 +113,7 @@ Odvyprávěli jste, co se vaše PH pokouší udělat a shodli jste se, že tu je
 * **Remíza:** Podívejte se na akci svého protivníka, abyste zjistili, co se stalo.
 * **Úspěch:** Váš protivník nedosáhne toho, o co mu šlo.
 * **Úspěch se stylem:**  Váš protivník nedosáhne svého a vy získáte posílení.
+:::
 
 
 ### Překonání
