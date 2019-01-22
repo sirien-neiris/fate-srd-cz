@@ -1,6 +1,6 @@
 # Hups! Poškození, stres a následky
 
-Když jste zasaženi útokem, závažnost zásahu je rozdíl mezi hodem na útok a vaším hodem na obranu; měříme jej v posunech (po žebříčku). Například když váš protivník hodí na svůj útok Výborně (+5) a vy hodíte na svou obranu pouze Dobře (+3), pak útok způsobí dvouposunový zásah (5 – 3 = 2).
+Když jste zasaženi útokem, závažnost zásahu je rozdíl mezi hodem na útok a vaším hodem na obranu; měříme jej v **posunech** (po žebříčku). Například když váš protivník hodí na svůj útok Výborně (+5) a vy hodíte na svou obranu pouze Dobře (+3), pak útok způsobí dvouposunový zásah (5 – 3 = 2).
 
 Pak nastane jedna ze dvou možností:
 
