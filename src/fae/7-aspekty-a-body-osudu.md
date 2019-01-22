@@ -2,7 +2,7 @@
 
 **Aspekt** je slovo nebo fráze, která popisuje něco speciálního na osobě, místě, věci, situaci, nebo skupině. Někdo může být ***Nejlepším šermířem na Oblačném moři***. Místnost může být ***V plamenech*** poté, co jste srazili petrolejku. Poté, co se při cestování v čase setkáte s dinosaurem, můžete být ***Vyděšeni***. Aspekty vám umožňují měnit příběh způsobem, který odpovídá tendencím, dovednostem a problémům vašich postav. 
 
-**Body** osudu utrácíte, abyste uvolnili sílu aspektů a přiměli je vám pomoci – což si sledujete pomocí mincí nebo skleněných korálků či pokerových žetonů. Body osudu **získáváte**, když necháte aspekty postavy, aby proti vám byly vynuceny a ztížily vám tak situaci, nebo učinily váš život složitějším. Ujistěte se, že si poznamenáte body osudu, které vám zbyly na konci sezení – pokud máte více, než je vaše obnova, začnete další sezení s tolika body osudu, s kolika jste to dřívější skončili. 
+**Body osudu utrácíte**, abyste uvolnili sílu aspektů a přiměli je vám pomoci – což si sledujete pomocí mincí nebo skleněných korálků či pokerových žetonů. Body osudu **získáváte**, když necháte aspekty postavy, aby proti vám byly vynuceny a ztížily vám tak situaci, nebo učinily váš život složitějším. Ujistěte se, že si poznamenáte body osudu, které vám zbyly na konci sezení – pokud máte více, než je vaše obnova, začnete další sezení s tolika body osudu, s kolika jste to dřívější skončili. 
 
 > Během herního sezení jste získali spoustu bodů osudu a ukončili jste hru s pěti. Vaše obnova je 2, takže až budete hrát příště, budete začínat s pěti body osudu. Jiný hráč ale skončil stejné sezení jen s jedním bodem osudu. Jeho obnova je 3, takže bude příští sezení začínat se 3 body osudu, ne jen s tím jedním, který mu na konci zbyl. 
 
@@ -15,7 +15,7 @@ Existuje nekonečné množství aspektů, ale bez ohledu na to, jak se nazývaj�
 > Příklady: ***Kapitánka oblačné lodi Nimbus, Na útěku před Rytíři Kruhu, Pozorný k detailu, Musím chránit svého bratra***
 
 
-**Situační aspekty:** Tyto aspekty popisují prostředí, v němž se odehrává nějaká akce. To zahrnuje i aspekty, které vytvoříte nebo objevíte použitím akce **vytvoření výhody99. Situační aspekty obvykle zmizí na konci scény, které byly součástí, nebo když někdo podnikne nějakou akci, která je může změnit nebo odstranit. V podstatě zůstávají jen tak dlouho, jak dlouho zůstane prvek situace, který reprezentují.
+**Situační aspekty:** Tyto aspekty popisují prostředí, v němž se odehrává nějaká akce. To zahrnuje i aspekty, které vytvoříte nebo objevíte použitím akce **vytvoření výhody**. Situační aspekty obvykle zmizí na konci scény, které byly součástí, nebo když někdo podnikne nějakou akci, která je může změnit nebo odstranit. V podstatě zůstávají jen tak dlouho, jak dlouho zůstane prvek situace, který reprezentují.
 
 > Příklady: ***V plamenech; Ostré slunce; Dav naštvaných lidí; Sražen k zemi***
 
@@ -27,7 +27,7 @@ Abyste se zbavili situačního aspektu, můžete se pokusit podniknout akci pře
 
 **Posílení:** Posílení je přechodný aspekt, který můžete použít jen jednou (viz následující *Co s aspekty děláte?*), poté zmizí. Nevyužitá posílení zmizí, když skončí scéna, v níž byly vytvořeny, nebo když přestane existovat výhoda, kterou reprezentovaly. Pokrývají tak velmi krátké a prchavé výhody, které dostanete v konfliktu s ostatními. 
 
-> Příklady: Na dohled; Rozptýlený; Nejisté postavení; Má kámen v botě
+> Příklady: ***Na dohled; Rozptýlený; Nejisté postavení; Má kámen v botě***
 
 
 ## Co s aspekty děláte?
@@ -65,7 +65,7 @@ Pokud vyvoláváte aspekt, abyste si přidali bonus, nebo přehodili kostky, po�
 **Volná vyvolání:** Někdy můžete vyvolat aspekt zdarma, bez placení bodu osudu. Pokud vytvoříte nebo objevíte aspekt skrze akci **vytvoření výhody**, jeho první vyvolání (vámi nebo vaším spojencem) je zdarma (pokud uspějete se stylem, získáte hned dva volňásky). Pokud váš útok způsobí následky, vy nebo váš spojenec je můžete jednou vyvolat zdarma. **Posílení** je zvláštní druh aspektu, který vám dává jedno volné vyvolání, po němž zmizí.
 
 
-##š Vynucování aspektů
+### Vynucování aspektů
 
 Pokud jste v situaci, kde mít nějaký aspekt nebo se kolem něj motat znamená, že je život vaší postavy dramatičtější nebo složitější, kdokoliv může aspekt **vynutit**. Můžete dokonce vynucovat sami na sobě – to se nazývá sebevynucení. Vynucení jsou pro hráče nejběžnějším způsobem, jak získat body osudu.
 
@@ -76,7 +76,7 @@ Známe dva typy vynucení.
 
 **Vynucení situací:** Jindy vynucení odrážejí něco, co se prostě stane a učiní to váš život složitější. Pokud máte ***Podivné štěstí***, pak je samozřejmé, že kouzlo, na němž ve třídě pracujete, omylem přebarví vlasy nerudného profesora lektvarů na oranžovo. Pokud ***Dlužíte službu donu Valdeonovi***, pak se Don Valdeon ukáže a žádá si pro sebe vaše služby v tu nejnevhodnější chvíli. 
 
-V každém případě, když je proti vám aspekt vynucen, ten, kdo vám vynucení nabízí, vám nabídne bod osudu a navrhne, aby se aspekt nějak projevil – abyste udělali nějaké rozhodnutí, nebo aby nastala nějaká událost. Můžete se dohadovat o detailech a navrhovat změny a drobnosti k navrženému vynucení. Po chvíli se ale musíte rozhodnout, zda vynucení přijmete. Pokud souhlasíte, vezmete si bod osudu a vaše postava učiní navržené rozhodnutí, nebo nastane ona událost. Pokud odmítnete, musíte zaplatit bod osudu ze svých vlastních zásob. Ano, to znamená, že pokud nemáte žádné body osudu, nemůžete vynucení odmítnout!
+V každém případě, když je proti vám aspekt vynucen, ten, kdo vám vynucení nabízí, vám nabídne bod osudu a navrhne, aby se aspekt nějak projevil – abyste udělali nějaké rozhodnutí, nebo aby nastala nějaká událost. Můžete se dohadovat o detailech a navrhovat změny a drobnosti k navrženému vynucení. Po chvíli se ale musíte rozhodnout, zda vynucení přijmete. Pokud souhlasíte, vezmete si bod osudu a vaše postava učiní navržené rozhodnutí, nebo nastane ona událost. Pokud odmítnete, musíte *zaplatit* bod osudu ze svých vlastních zásob. Ano, to znamená, že pokud nemáte žádné body osudu, nemůžete vynucení odmítnout!
 
 
 ::: card Kolik bodů osudu dostane vypravěč?
