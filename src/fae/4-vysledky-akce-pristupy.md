@@ -2,7 +2,7 @@
 
 Teď je načase začít dělat něco zajímavého. Potřebujete přeskočit z jednoho jedoucího vlaku na druhý. Potřebujete prohledat celou knihovnu, abyste našli kouzlo, které nutně potřebujete. Potřebujete odlákat stráže, abyste se proplížili do pevnosti. Jak zjistíte, co se stane?
 
-Nejdříve popište, co se vaše postava pokouší udělat. Aspekty vaší postavy poskytují dobrou nápovědu k tomu, co udělat může. Pokud máte aspekt, který naznačuje, že můžete kouzlit, pak sešlete kouzlo. Pokud vás vaše aspekty popisují jako šermíře, chopte se meče a vrhněte se na ně. Takovéto příběhové detaily mechaniky nijak víc nepopisují. Nedostanete bonus za svou magii ani za svůj meč, pokud neutratíte bod osudu, abyste příslušný aspekt vyvolali  (strana 27). Možnost použít aspekt k tomu, abyste v příběhu něco významného udělali, je často bonus samo o sobě!
+Nejdříve popište, co se vaše postava pokouší udělat. Aspekty vaší postavy poskytují dobrou nápovědu k tomu, co udělat *může*. Pokud máte aspekt, který naznačuje, že můžete kouzlit, pak sešlete kouzlo. Pokud vás vaše aspekty popisují jako šermíře, chopte se meče a vrhněte se na ně. Takovéto příběhové detaily mechaniky nijak víc nepopisují. Nedostanete bonus za svou magii ani za svůj meč, pokud neutratíte bod osudu, abyste příslušný aspekt **vyvolali**  (strana 27). Možnost použít aspekt k tomu, abyste v příběhu něco významného udělali, je často bonus samo o sobě!
 
 Jak zjistíte, zda jste byli úspěšní? Často uspějete prostě protože akce není dostatečně náročná a nikdo vám v ní nebrání. Pokud by ale selhání nabízelo zajímavý zvrat v příběhu, nebo by se mohlo stát něco nečekaného, potřebujete sáhnout po kostkách.
 
@@ -15,6 +15,7 @@ Jak zjistíte, zda jste byli úspěšní? Často uspějete prostě protože akce
 4. Hoďte kostkami a přičtěte svůj bonus k přístupu.
 5. Rozhodněte se, zda svůj výsledek upravíte pomocí aspektů.
 6. Zhonoťte, jaký je výsledek.
+:::
 
 
 ## Kostky nebo karty?
@@ -92,21 +93,21 @@ Odvyprávěli jste, co se vaše PH pokouší udělat a shodli jste se, že tu je
 * **Úspěch:** Získáte na aspekt jedno volné vyvolání. 
 * **Úspěch se stylem:** Získáte na aspekt dvě volná vyvolání.
 
-**Překonání:
+**Překonání:**
 
 * **Selhání:** Neuspějete, nebo uspějete za výraznou cenu.
 * **Remíza:** Uspějete za drobnou cenu.
 * **Úspěch:** Dosáhnete svého cíle.
 * **Úspěch se stylem:** Dosáhnete svého cíle a získáte posílení.
 
-Útok:
+**Útok:**
 
 * **Selhání:** Žádný efekt.
 * **Remíza:** Útok cíli neuškodí, ale získáte posílení.
 * **Úspěch:** Útok zasáhne a způsobí poškození.
 * **Úspěch se stylem:** Útok zasáhne a způsobí poškození. Můžete snížit poškození o jedna, abyste získali posílení.
 
-Obrana:
+**Obrana:**
 
 * **Selhání:** Utrpíte následky úspěchu vašeho protivníka.
 * **Remíza:** Podívejte se na akci svého protivníka, abyste zjistili, co se stalo.
@@ -150,12 +151,12 @@ Ve vykonání vaší akce vám může pomoci spojenec. Pokud vám pomůže, vzd�
 
 Jak jsme zmínili v *Kým chcete být?*, existuje šest **přístupů**, které popisují, jak své akce provádíte.
 
-* **Pečlivý: Pečlivá akce je, když kladete důraz na detail a dáváte si na čas, abyste odvedli svou práci dobře. Přesné zaměření výstřelu na dálku. Pozorné držení hlídky. Zneškodnění bezpečnostního systému v bance.
-* **Chytrý: Chytrá akce vyžaduje rychlé myšlení, řešení problémů nebo zvážení mnoha složitých proměnných. Objevení nedostatku v bojovém stylu nepřítele. Nalezení slabiny ve zdi pevnosti. Oprava počítače.
-* **Oslnivý: Oslnivá akce k vám přitahuje pozornost; je elegantní a stylová. Přednesení projevu vašemu vojsku. Ztrapnění protivníka v duelu. Vyčarování efektního ohňostroje.
-* **Rázný: Rázná akce není jemná – jde v ní o hrubou sílu. Zápas s medvědem. Zastrašení násilníka. Seslání velkého, mocného zaklínadla. 
-* **Rychlý: Rychlá akce vyžaduje, abyste se pohybovali rychle a obratně. Uhnutí šípu. Zasazení první rány. Zneškodnění tikající bomby za 3… 2… 1… 
-* **Lstivý: Lstivá akce je provedena s důrazem na odvedení pozornosti, zastření, nebo klamání. Vykroutit se ze zatčení. Vybrat někomu kapsy. Používat v souboji šermířské finty.
+* **Pečlivý:** Pečlivá akce je, když kladete důraz na detail a dáváte si na čas, abyste odvedli svou práci dobře. Přesné zaměření výstřelu na dálku. Pozorné držení hlídky. Zneškodnění bezpečnostního systému v bance.
+* **Chytrý:** Chytrá akce vyžaduje rychlé myšlení, řešení problémů nebo zvážení mnoha složitých proměnných. Objevení nedostatku v bojovém stylu nepřítele. Nalezení slabiny ve zdi pevnosti. Oprava počítače.
+* **Oslnivý:** Oslnivá akce k vám přitahuje pozornost; je elegantní a stylová. Přednesení projevu vašemu vojsku. Ztrapnění protivníka v duelu. Vyčarování efektního ohňostroje.
+* **Rázný:** Rázná akce není jemná – jde v ní o hrubou sílu. Zápas s medvědem. Zastrašení násilníka. Seslání velkého, mocného zaklínadla. 
+* **Rychlý:** Rychlá akce vyžaduje, abyste se pohybovali rychle a obratně. Uhnutí šípu. Zasazení první rány. Zneškodnění tikající bomby za 3… 2… 1… 
+* **Lstivý:** Lstivá akce je provedena s důrazem na odvedení pozornosti, zastření, nebo klamání. Vykroutit se ze zatčení. Vybrat někomu kapsy. Používat v souboji šermířské finty.
 
 Každá postava má každý přístup hodnocený bonusem od +0 do +3. Přidejte tento bonus k hodu kostkami, abyste určili, jak dobře vaše PH provedla akci, kterou jste popsali. 
 
