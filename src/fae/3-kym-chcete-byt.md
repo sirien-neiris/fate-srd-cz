@@ -2,7 +2,7 @@
 
 Jakmile jste se rozhodli, jaký druh příběhu budete ve své hře vyprávět, rozhodněte, kým jsou vaše postavy – jak vypadají, v čem jsou dobré a čemu věří. 
 
-Jaký druh postavy můžu hrát?
+## Jaký druh postavy můžu hrát?
 
 Utvořte si představu o herním prostředí, v němž jste se rozhodli hrát, a udělejte z ní svého hlavního průvodce. Hrajete ve škole pro mladé čaroděje? Hrajte mladého čaroděje! Hrajete příběh o vesmírných pilotech bojujících se zlým impériem? Hrajte vesmírného pilota! Ujistěte se, že vaše postava bude mít důvod se setkávat a spolupracovat s postavami, které si vytváří ostatní.
 
@@ -26,7 +26,7 @@ Nejprve se rozhodněte, co bude **základním konceptem** vaší postavy. Je to 
 
 ### Problém
 
-Poté si vymyslete, co vás neustále dostává do problému. Může to být osobní slabina, neodbytný nepřítel, nebo důležitý závazek – cokoliv, co činí váš život složitějším.
+Poté si vymyslete, co vás neustále dostává do **problému**. Může to být osobní slabina, neodbytný nepřítel, nebo důležitý závazek – cokoliv, co činí váš život složitějším.
 
 > Příklady: ***Oceloví Asasíni mě chtějí mrtvého; Čarovat hned, ptát se pozdějc; Musím dohlížet na svého malého bratříčka***
 
@@ -61,7 +61,7 @@ Popište, jak vaše postava vypadá a dejte jí jméno.
 
 Vyberte si **přístupy**.
 
-Přístupy popisují, jak věci děláte. Každý má těch samých šest přístupů:
+Přístupy popisují, *jak* věci děláte. Každý má těch samých šest přístupů:
 
 * Pečlivý
 * Chytrý
