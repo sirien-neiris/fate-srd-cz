@@ -47,9 +47,9 @@ Obecně můžete interagovat s jinými postavami ve stejné zóně – nebo ve v
 1. Připravte scénu.
 2. Určete pořadí jednání.
 3. Začněte první výměnu
-  * Proveďte akci ve svém tahu.
-  * V tazích ostatních se braňte nebo dle potřeby reagujte na jejich akce
-  * Když každý ukončí svůj tah, začněte novou výměnu, nebo konflikt ukončete.
+   * Proveďte akci ve svém tahu.
+   * V tazích ostatních se braňte nebo dle potřeby reagujte na jejich akce
+   * Když každý ukončí svůj tah, začněte novou výměnu, nebo konflikt ukončete.
 :::
 
 

@@ -35,6 +35,13 @@ const menu = {
                 '/fae/4-vysledky-akce-pristupy',
                 '/fae/5-vyzvy-strety-a-konflikty',
                 '/fae/6-hups-poskozeni-stres-a-nasledky',
+                '/fae/7-aspekty-a-body-osudu',
+                '/fae/8-triky',
+                '/fae/9-zlepsovani-schopnosti-vyvoj-postavy',
+                '/fae/10-byt-vypravecem',
+                '/fae/11-ukazkove-postavy',
+                '/fae/rychly-prehled',
+                '/fae/ke-stazeni-a-odkazy',
             ]
         },
         {
