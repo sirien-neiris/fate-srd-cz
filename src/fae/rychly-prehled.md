@@ -2,11 +2,9 @@
 
 ## Součty hodů (strana 18)
 
-**Výsledek** = Hod kostkami 
-
-* + bonus za Přístup
-* + Bonus za Triky
-* + Bonusy za vyvolané Aspekty
+**Výsledek** = Hod kostkami + bonus za Přístup
+* \+ Bonus za Triky
+* \+ Bonusy za vyvolané Aspekty
 
 
 ## Výsledky (strana 13)
@@ -24,7 +22,7 @@
 * **Jednoduchý úkol:** Nevalná (+0) - nebo úspěch bez hodu
 * **Náročnější úkol:** Slušná (+2)
 * **Velmi obtížný úkol:** Skvělá (+4)
-* **Nemožně náročné: jděte tak vysoko, jak vám to dává smysl. PH budou muset utratit nějaké body osudu a sehnat dostatek pomoci, aby uspěly, ale to je v pořádku.
+* **Nemožně náročné:** jděte tak vysoko, jak vám to dává smysl. PH budou muset utratit nějaké body osudu a sehnat dostatek pomoci, aby uspěly, ale to je v pořádku.
 
 
 ## Žebříček
@@ -105,7 +103,7 @@
 
 * **Závažnost zásahu (v posunech) = Hod na Útok – hod na Obranu.**
 * **Čtverečky stresu:** Můžete si proškrtnout **jeden** čtvereček stresu, abyste se vypořádali s částí nebo se všemi posuny jednoho zásahu. Můžete pohltit tolik posunů, jaká je hodnota proškrtnutého čtverečku: jeden pro první, dva pro druhý, tři pro třetí.
-* **Následky: Můžete přijmout **jeden nebo více** následků, abyste se vypořádali se zásahem, tím, že jednu nebo více dostupných kolonek následků proškrtnete a napíšete do nich nové aspekty.
+* **Následky:** Můžete přijmout **jeden nebo více** následků, abyste se vypořádali se zásahem, tím, že jednu nebo více dostupných kolonek následků proškrtnete a napíšete do nich nové aspekty.
   * **Drobný** = 2 posuny
   * **Mírný** = 4 posuny
   * **Vážný** = 6 posunů
