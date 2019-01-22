@@ -20,7 +20,7 @@ tak se to přeloží jako stále ta samá řádka
 
 \*\*\*tučná kurzíva\*\*\* = ***tučná kurzíva***
 
-\[Odkaz na Kostku\](http://www.d20.cz) = \[Odkaz na Kostku\](http://www.d20.cz) 
+\[Odkaz na Kostku\](http://www.d20.cz) = [Odkaz na Kostku](http://www.d20.cz) 
 
 
 "Znegování" markdownu se provádí pomocí "\\". Tzn pokud nechci **tučně** ale \*\*tučně*\*\* tak to musím psát \\\*\\\*tučně\\\*\\\*. Zpětné lomítko \\ se tudíž píše jako \\\\ .
@@ -34,7 +34,7 @@ tak se to přeloží jako stále ta samá řádka
 
 ...ukázka nebude, protože by to zbořilo levé menu tohodle dokumentu, ale jak nadpisy vypadají vidíte výše i níže. Ale že to jste vy tak takhle vypadá nadpis H4:
 
-#### Fonty (Fate značky)
+#### Fonty (Fate symboly)
 
 Fate symboly:
 
@@ -50,7 +50,7 @@ Fate symboly:
 
 
 
-### seznamy
+### Seznamy
 
 \* tohle vyrobí bodový seznam
   \* tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
@@ -65,11 +65,11 @@ Fate symboly:
 * prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
 
 
-\1. pro číslovaný seznam 
+\1. pro číslovaný seznam ENTER
 \2. platí totéž
 
-\1. pro číslovaný seznam 
-\2. platí totéž
+1. pro číslovaný seznam 
+2. platí totéž
 
 
 
@@ -91,8 +91,8 @@ Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná prav
 > vodící linie z toho udělá jednu celistvou citaci
 
 
-\> \* tohle je bodový seznam v citaci
-\> \* opět platí totéž ci výše pro 
+\> \* tohle je bodový seznam v citaci ENTER
+\> \* opět platí totéž ci výše pro ENTER
 \>   \* druhou úroveň
 
 \> \* i pro odskoky
@@ -113,7 +113,9 @@ Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná prav
 Tohle bude základní rámeček. 
 
 MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
+
 \:\:\:
+
 
 ::: card
 
@@ -126,7 +128,9 @@ MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
 \:\:\: card Tohle je nadpis
 
 Karta s nadpisem
+
 \:\:\:
+
 
 ::: card Tohle je nadpis
 
@@ -143,7 +147,9 @@ Za pomoci standardní \*kurzívy\*, \*\*tučného\*\* a \*\*\*tučné kurzívy\*
 \> citací
 
 \*\*uvnitř rámečků NEpoužívejte nadpisy\*\*
+
 \:\:\:
+
 
 ::: card V rámečku lze opět dále formátovat
 
@@ -159,9 +165,14 @@ Za pomoci standardní *kurzívy*, **tučného** a ***tučné kurzívy***
 
 ### Tabulky
 
+Mezi řádky skutečné tabulky nesmí být prázdné řádky:
+
 \| hlavička \| bohužel \| musí      \| být     \|
+
 \| ---      \| :---:   \| ---:      \| ---     \|
+
 \| \*\*2. řádek\*\* \| je      \| zarovnání \| sloupce \|
+
 \| není nutné snažít se mít \| ten zdroj nějak \| zvlášť \| hezky \|
 
 | hlavička | bohužel | musí      | být     |
