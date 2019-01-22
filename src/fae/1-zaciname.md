@@ -11,7 +11,9 @@ Toto je vaše šance vstoupit do rolí hrdinů takovýchto příběhů.
 Toto je vše, co budete k hraní potřebovat:
 
 * **Tři až pět lidí**. Jeden z vás bude **vypravěčem**, ostatní **hráči**. Později řekneme, co to znamená. 
-* **Fate kostky**, alespoň čtyři, ideálně čtyři na osobu. Fate kostky jsou zvláštní druh šestistěnných kostek, které mají na dvou stranách symbol plus (<span class="fate-font">+</span>), na dvou stranách symbol mínus (<span class="fate-font">-</span>) a na dvou stranách jsou prázdné (<span class="fate-font">0</span>). Můžete je sehnat v různých herních a fantasy obchodech, často pod jejich původním názvem Fudge kostky. Pro potřeby Fate je budeme dále nazývat Fate kostky, ale nazývejte si je jak je libo. Evil Hat nabízí Fate kostky k prodeji na www.evilhat.com (u nás je jako Fudge kostky prodává např. **www.fantasyobchod.cz** nebo **https://www.tomovyhry.cz**).
+* **Fate kostky**, alespoň čtyři, ideálně čtyři na osobu. Fate kostky jsou zvláštní druh šestistěnných kostek, které mají na dvou stranách symbol plus (<span class="fate-font">+</span>), na dvou stranách symbol mínus (<span class="fate-font">-</span>) a na dvou stranách jsou prázdné (<span class="fate-font">0</span>). Můžete je sehnat v různých herních a fantasy obchodech, často pod jejich původním názvem Fudge kostky. Pro potřeby Fate je budeme dále nazývat Fate kostky, ale nazývejte si je jak je libo. Evil Hat nabízí Fate kostky k prodeji na *[www.evilhat.com](www.evilhat.com)* (u nás je jako Fudge kostky prodává např. ***[www.fantasyobchod.cz](www.fantasyobchod.cz)*** nebo ***[www.tomovyhry.cz](www.tomovyhry.cz)***.
+
+cz)..
 * **Balíček Osudu** od Evil Hat je alternativou k Fate kostkám. Jedná se o balíček karet, které napodobují pravděpodobnost Fate kostek a jsou navržené k použití stejným způsobem, jako Fate kostky.
 * **Kartu postavy**, jednu na každého hráče. Můžete si ji stáhnout z *www.evilhat.com* (česká verze je na *www.d20.cz* ve *Fate: materiály ke stažení*)
 * **Poznámkové** nebo **lepící papírky** nebo podobné malé kartičky.
