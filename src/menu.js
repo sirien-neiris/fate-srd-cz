@@ -48,8 +48,17 @@ const menu = {
             title: 'Fate systémové nástroje',
             collapsable: true,
             children: [
+                '/fate-system-toolkit/predmluva',
                 '/fate-system-toolkit/1-uvod',
                 '/fate-system-toolkit/2-aspekty',
+                '/fate-system-toolkit/3-dovednosti',
+                '/fate-system-toolkit/4-triky',
+                '/fate-system-toolkit/5-rozsahla-hra',
+                '/fate-system-toolkit/6-zvlastni-okolnosti',
+                '/fate-system-toolkit/7-prizpusobene-nastroje',
+                '/fate-system-toolkit/8-magie',
+                '/fate-system-toolkit/9-subsystemy',
+                '/fate-system-toolkit/ke-stazeni-a-odkazy',
             ]
         },
     ]
