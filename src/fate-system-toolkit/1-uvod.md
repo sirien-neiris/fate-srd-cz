@@ -2,20 +2,20 @@
   
 ## K čemu tu jsme
   
-Představte si Fate jako stroj postavený k tomu, aby dával určitý výstup. Stejně jako jiné stroje, Fate může být upraven, aby dával i jiné výsledky; obsahuje systém voleb, síť pravidel, která mohou být upravena nahoru, dolů nebo do stran, aby dělala to, co chcete. Je robustní, přizpůsobivý a - což je nejdůležitější - hackovatelný.
+Představte si *Fate* jako stroj postavený k tomu, aby dával určitý výstup. Stejně jako jiné stroje, *Fate* může být upraven, aby dával i jiné výsledky; obsahuje systém voleb, síť pravidel, která mohou být upravena nahoru, dolů nebo do stran, aby dělala to, co chcete. Je robustní, přizpůsobivý a - což je nejdůležitější - hackovatelný.
   
-Co to znamená, že je „hackovatelný“? Zaprvé to znamená, že pravidla můžete změnit. To se týká jakékoliv hry - pokud hrajete Monopoly, tak dovolit hráčům, aby sbírali peníze, když se postaví na pole „Volné Parkování“, je hack. Změní to povahu herní ekonomie a učiní to hru trochu méně přísnou, takže bude těžší ji prohrát hned z kraje na nedostatek peněz. Fate je právě takový - může být změněn. Chcete dát vypravěči více bodů osudu? Hráčům vyšší dovednosti? Změnit způsob fungování aspektů? Když na to vynaložíte trochu snahy, tak to je všechno možné.
+Co to znamená, že je „hackovatelný“? Zaprvé to znamená, že pravidla můžete změnit. To se týká jakékoliv hry - pokud hrajete *Monopoly*, tak dovolit hráčům, aby sbírali peníze, když se postaví na pole „Volné Parkování“, je hack. Změní to povahu herní ekonomie a učiní to hru trochu méně přísnou, takže bude těžší ji prohrát hned z kraje na nedostatek peněz. *Fate* je právě takový - může být změněn. Chcete dát vypravěči více bodů osudu? Hráčům vyšší dovednosti? Změnit způsob fungování aspektů? Když na to vynaložíte trochu snahy, tak to je všechno možné.
   
-Druhá věc, kterou to znamená, je, že Fate vašim změnám neodporuje. Popravdě je natolik adaptabilní, že můžete dělat menší změny za běhu, aniž by se cokoliv rozbilo, a i velké změny vyžadují jen pár úprav v jiných částech hry. Není to jen o tom, že Fate _můžete_ hackovat, ale o tom, že je _snadné_ Fate hackovat - pokud to udělat chcete.
+Druhá věc, kterou to znamená, je, že *Fate* vašim změnám neodporuje. Popravdě je natolik adaptabilní, že můžete dělat menší změny za běhu, aniž by se cokoliv rozbilo, a i velké změny vyžadují jen pár úprav v jiných částech hry. Není to jen o tom, že *Fate* _můžete_ hackovat, ale o tom, že je _snadné_ *Fate* hackovat - pokud to udělat chcete.
   
 Některé změny mohou být nutné, abyste dosáhli dojmu, po kterém toužíte. Fate je systém voleb a Základní pravidla Fate ukazují základní nastavení všech těchto voleb. Možná ale, že tato nastavení nejsou pro vaší hru vhodná. Možná budete některé z nich potřebovat změnit nebo přidat nějaké navíc, ale nejste si jistí, jaké změny udělat, nebo které části systému tyto změny ovlivní. Nebojte se - to je to, proč tu jsme my.
   
-Systémové nástroje Fate je kniha o tom, jak hackovat Fate, co se stane, když to uděláte, a o tom, co můžete provádět, když si začnete hrát s tím, jak věci fungují. Pokud to zní jako něco, co děláte, pak je tato kniha právě pro vás.
+*Systémové nástroje Fate* je kniha o tom, jak hackovat *Fate*, co se stane, když to uděláte, a o tom, co můžete provádět, když si začnete hrát s tím, jak věci fungují. Pokud to zní jako něco, co děláte, pak je tato kniha právě pro vás.
   
   
 ## Pravidla vs. rozhodnutí
   
-Samozřejmě, _můžete_ hackovat Fate, ale měli byste? Někdy je odpověď ano. Pokud hrajete superhrdinskou hru, budete potřebovat přidat superschopnosti. Pokud hrajete hru o pouličních závodech, může být dobré mít nějaká pravidla pro vozidla.
+Samozřejmě, _můžete_ hackovat *Fate*, ale měli byste? Někdy je odpověď ano. Pokud hrajete superhrdinskou hru, budete potřebovat přidat superschopnosti. Pokud hrajete hru o pouličních závodech, může být dobré mít nějaká pravidla pro vozidla.
   
 Někdy ale nepotřebujete nová pravidla. Všechno, co někdy potřebujete, je _rozhodnutí_.
   
@@ -32,7 +32,7 @@ Pokud budete dělat nové pravidlo pro každou situaci, skončíte s tolika prav
 
 ## Bronzové pravidlo
   
-Je ještě jedna věc, o níž byste se měli ujistit, než pro něco začnete tvořit zcela nová pravidla - není možné to zařídit pomocí Bronzového pravidla (Základní pravidla Fate, strana 270)?
+Je ještě jedna věc, o níž byste se měli ujistit, než pro něco začnete tvořit zcela nová pravidla - není možné to zařídit pomocí Bronzového pravidla (*Základní pravidla Fate*, strana 270)?
   
 Ve Fate můžete prakticky s čímkoliv zacházet jakoby to byla postava. Vaše zbraň? Zajisté. Ta venkovní bouře? Určitě. Samotná scéna? Proč ne? Čemukoliv můžete přidělit aspekty, dovednosti, triky a čtverečky stresu. A tady je jedna věc, která tuhle techniku činí skutečně suprovou - nemusí to být shodné s tím, co mají PH. Pro venkovní bouři nedává smysl, aby měla Boj a Kondici, ale co třeba Chlad a Průtrž mračen? Vaše zbraň nepotřebuje fyzický a duševní stres, ale co třeba měřítko muničního stresu? A scény už mají spoustu svých vlastních aspektů\!
   
