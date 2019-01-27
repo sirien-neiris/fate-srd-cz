@@ -8,7 +8,7 @@ Co to znamená, že je „hackovatelný“? Zaprvé to znamená, že pravidla m�
   
 Druhá věc, kterou to znamená, je, že *Fate* vašim změnám neodporuje. Popravdě je natolik adaptabilní, že můžete dělat menší změny za běhu, aniž by se cokoliv rozbilo, a i velké změny vyžadují jen pár úprav v jiných částech hry. Není to jen o tom, že *Fate* _můžete_ hackovat, ale o tom, že je _snadné_ *Fate* hackovat - pokud to udělat chcete.
   
-Některé změny mohou být nutné, abyste dosáhli dojmu, po kterém toužíte. Fate je systém voleb a Základní pravidla Fate ukazují základní nastavení všech těchto voleb. Možná ale, že tato nastavení nejsou pro vaší hru vhodná. Možná budete některé z nich potřebovat změnit nebo přidat nějaké navíc, ale nejste si jistí, jaké změny udělat, nebo které části systému tyto změny ovlivní. Nebojte se - to je to, proč tu jsme my.
+Některé změny mohou být nutné, abyste dosáhli dojmu, po kterém toužíte. *Fate* je systém voleb a *Základní pravidla Fate* ukazují základní nastavení všech těchto voleb. Možná ale, že tato nastavení nejsou pro vaší hru vhodná. Možná budete některé z nich potřebovat změnit nebo přidat nějaké navíc, ale nejste si jistí, jaké změny udělat, nebo které části systému tyto změny ovlivní. Nebojte se - to je to, proč tu jsme my.
   
 *Systémové nástroje Fate* je kniha o tom, jak hackovat *Fate*, co se stane, když to uděláte, a o tom, co můžete provádět, když si začnete hrát s tím, jak věci fungují. Pokud to zní jako něco, co děláte, pak je tato kniha právě pro vás.
   
