@@ -125,11 +125,11 @@ Chcete magii? Máme jí tu pro vás\!
   
 #### Designové poznámky
   
-Fanoušci Dresden Files RPG si všimnou podobnosti mezi touto magií a pravidly pro vyvolávání z DFRPG. To není náhoda.
+Fanoušci *Dresden Files RPG* si všimnou podobnosti mezi touto magií a pravidly pro vyvolávání z DFRPG. To není náhoda.
   
 Toto je z většiny strukturuvaný systém s trochou prostoru pro interpretaci uvnitř pravidel oné struktury. Odvíjí se z dovednosti „Povolávání“ a alespoň jednoho aspektu. Zdroj magie je dost zjevný, ale jeho použití je omezené. Tím je systém vyvážený, takže funguje i pokud se pouze jeden z hráčů rozhodne hrát Povolavače bouře, ale stále dokáže podpořit i více takových postav naráz.
   
-Základní předpoklad je, že ne-Povolavači používají volitelná pravidla pro hodnocení Zbraní a Brnění (viz Základní pravidla Fate strana 277). Pokud chcete vyvážit Povolavače proti skupině ne-Povolavačů, tyto bonusy vám budou k ruce. Pokud vaše hra nepoužívá pravidla pro hodnocení Zbraní a Brnění, zvyšte cenu Obnovy z 1 na 2.
+Základní předpoklad je, že ne-Povolavači používají volitelná pravidla pro hodnocení Zbraní a Brnění (viz *Základní pravidla Fate* strana 277). Pokud chcete vyvážit Povolavače proti skupině ne-Povolavačů, tyto bonusy vám budou k ruce. Pokud vaše hra nepoužívá pravidla pro hodnocení Zbraní a Brnění, zvyšte cenu Obnovy z 1 na 2.
   
 #### Popis
   
@@ -236,6 +236,7 @@ Pokud je skrze bariéru veden útok, pak má obránce možnost použít hodnocen
 Například silná stěna ledu (Skvělá Bariéra, +4) je vržena mezi Povolavače bouře a naštvaného Povolavače Nicoty ve vedlejší zóně. Když Povolavač Nicoty vrhne stínový úder, Povolavač bouře může místo hodu prohlásit, že jeho konečná obrana je Skvělá (+4). Pokud Povolavač Nicoty bariéru přeskočí a zaútočí mečem, bude si házet na nižší ze své Atletiky (přeskakování) a Boje (útočení) a Povolavač bouře může stále použít svou Skvělou (+4) bariéru, aby se mu bránil.
   
 Jedna důležitá poznámka: Bariéra funguje oběma směry a její tvůrce nezíská žádné zvláštní výhody k útoku na cíle na druhé straně své bariéry - ty z ní mohou těžit stejně, jako on sám.
+:::
   
   
 ##### Zemětřesení
@@ -864,14 +865,14 @@ Hodnocení dovednosti Přivolávání je také limitem pro počet elementálů, 
 | :---: | :---: | :---: | :---: |
 | **Chomáč** |	Průměrný |	0 |	Žádné |
 | **Dříč** |	Slušný |	0 |	-2 |
-| **Služebník** |	Dobrý |	2	-2/-2 |
+| **Služebník** |	Dobrý |	2 |	-2/-2 |
 | **Pomocník** |	Skvělý |	3 |	-2/-4 |
 | **Pojmenovaný** |	Vynikající |	4 |	-2/-4/-6 |
 
   
 **Bonusy elementálů**
   
-| element (Bouře)	Chomáč	Dříč, Služebník nebo pomocník	Pojmenovaný
+| element (Bouře) |	Chomáč |	Dříč, Služebník nebo pomocník |	Pojmenovaný |
 | :---: | :---: | :---: | :---: |
 | **Země (Zemětřesení)** |	Žádné |	Stres +2 |	Stres +4 |
 | **Voda (Potopa)** |	Žádné |	Dodatečný drobný následek |	Dodatečný mírný následek, Brnění:1 |
@@ -957,7 +958,7 @@ V tomto případě nahraďte dovednost Přivolávání dovedností Trénování 
   
 Jako příklad Bronzového pravidla, dokud jde o interakci s okolním světem, bojové chomáče jsou stále Průměrné bytosti bez čtverečků stresu a bez následků. V rámci poměřování mezi sebou navzájem mají ale vlastní odstupňování. To znamená, že každý bojový chomáč má plnou sadu dovedností, schopností a sil, které jsou použitelné v bitvě s jinými chomáči a v jejich bitvách na těchto rozdílech záleží a hrají velkou roli. Pro vnějšího pozorovatele ale ty nejsilnější a nejslabší bojové chomáče vyjdou nastejno.
   
-Trénink vašich Bojových Chomáčů
+##### Trénink vašich Bojových Chomáčů
   
 Bojové chomáče začínají se 2 čtverečky stresu, jedním mírným následkem a 4  Průměrnými (+1) dovednostmi: Silou, Rychlostí, Dovedností a Výdrží. (Ano, je tu dovednost zvaná Dovednost, smiřte se s tím.) Tyto se používají k akcím útoku, překonání, vytvoření výhody a k obraně v chomáčových bojích. Výdrž je také obranou proti útokům.
   
@@ -981,7 +982,7 @@ V jakékoliv situaci vyjma boje s jinými chomáči má chomáč stále jen Prů
   
 #### Designové poznámky
   
-Stejně jako Vyvolavači Bouří, i tento systém je odvozen z magického konceptu Pěti Bouří a i tento je navržen tak, aby mohl být použit i samostatně. I když v tomto případě je spojitost o něco menší. Toto je magie temnoty a hrozných věcí, které existují za hranicemi reality. Typicky to je prostor nepředstavitelných, nicméně zajisté chapadlovitých monster, ale zde se mu pokoušíme dát trochu konkrétnější základ. Stavěli jsme na základech jako jsou knihy Harryho Conolla Twenty Places a myšlenka byla, že není nutné tak moc dbát na věci jako je „neznámo“, abychom dokázali dodat něco znepokojujícího. 
+Stejně jako Vyvolavači Bouří, i tento systém je odvozen z magického konceptu Pěti Bouří a i tento je navržen tak, aby mohl být použit i samostatně. I když v tomto případě je spojitost o něco menší. Toto je magie temnoty a hrozných věcí, které existují za hranicemi reality. Typicky to je prostor nepředstavitelných, nicméně zajisté chapadlovitých monster, ale zde se mu pokoušíme dát trochu konkrétnější základ. Stavěli jsme na základech jako jsou knihy Harryho Conolla *Twenty Places* a myšlenka byla, že není nutné tak moc dbát na věci jako je „neznámo“, abychom dokázali dodat něco znepokojujícího. 
   
 Bylo by snadné říct, že to je magie pro záporáky, ale tím bychom udělali medvědí službu vám i vašim hráčům - nemluvě o záporácích. Toto je magie přicházející za strašlivou, takřka nelidskou cenu, ale takřka nelidská není úplně totéž, co nelidská. Kultisté, kteří vyvolávají temné věci, nejsou prostě cvoci toužící vše zničit. Oni něco _chtějí_ a jsou za to ochotni tu cenu zaplatit.
   
@@ -1219,7 +1220,6 @@ Když to je takhle, jak tedy vyvážíte design vašich schopností? Přemýšle
 Když navrhujete systém schopností, musíte se rozhodnout pro jeden z následujících předpokladů:
   
 * Systém budou používat jen některé postavy.
-  
 * Systém budou používat všechny postavy.
   
 Když navrhujete systém, který budou používat jen některé postavy, pak musíte přemýšlet o srovnání těchto schopností s ostatními věcmi, které mohou postavy dělat, a o tom, za co postavy tyto schopnosti vymění. Zjednodušeně vzato, musíte mít pádnou odpověď na otázku „proč bych si tu schopnost _nepořídil_?“
@@ -1453,6 +1453,8 @@ Když jsme v Dresden Files RPG představili myšlenku obnovy, tak měla dva úč
 Výchozí součástí magického systému jsou různé možnosti toho, co může ztráta této svobody znamenat. Určitě to může být smrt postavy při nulové obnově, ale často je zajímavější, když to znamená, že se postava ztratila ve své magické podstatě - a takové postavy tvoří výborné záporáky nebo na magické cestě se ztrativší existence.
   
 Háček je v tom, že ačkoliv ztráta obnovy v podobě ceny může _vypadat_ jako hrozba šikmé plochy, tak to tak ve skutečnosti není. Pokles na nulovou obnovu je v podstatě rozhodnutí hráče vzdát se své postavy, není to něco, co se může stát „ve hře“. Pokud vám to nevadí, tak vpohodě, ale pokud ve hře chcete skutečné ohrožení, pak budete potřebovat najít jiný způsob, který do hry přivede častější nutnost volby.
+
+>V systému, v němž každý magický aspekt snižuje obnovu o jedna, ale zvyšuje počet magických bodů, můžete zavést pravidlo, že postava může vždy „odprodat“ jeden ze svých aspektů a přetvořit jej na magický, čímž zvýší svou zásobu many. V momentě, kdy to udělá, se navíc měřítko stresu i zásoba many postavy obnoví na výchozí hodnotu. Tím vytvoříte důvod k tomu, aby se taková věc stala ve hře v momentě, kdy se postava odevzdá své magické moci, aby zvítězila v nevyhratelném střetu.
   
 #### Příležitost
   

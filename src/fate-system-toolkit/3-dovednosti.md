@@ -2,7 +2,7 @@
   
 ## Změňte ten seznam\!
   
-Dovednosti ze Základních pravidel Fate jsou navržené tak, aby nabízely rozsáhlou paletu akcí použitelných v mnoha různých herních prostředích. Pravda ale je, že očekáváme, že seznam dovedností bude věc, kterou změníte jako první. Váš seznam dovedností by měl vycházet z vašeho prostředí a měl by jej posilovat; pokud vám k tomu základní seznam vyhovuje, tak máte štěstí\! V některých případech vám může _skoro_ vyhovovat, ale budete potřebovat jednu nebo dvě dovednosti přidat, nějakou odebrat nebo jich pár přejmenovat. Pokud hledáte způsob, jak ten seznam - nebo celý systém - předělat, pak je tato kapitola právě pro vás.
+Dovednosti ze *Základních pravidel Fate* jsou navržené tak, aby nabízely rozsáhlou paletu akcí použitelných v mnoha různých herních prostředích. Pravda ale je, že očekáváme, že seznam dovedností bude věc, kterou změníte jako první. Váš seznam dovedností by měl vycházet z vašeho prostředí a měl by jej posilovat; pokud vám k tomu základní seznam vyhovuje, tak máte štěstí\! V některých případech vám může _skoro_ vyhovovat, ale budete potřebovat jednu nebo dvě dovednosti přidat, nějakou odebrat nebo jich pár přejmenovat. Pokud hledáte způsob, jak ten seznam - nebo celý systém - předělat, pak je tato kapitola právě pro vás.
 
 
 ## Použití dovedností tak, jak jsou
@@ -47,7 +47,7 @@ Zatímco dovednosti normálně odrážejí, _co_ děláte, profese odrážejí, 
   
 Pokud běžný seznam dovedností je o tom, co děláte a profese jsou o tom, kdo jste, přístupy odrážejí _jak_ věci děláte. To znamená, že namísto běžných dovedností může mít postava hodnocení v Razantně, Elegantně, Chytře a Odhlodlaně, a na co z toho si hodí, se odvine od situace. Když šermujete, probíjíte kryt svého protivníka (Razantně\!), sekáte ho z lustru (Elegantně\!), provádíte finty a manévrujete ve snaze najít slabinu (Chytře\!) nebo ho odrážíte a boj trpělivě prodlužujete v čekání na protivníkovu chybu (Odhodlaně\!)?
   
-Fanoušci Zrychlené edice Fate tuto metodu znají, protože to je ta, kterou FAE používá s přístupy Pečlivě, Chytře, Oslnivě, Razantně, Rychle a Lstivě.
+Fanoušci *Zrychlené edice Fate* tuto metodu znají, protože to je ta, kterou FAE používá s přístupy Pečlivě, Chytře, Oslnivě, Razantně, Rychle a Lstivě.
   
   
 ### Rozvolněné dovednosti
@@ -118,20 +118,20 @@ Ideálně chcete skončit se čtyřmi až osmi módy - to je dost pro rozdílnos
   
 > Ben plánuje klasickou fantasy hru s prolézáním podzemí, sbíráním pokladů a občasným zabíjením draků. Dovednosti pro tuto hru jsou Atletika, Empatie, Klamání, Kondice, Kontakty, Pozornost, Přežití, Skrývání, Střelba, Vůle, Vztahy, Zastrašování, Zbraně a Zlodějna. Na základě tohoto seznamu přijde se čtyřmi módy:
 
-| Boj	| Mluvení	| Kradení	| Zálesáctví | 
-| :---: | :---: | :---: | :---: |
-| Atletika	| Empatie	| Atletika	| Atletika |
-| Kondice	| Kontakty	| Klamání	| Přežití	|
-| Střelba | Klamání	| Pozornost	| Skrývání |
-| Zbraně	| Vůle	| Skrývání	| Učenost	|
-| Zastrašování	| Vztahy	| Zlodějna	| Všímání	|
+> | Boj	| Mluvení	| Kradení	| Zálesáctví | 
+> | :---: | :---: | :---: | :---: |
+> | Atletika	| Empatie	| Atletika	| Atletika |
+> | Kondice	| Kontakty	| Klamání	| Přežití	|
+> | Střelba | Klamání	| Pozornost	| Skrývání |
+> | Zbraně	| Vůle	| Skrývání	| Učenost	|
+> | Zastrašování	| Vztahy	| Zlodějna	| Všímání	|
 
 > Ben si všimne, že se Atletika objevila ve třech ze čtyř, jenže jde o tak široce použitelnou dovednost, že si neumí představit, že by v některých z těchto módů chyběla. A kromě toho, hrobky vykrádající PH ji budou potřebovat.
 
 
 ### Hodnocení
   
-Běžná pyramida ze Základních pravidel Fate se na módy nevztahuje. Namísto toho si každý hráč vybere tři módy a ohodnotí si je - jeden jako Dobrý (+3), jeden jako Slušný (+2) a jeden jako průměrný (+1). Hodnocení módu se stane základním hodnocením všech dovedností, které obsahuje. Dovednosti s tímto hodnocením jsou **trénované**, dovednosti o jednu úroveň výš jsou **soustředěné** a dovednosti o dvě úrovně výš jsou **specializované**.
+Běžná pyramida ze *Základních pravidel Fate* se na módy nevztahuje. Namísto toho si každý hráč vybere tři módy a ohodnotí si je - jeden jako Dobrý (+3), jeden jako Slušný (+2) a jeden jako průměrný (+1). Hodnocení módu se stane základním hodnocením všech dovedností, které obsahuje. Dovednosti s tímto hodnocením jsou **trénované**, dovednosti o jednu úroveň výš jsou **soustředěné** a dovednosti o dvě úrovně výš jsou **specializované**.
   
 > Jeden Benův hráč, Will, chce hrát zloděje, takže si vezme Dobré (+3) Kradení. Na začátku má tedy Atletiku, Klamání, Skrývání, Všímání a Zlodějnu trénované s Dobrým (+3) hodnocením.
   
@@ -144,7 +144,14 @@ Pokud je dovednost posílená jednou - tzn. sdílejí ji dva módy - zlepšete s
 
 > Navíc ke svému Dobrému (+3) Kradení si Will vezme také Slušné (+2) Mluvení a Průměrný (+1) Boj. Jak Boj tak Kradení mají Atletiku, takže ta se stane z trénované soustředěnou - z Dobré (+3) ji přepíše na Skvělou (+4) a zapíše si ji ke Kradení. Podobně Mluvení a Kradení sdílí Klamání, takže si ho zapíše pod Kradení jako soustředěné. Willovy módy pak vypadají takto:
   
-		
+|  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
+| :---: | :---: | :---: | :---: | 
+|  | **Kradení** | **Mluvení** | **Boj** |
++5 |  |  |  | 			
++4 | Atletika, Klamání |  |  | 			
++3 | Skrývání, Všímání, Zlodějna |  |  | 			
++2 |  | Empatie, Kontakty, Vůle, Vztahy |  | 			
++1 |  |  | Kondice, Střelba, Zastrašování, Zbraně | 	
 
   
  ### Zlepšování dovedností
@@ -162,8 +169,8 @@ Poté má každý hráč 7 bodů na další zlepšení dovedností.
 > Will chce být velice nenápadný, takže utratí 3 body na specializaci Skrývání, z Dobré (+3) na Výjimečnou (+5). Také si přeje být kompetentní v boji, takže utratí další 3 body na specializaci Zbraní, z Průměrných (+1) na Dobré (+3). Za poslední bod si soustředí Kontakty, ze Slušných (+2) na Dobré (+3), aby tak pro sebe získal trochu lepší konexe. 
 
 |  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
-|  | Kradení	| Mluvení	| Boj |
 | :---: | :---: | :---: | :---: | 
+|  | **Kradení** | **Mluvení** | **Boj** |
 +5 | Skrývání |  |  | 			
 +4 | Atletika, Klamání |  |  | 			
 +3 | Všímání, Zlodějna | Kontakty | Zbraně | 			

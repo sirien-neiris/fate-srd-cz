@@ -96,9 +96,9 @@ Existují dva typy vylepšováků: drobné vylepšováky a výrazné vylepšová
 **Kybernetické nohy (výrazný):** Obě vaše nohy byly nahrazeny mnohem silnějšíma kybernetickýma nohama. Dokážete se pohnout o dvě zóny v rámci volné akce a získáte +2 k hodům na Atletiku na běhání a skákání. Navíc si vyberte jeden z následujících doplňků. Každý další doplněk je drobný vylepšovák.
   
 * **Skryté úložiště:** Máte v nohách úložiště, kam můžete něco schovat, například pistoli nebo cihlu kokainu.
-  
+
 * **Magnetický úchyt:** Pokud stojíte na kovovém povrchu, nemůžete být sraženi. Můžete také chodit po nakloněném nebo i vertikálním kovovém povrchu, i když poněkud vratce.
-  
+
 * **Pneumatický nakopávač:** Pokud někoho kopnete, váš kop je Zbraň:2.
   
 **Neurální rozhraní (výrazný):** Můžete se odkudkoliv připojit k Síti pouhou myšlenkou. Můžete automaticky nahackovat slabě zabezpečené systémy - prostě udělají to, co chcete. Ani vysoce zabezpečené systémy nejsou problém - získáte +2 k hodu na Počítače, když se do nich pokoušíte proniknout.
@@ -240,13 +240,13 @@ Mnoho těchto pravidel může být použito i k přidání zajímavých vlastnos
   
 ## Akce jednotek
   
-Co když chcete hrát jednotky postav, které byly naverbovány, aby prolomily obranu pláží Normandie při Dni D? Můžete použít Fate k hraní jednotky vesmírných mariňáků?
+Co když chcete hrát jednotky postav, které byly naverbovány, aby prolomily obranu pláží Normandie při Dni D? Můžete použít *Fate* k hraní jednotky vesmírných mariňáků?
   
 Ano, pane. Ano, můžete.
 
 ::: card 
 
-Tato pravidla, stejně jako vše ve _Fate_, jsou dost tvárná, aby fungovala v mnoha podobách a pokryla jednotky moderní armády, jednotky z 2. světové války, high-fantasy armády i futuristické  brouky lovící mechy. 
+Tato pravidla, stejně jako vše ve **_Fate_**, jsou dost tvárná, aby fungovala v mnoha podobách a pokryla jednotky moderní armády, jednotky z 2. světové války, high-fantasy armády i futuristické  brouky lovící mechy. 
 :::
   
 ### Tvorba jednotek
@@ -350,7 +350,7 @@ Pokud se hráčům daří, mohou si popsat jeden dobrý důsledek za každý pos
   
 ## Čas na válku: Masové boje
   
-Tento hack obsahuje jednoduché nástroje ke hraní konfliktů ve velkém měřítku a hodí se do jakékoliv hry v Základních pravidlech Fate, stejně jako pro samostatnou minihru při čekání na týpka s pizzou. Tato pravidla nejsou kompatibilní s pravidly pro jednotky popsanými výše, protože popisují akce skupin větších, než je jen pár jedinců.
+Tento hack obsahuje jednoduché nástroje ke hraní konfliktů ve velkém měřítku a hodí se do jakékoliv hry v *Základních pravidlech Fate*, stejně jako pro samostatnou minihru při čekání na týpka s pizzou. Tato pravidla nejsou kompatibilní s pravidly pro jednotky popsanými výše, protože popisují akce skupin větších, než je jen pár jedinců.
   
 ::: card Potřebujete:
   
@@ -509,9 +509,7 @@ Aby mohl jednat, je nezávislého velitele třeba aktivovat jako jednotku.
 ### Postup hry
   
 1. Vyberte jednoho velitele a hoďte na jeho Vůli. Jednání probíhá popořadě od toho s nejvyšším výsledkem. Pokud dojde k remíze, vítězí ten s vyšší Vůlí. Pokud je i tam remíza, pak vítězí hráč s více jednotkami.
-  
 2. Když jste na řadě, zvolte a aktivujte jednu svou jednotku nebo nezávislého velitele. Pokud zvolíte jednotku s velitelem, pak jedná i její velitel. Nezávislý velitel nemůže interagovat s jednotkami, může ale interagovat s jinými veliteli (jakýmkoliv násilným způsobem). Každá jednotka a velitel na jedné straně musí jednat předtím, než někdo začne jednat znovu.
-  
 3. Bitva končí, když všichni ostatní hráči, kteří nejsou spojenci, prohrají nebo odstoupí.
   
 ### Vítězství
@@ -527,10 +525,9 @@ Každý na vítězné straně dostane bod osudu. Každý hráč, který porazil 
   
 ## Dobrodružné duely
   
-Onen typ cinematických, hrdinských akcí, který je typický pro akční dobrodružné příběhy, je blízký srdci Základních pravidel Fate - je to přímo přirozenost hry. Tyto cinematické boje jeden na jednoho mezi hrdinou a zbabělým záporákem takřka vždy zahrnují spoustu přetlačování předtím, než jeden 
-z nich zasadí nějaký úder. V mezičase si mohou vyměňovat břitké hlášky či provokativní urážky, houpat se na lustrech, skákat z balkónů, házet na protivníka své pláště a tisíce dalších věcí. Podívejte se na D‘Artagnana a Jussaca ve Třech mušketýrech, Errola Flynna a Basila Rathbonea v Dobrodružstvích Robina Hooda z roku 1938, Cyranův poezií prokládaný duel s Valvertem v Rostandově Cyranovi z Bergeracu nebo na duel Luka Skywalkera a Darth Vadera v Impérium vrací úder.
+Onen typ cinematických, hrdinských akcí, který je typický pro akční dobrodružné příběhy, je blízký srdci *Základních pravidel Fate* - je to přímo přirozenost hry. Tyto cinematické boje jeden na jednoho mezi hrdinou a zbabělým záporákem takřka vždy zahrnují spoustu přetlačování předtím, než jeden z nich zasadí nějaký úder. V mezičase si mohou vyměňovat břitké hlášky či provokativní urážky, houpat se na lustrech, skákat z balkónů, házet na protivníka své pláště a tisíce dalších věcí. Podívejte se na D‘Artagnana a Jussaca ve *Třech mušketýrech*, Errola Flynna a Basila Rathbonea v *Dobrodružstvích Robina Hooda* z roku 1938, Cyranův poezií prokládaný duel s Valvertem v Rostandově *Cyranovi z Bergeracu* nebo na duel Luka Skywalkera a Darth Vadera v *Impérium vrací úder*.
   
-Akce vytvoření výhody v Základních pravidlech Fate dokáže takové konflikty snadno vykreslit, ale většina hráčů bude stále tíhnout k nejefektivnějšímu přístupu ke zničení protivníků, zejména když okolo nebudou jiné PH, aby jim daly příležitost tvořit situační aspekty. A to je to, co dělá tento hack - nutí hráče k tomu spoléhat se v boji i na jiné dovednosti, než jen na Boj, a tvořit tak barvité akce.
+Akce vytvoření výhody v *Základních pravidlech Fate* dokáže takové konflikty snadno vykreslit, ale většina hráčů bude stále tíhnout k nejefektivnějšímu přístupu ke zničení protivníků, zejména když okolo nebudou jiné PH, aby jim daly příležitost tvořit situační aspekty. A to je to, co dělá tento hack - nutí hráče k tomu spoléhat se v boji i na jiné dovednosti, než jen na Boj, a tvořit tak barvité akce.
   
 Tato pravidla pro duely jeden na jednoho představují něco, co nazýváme **převaha**. Pouze duelista s převahou může skutečně použít dovednost k akci útoku a způsobit zranění. Druhý duelista může udělat jakoukoliv _jinou_ akci, než útok - dokud _sám_ nezíská převahu, samozřejmě.
   
@@ -648,7 +645,7 @@ Superhrdinové ve Fate jsou hodně podobní běžným postavám ve Fate, ale č�
 
 ### Superdovednosti
   
-Jeden ze způsobů, jak ve Fate vytvořit superschopnosti, je umožnit hráčům, aby si pro superschopnosti vytvořili dovednosti namísto triků. Hrdina narozený na pokročilém mimozemském světě si může vzít Super Učenost. Teenager spojený s prastarým bohem může mít Super Atletiku. Hrdinové, kteří používají technologii nebo magické předměty mohou investovat dovednosti do samotných předmětů jako do dovednostních specialit a nosit Kopí Osudu (Kondice) nebo stavět fantastické roboty z hodinových strojků (Střelba).
+Jeden ze způsobů, jak ve *Fate* vytvořit superschopnosti, je umožnit hráčům, aby si pro superschopnosti vytvořili dovednosti namísto triků. Hrdina narozený na pokročilém mimozemském světě si může vzít Super Učenost. Teenager spojený s prastarým bohem může mít Super Atletiku. Hrdinové, kteří používají technologii nebo magické předměty mohou investovat dovednosti do samotných předmětů jako do dovednostních specialit a nosit Kopí Osudu (Kondice) nebo stavět fantastické roboty z hodinových strojků (Střelba).
   
 Hrdinové mohou používat dovednosti normálně, ale mohou se také rozhodnout použít schopnost utracením bodu osudu. Když je superschopnost aktivována, umožní hrdinovi pokusit se o fantastické věci zdvojnásobením svého běžného bonusu. Po hodu si postava musí snížit dovednost o jedna. Dokud není dovednost snížena na nula, tak se schopnost v další scéně obnoví. Pokud je ale vyčerpána, musí hrdina najít nějaký jiný způsob odpočinku, aby získal své schopnosti zpátky.
   
@@ -658,7 +655,7 @@ Tento systém směřuje k hrdinům Zlatého věku, kteří dosahují úžasných
   
 ### Tvorba superschopností pomocí triků
   
-Pokud vaše skupina preferuje více definované superschopnosti, můžete hráčům umožnit pořídit si superschopnosti jako trik a možná jim i dát trik nebo dva navíc zdarma. Pro slabší superhrdinské hry napodobující antihrdiny z 80. let jsou existující triky ze Základních pravidel Fate nejspíš dostačující - hrdinové nejsou mocní šampioni, jen neobyčejní lidé navlečení v kostýmech.
+Pokud vaše skupina preferuje více definované superschopnosti, můžete hráčům umožnit pořídit si superschopnosti jako trik a možná jim i dát trik nebo dva navíc zdarma. Pro slabší superhrdinské hry napodobující antihrdiny z 80. let jsou existující triky ze *Základních pravidel Fate* nejspíš dostačující - hrdinové nejsou mocní šampioni, jen neobyčejní lidé navlečení v kostýmech.
   
 Pokud chcete vyprávět epičtější superhrdinské příběhy, můžete napsat i triky, které poskytnou silnější schopnosti, ale vyžadují aby hráč vsadil bod osudu. Statické překážky mohou být poraženy za jeden bod osudu, ale jiné super postavy mohou akci přijmout, odmítnout nebo zvýšit sázky vlastním bodem osudu a popisem své opozice. To probíhá sem a tam, dokud jedna strana neodmítne bod osudu utratit. Pokud dojde k remíze, body jsou dány vypravěči, ale pokud jedna z postav zjevně vítězí, tak prohrávající dostane všechny vsazené body osudu. Všimněte si, že to může vést k dramatickým zvratům v ekonomii bodů osudu s tím, jak jich jeden hráč dostane na konci scény celou hromadu.
 
@@ -671,13 +668,14 @@ Pokud chcete vyprávět epičtější superhrdinské příběhy, můžete napsat
 V herním prostředí **_Wild Blue_** z **_Fate Worlds_** je pár úžasných nápadů pro tvorbu schopností jako triků s narativní cenou, jako je cestování v čase, které hrdina úplně nekontroluje, nebo telepatie, která vždy odhalí něco nechtěného. Mrkněte tam pro další nápady jak ve Fate tvořit superschopnosti\!
   
 Podobně superschopnosti lze nazývat i _magií_. Podívejte se na předchozí kapitiolu, abyste získali představu, jak udělat něco hlubšího a zrádnějšího tím, že superschopnosti vytvoříte jako „magický“ systém.
+:::
   
   
 ### Záporáci a pomocníci
   
-Fate už má skvělá pravidla pro tvorbu PV (začínají na straně 213 Základních pravidel Fate). Pro příběhy o superhrdinech je může vypravěč označit jako poskoky, záporáky a superzáporáky, aby hrdinům lépe naznačil úroveň nebezpečí, proti níž stojí.
+Fate už má skvělá pravidla pro tvorbu PV (začínají na straně 213 *Základních pravidel Fate*). Pro příběhy o superhrdinech je může vypravěč označit jako poskoky, záporáky a superzáporáky, aby hrdinům lépe naznačil úroveň nebezpečí, proti níž stojí.
   
-Věnujte pozornost zvláště návrhům ze Základních pravidel Fate shlukovat poskoky dohromady a zacházet s nimi jako s překážkami. Někdy je jen jediný hod nebo utracení superschopnosti tím nejlepším způsobem, jak vykreslit hrdinu ničícího skupinu obyčejných násilníků.
+Věnujte pozornost zvláště návrhům ze *Základních pravidel Fate* shlukovat poskoky dohromady a zacházet s nimi jako s překážkami. Někdy je jen jediný hod nebo utracení superschopnosti tím nejlepším způsobem, jak vykreslit hrdinu ničícího skupinu obyčejných násilníků.
   
 Záporáci by měli vypadat trochu víc jako samotní hrdinové, nejspíše i s jednou či dvěma superschopnostmi. Ideálně chcete, aby byla skupina záporáků schopná se střetnout s hrdiny na dost dlouho, aby to vytvořilo zajímavé střetnutí, ale zase nechcete, aby byli pro hrdiny skutečnou hrozbou.
   
@@ -689,7 +687,7 @@ Hrdinové si mohou také vybrat své pomocníky (viz Pomocníci vs. Spojenci) a 
   
 ## Paradox hororu
   
-V základu se Fate pro hororový žánr moc nehodí. Je to vepsané hned v do úvodu Základních pravidel Fate: „...nejlépe ale pracuje s předpokladem, že postavy jsou proaktivní, schopní lidé žijící dramatické životy.“ Horor odvádí svou temnou práci umisťováním postav do smrtících, nevyhnutelných okolností mimo jejich kontrolu. V hororu jsou postavy často nuceny reagovat, spíše než jednat. Bez ohledu na jejich schopnosti, postavy čelí hrozbám, které je převyšují; jejich schopnosti nejsou dostatečné k vítězství. Porážka se zdá nevyhnutelná a za úspěch se draze platí. Spíše než aby se vrhaly vpřed a vítězily, se postavy soustředí více na přežití dalších pár minut a přípravu na útěk.
+V základu se *Fate* pro hororový žánr moc nehodí. Je to vepsané hned v do úvodu *Základních pravidel Fate*: „...nejlépe ale pracuje s předpokladem, že postavy jsou proaktivní, schopní lidé žijící dramatické životy.“ Horor odvádí svou temnou práci umisťováním postav do smrtících, nevyhnutelných okolností mimo jejich kontrolu. V hororu jsou postavy často nuceny reagovat, spíše než jednat. Bez ohledu na jejich schopnosti, postavy čelí hrozbám, které je převyšují; jejich schopnosti nejsou dostatečné k vítězství. Porážka se zdá nevyhnutelná a za úspěch se draze platí. Spíše než aby se vrhaly vpřed a vítězily, se postavy soustředí více na přežití dalších pár minut a přípravu na útěk.
   
 Jak tyto dvě reality propojit? Jak vzít systém postavený pro proaktivní, schopné postavy a přimět jej sloužit potřebám hororového žánru?
   

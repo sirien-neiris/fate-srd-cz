@@ -3,7 +3,7 @@
 
 ## Stres
   
-Čtverečky stresu mají v Základních pravidlech Fate velmi specifický účel a užití, ale to je jen jedna z možností. Tady jsou další.
+Čtverečky stresu mají v *Základních pravidlech Fate* velmi specifický účel a užití, ale to je jen jedna z možností. Tady jsou další.
   
 **Jedno-posunové čtverečky:** Každý čtvereček stresu pohltí pouze jeden posun zásahu, ale můžete si jich naráz proškrtnout tolik, kolik chcete. Tato možnost učiní postavy značně křehčí.
   
@@ -19,7 +19,7 @@
   
 ## Následky
   
-Stejně jako stres, i následky mohou mít ve vaší hře širší paletu užití než jen základní možnosti ukázané v Základních pravidlech Fate.
+Stejně jako stres, i následky mohou mít ve vaší hře širší paletu užití než jen základní možnosti ukázané v *Základních pravidlech Fate*.
   
 **Extrémní úsilí:** Kdykoliv můžete dobrovolně přijmout následek, abyste získali bonus na hod ve výši jeho hodnoty. Drobný vám dá +2, mírný +4 a vážný +6. To může být nebezpečné, jak pro PH tak pro ekonomiku bodů osudu, jak je uvedeno v _Dodatečném úsilí_ výše.  
   
@@ -40,7 +40,7 @@ Používání map se zónami rozděluje fyzický prostor, v němž se boj při k
   
 ### Pohyb skrze zóny
   
-Ve hrách, které zón hodně využívají, může být dobrý nápad nechat postavy obětovat svůj tah, aby se pohnuly o počet zón rovný jejich hodnocení Atletiky, nebo aby odstranily počet překážek rovný jejich Kondici. Rychlé a silné postavy chtějí být rychlé a silné, ale házení kostkami není ve Fate vždy nejlepší způsob, jak to ukázat.
+Ve hrách, které zón hodně využívají, může být dobrý nápad nechat postavy obětovat svůj tah, aby se pohnuly o počet zón rovný jejich hodnocení Atletiky, nebo aby odstranily počet překážek rovný jejich Kondici. Rychlé a silné postavy chtějí být rychlé a silné, ale házení kostkami není ve *Fate* vždy nejlepší způsob, jak to ukázat.
   
 ### Těsné zóny mohou tvořit drama
   
@@ -71,7 +71,7 @@ Takové scény mohou PH přinést dodatečné body osudu uprostřed sezení a ud
   
 ## Úpravy herního prostředí: tvorba velkých změn
   
-Protože jsou postavy ve Fate vždy protagonisty, hráči se někdy rozhodnou upravit samotné prostředí, vyčistit špinavé ulice kriminalitou zmítaného města nebo zabezpečit vojenská opevnění proti budoucím útokům.
+Protože jsou postavy ve *Fate* vždy protagonisty, hráči se někdy rozhodnou upravit samotné prostředí, vyčistit špinavé ulice kriminalitou zmítaného města nebo zabezpečit vojenská opevnění proti budoucím útokům.
   
 ### Objevte problémy dříve, než je vyřešíte
   
@@ -111,7 +111,7 @@ Vemte dvě šestistěnné kostky různých barev. Určete jednu z nich jako pozi
   
 ### Spojte tečky
   
-Tato teechnika se poprvé objevila ve hře „První dětské Fudge kostky“ od Jonathana Waltona. Můžete si vygooglit „Baby‘s First Fudge Dice“, pokud vás zajímá víc, hledejte odkaz vedoucí na sinisterforces.com.
+Tato teechnika se poprvé objevila ve hře „*První dětské Fudge kostky*“ od Jonathana Waltona. Můžete si vygooglit „Baby‘s First Fudge Dice“, pokud vás zajímá víc, hledejte odkaz vedoucí na sinisterforces.com.
   
 Za pomoci pár tečkovaných šestistěnek a nějaké fixy si můžete udělat své _vlastní_ Fate kostky tím, že tečky pospujejete. Strany s 2 a 3 se stanou -, strany s 4 a 6 se stanou 0 a starny s 5 a 1 se stanou vašimi + stranami. Tu 1 budete muset črtnout trochu od oka. Tadá\! Kouzlo\! Fate kostky\!
   
@@ -145,7 +145,7 @@ Když se dvě entity střetnou ve vzájemném konfliktu, rozdíly mezi jejich ve
   
 Jak tyto efekty použít záleží na tom, co dává v daném kontextu smysl.
   
-Pokud Hatchetský gang (velikost: Lokální) provede odvážný úder proti Dobročinnému sdružení Nebeských poutníků (velikost: Regionální), bude Hatchetský gang proti lépe financovanému Sdružení tahat za kratší kus provazu co do zdrojů a počtu lidí. Dává smysl dát Sdružení bonus +1 k jeho obraným hodům na Boj.
+> Pokud Hatchetský gang (velikost: Lokální) provede odvážný úder proti Dobročinnému sdružení Nebeských poutníků (velikost: Regionální), bude Hatchetský gang proti lépe financovanému Sdružení tahat za kratší kus provazu co do zdrojů a počtu lidí. Dává smysl dát Sdružení bonus +1 k jeho obraným hodům na Boj.
   
 Samozřejmě, pokud dojde ke konfliktu mezi dvěma entitami zhruba stejné velikosti či měřítka, tak se žádný z těchto efektů nepoužije. Tyto vstupují do hry pouze, pokud je velikost _odlišná_.
   
@@ -158,7 +158,7 @@ Hráči si mohou vzít jako specialitu jak poskoky, tak spojence, ale rozlišit 
   
 ### Svolení a cena
   
-Ačkoliv jsou poskoci i spojenci specialitami (viz _Speciality_, strana 269 Základních pravidel Fate), poskoci bývají získáni pomocí osobních vztahů, zatímco spojenci vychází ze svolení založených na organizacích či zdrojích. Například Sherlock Holmes by si mohl vzít aspekt **_Dobrý přítel Dr. Watsona_** a přidat si na kartu Watsona jako poskoka, zatímco aspekt **_Patron spolupracovníků Baker Street_** by mu dal spoustu bezejmenných dětí, které užívá jako špiony a kurýry. Když dojde na cenu, poskoci na postavy obvykle kladou sociální a vztahovou cenu - žádají je o přičinění v důležitých případech nebo o pomoc s problémy - zatímco spojenci obvykle vyžadují přímou platbu, laskavosti nebo jiné zdroje.
+Ačkoliv jsou poskoci i spojenci specialitami (viz _Speciality_, strana 269 *Základních pravidel Fate*), poskoci bývají získáni pomocí osobních vztahů, zatímco spojenci vychází ze svolení založených na organizacích či zdrojích. Například Sherlock Holmes by si mohl vzít aspekt **_Dobrý přítel Dr. Watsona_** a přidat si na kartu Watsona jako poskoka, zatímco aspekt **_Patron spolupracovníků Baker Street_** by mu dal spoustu bezejmenných dětí, které užívá jako špiony a kurýry. Když dojde na cenu, poskoci na postavy obvykle kladou sociální a vztahovou cenu - žádají je o přičinění v důležitých případech nebo o pomoc s problémy - zatímco spojenci obvykle vyžadují přímou platbu, laskavosti nebo jiné zdroje.
   
 ### Měřítka stresu a Následky
   
@@ -174,7 +174,7 @@ Poskoci jsou takřka vždy stálou součástí karty postavy, nicméně spojenci
   
 ## Bohatství
   
-Význam peněz ve hře závisí hodně na jejím žánru. Základní pravidla Fate předkládají dovednost Zdroje, ale pro žánry, v nichž je _získávání_ majetku často hlavní motivací, jako je kyberpunk nebo klasické fantazy prolézačky podzemí, můžete chtít něco trochu flexibilnějšího.
+Význam peněz ve hře závisí hodně na jejím žánru. *Základní pravidla Fate* předkládají dovednost Zdroje, ale pro žánry, v nichž je _získávání_ majetku často hlavní motivací, jako je kyberpunk nebo klasické fantazy prolézačky podzemí, můžete chtít něco trochu flexibilnějšího.
   
 ### Měřítko stresu Bohatství
   
@@ -198,7 +198,7 @@ Jediný způsob, jak čtverečky stresu přidat, je během milníku tím, že pr
 
 ## Alternativy Zbraní a Brnění
   
-Fate v základu zbraně a brnění abstrahuje - spolu se vším vybavením - do popisů. Mít zbraň vám umožní provést vůči někomu útok Střelbou, ale nedá vám to nic navíc. Pokud chcete, aby na zbraních a brněních záleželo více, kapiotola _Speciality_ v Základních pravidlech Fate (strana 227) nabízí pravidla pro hodnocení Zbraní a Brnění. Pokud se vám _ani tahle_ nelíbí, tak tady máte pár dalších alternativ.
+*Fate* v základu zbraně a brnění abstrahuje - spolu se vším vybavením - do popisů. Mít zbraň vám umožní provést vůči někomu útok Střelbou, ale nedá vám to nic navíc. Pokud chcete, aby na zbraních a brněních záleželo více, kapiotola _Speciality_ v *Základních pravidlech Fate* (strana 227) nabízí pravidla pro hodnocení Zbraní a Brnění. Pokud se vám _ani tahle_ nelíbí, tak tady máte pár dalších alternativ.
   
 ### Prahy a stropy zranění
   
@@ -243,11 +243,11 @@ Abyste to ještě víc zamotali, můžete dát obraným zbraním, jako jsou tře
 
 ## Dodatečné akce
   
-Dodatečné akce se nikde v Základních pravidlech Fate nevyskytují, ačkoliv se objevily v dřívějších verzích Fate. Rozhodli jsme se pro to ze dvou důvodů. Zaprvé nám přijde lepší dávat bonusy než postihy a dodatečné akce přinášejí postihy. Zadruhé dodatečné akce sloužily k tomu, udělat věci „realističtější“, ale to neznamená, že dělají věci zábavnější nebo že pomáhají tvořit lepší příběh. Provádět cool věci je s nimi těžší, ne snazší.
+Dodatečné akce se nikde v *Základních pravidlech Fate* nevyskytují, ačkoliv se objevily v dřívějších verzích Fate. Rozhodli jsme se pro to ze dvou důvodů. Zaprvé nám přijde lepší dávat bonusy než postihy a dodatečné akce přinášejí postihy. Zadruhé dodatečné akce sloužily k tomu, udělat věci „realističtější“, ale to neznamená, že dělají věci zábavnější nebo že pomáhají tvořit lepší příběh. Provádět cool věci je s nimi těžší, ne snazší.
   
-To ale neznamená, že by ten koncept byl špatný. Pokud chcete používat dodatečné akce, můžete je použít prostě tak, jak fungovaly v dřívějších verzích Fate - provedení akce, která vás rozptyluje od vaší hlavní činnosti, vám k vaší hlavní akci přinese penalizaci -1. Většina těchto akcí je v Základních pravidlech Fate chápána jako volné akce. Necháváme na vás rozhodnout, které akce budou nadále volné a které by měly být dodatečné.
+To ale neznamená, že by ten koncept byl špatný. Pokud chcete používat dodatečné akce, můžete je použít prostě tak, jak fungovaly v dřívějších verzích Fate - provedení akce, která vás rozptyluje od vaší hlavní činnosti, vám k vaší hlavní akci přinese penalizaci -1. Většina těchto akcí je v *Základních pravidlech Fate* chápána jako volné akce. Necháváme na vás rozhodnout, které akce budou nadále volné a které by měly být dodatečné.
   
-Pokud chcete něco, co je trochu více v souladu se stylem Základních pravidel Fate a nezpůsobuje to penalizace, zkuste tohle.
+Pokud chcete něco, co je trochu více v souladu se stylem *Základních pravidel Fate* a nezpůsobuje to penalizace, zkuste tohle.
   
   
 ::: card Dodatečná akce
@@ -257,7 +257,7 @@ Pokud navíc ke své hlavní akci provedete nějakou menší akci - pohyb mezi z
 
 ::: card Překladatelské ujasnění ohledně pojmenovaných posílení
   
-Fate původně (při svém vydání) pracoval s posíleními jako s  běžnými aspekty, jen s jedním vyvoláním (tj. pojmenovával je a daly se vynucovat). Šlo o přístup, který byl opuštěn velmi záhy po vydání (a ujasněn na autorských blozích, viz [http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html](http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html)).
+Fate původně (při svém vydání) pracoval s posíleními jako s  běžnými aspekty, jen s jedním vyvoláním (tj. pojmenovával je a daly se vynucovat). Šlo o přístup, který byl opuštěn velmi záhy po vydání (a ujasněn na autorských blozích, viz *[http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html]*(http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html)).
   
 Po zvážení věci jsem se rozhodl v zájmu jednoduchosti a snadné pochopitelnosti překlad provést tak, že jsem pojmenovaná posílení v souladu s autory ujasněným chápání pravidel vypustil (a jejich název jsem případně vepsal jako popisný text).
   

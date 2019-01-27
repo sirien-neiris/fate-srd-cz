@@ -2,11 +2,11 @@
   
 ## Nové typy triků
   
-Triky, tak jak jsou uvedené v Základních pravidlech Fate, nabízí mnoho cest k uzpůsobení vaší postavy a dodávají zábavu mechanickými zásahy do hry. Z každé dovednosti dostanete trikem o něco víc a to může být dost zábavné. Pokud byste chtěli triky dosáhnout ještě více, pak je tato sekce pro vás\!
+Triky, tak jak jsou uvedené v *Základních pravidlech Fate*, nabízí mnoho cest k uzpůsobení vaší postavy a dodávají zábavu mechanickými zásahy do hry. Z každé dovednosti dostanete trikem o něco víc a to může být dost zábavné. Pokud byste chtěli triky dosáhnout ještě více, pak je tato sekce pro vás\!
   
 ### Přizpůsobivé triky
   
-Toto je nejsnazší možnost na zavedení, protože jen posouvá způsob, jak o tricích přemýšlíte. V Základních pravidlech Fate jsou triky jasně navázané k dovednostem. Co by se stalo, kdybyste se rozhodli mít triky nezávislé na dovednostech, nebo navázané na několik dovedností naráz, nebo na něco úplně jiného, jako třeba na aspekt nebo vybavení nebo stres? Pár příkladů:
+Toto je nejsnazší možnost na zavedení, protože jen posouvá způsob, jak o tricích přemýšlíte. V *Základních pravidlech Fate* jsou triky jasně navázané k dovednostem. Co by se stalo, kdybyste se rozhodli mít triky nezávislé na dovednostech, nebo navázané na několik dovedností naráz, nebo na něco úplně jiného, jako třeba na aspekt nebo vybavení nebo stres? Pár příkladů:
   
 **Štít spojenců:** Můžeš vyvolat **_Trpasličí štítonošku_**, když je poblíž stojící spojenec vystaven útoku. Když to uděláš, převedeš útok na sebe. Tvá obrana proti útoku je Průměrná (+1).
   
@@ -44,13 +44,13 @@ Pokud u svých triků hledáte větší variabilnost než jen +2 nebo adekvátn�
   
 ### Kombinované triky
   
-Pokud chcete nabídnout skutečně silné triky, zvažte spojení triků dohromady za účelem vytvoření jednoho velkého efektu. Například můžete vytvořit trik, který poskytne monstrózní 4 posunový efekt - což je kombinace dvou triků a jako takový by měl stát dva body obnovy. (Tento postup můžete poznat jako metodu použitou pro tvorbu nadpřirozených schopností v Dresden Files RPG.) Takový typ soustředěných výhod ale může vaši hru rychle vykolejit. Zvažte omezení přístupu k takovým „super trikům“, ať už počtem - jako „každý může mít jen jeden dvoutrik“ - nebo výběrem a svoleními - „vlkodlaci si mohou vzít jen tyto triky“.
+Pokud chcete nabídnout skutečně silné triky, zvažte spojení triků dohromady za účelem vytvoření jednoho velkého efektu. Například můžete vytvořit trik, který poskytne monstrózní 4 posunový efekt - což je kombinace dvou triků a jako takový by měl stát dva body obnovy. (Tento postup můžete poznat jako metodu použitou pro tvorbu nadpřirozených schopností v *Dresden Files RPG*.) Takový typ soustředěných výhod ale může vaši hru rychle vykolejit. Zvažte omezení přístupu k takovým „super trikům“, ať už počtem - jako „každý může mít jen jeden dvoutrik“ - nebo výběrem a svoleními - „vlkodlaci si mohou vzít jen tyto triky“.
   
 
   
 ## Cena triků
   
-V Základních pravidlech Fate dostanete tři triky, tři body obnovy a můžete si koupit až dva další triky za cenu jednoho bodu obnovy každý. To je základní přístup k trikům, ale rozhodně to není _jediný_ přístup. Každá z těchto součástí - startovní počet triků, počáteční obnova a cena každého triku - je volba, kterou můžete upravit v obou směrech a učinit tím triky běžnější nebo výjimečnější. Způsob, kterým tyto volby změníte, určí (z části), jaký druh hry budete hrát, stejně jako to ovlivní Milníky.
+V *Základních pravidlech Fate* dostanete tři triky, tři body obnovy a můžete si koupit až dva další triky za cenu jednoho bodu obnovy každý. To je základní přístup k trikům, ale rozhodně to není _jediný_ přístup. Každá z těchto součástí - startovní počet triků, počáteční obnova a cena každého triku - je volba, kterou můžete upravit v obou směrech a učinit tím triky běžnější nebo výjimečnější. Způsob, kterým tyto volby změníte, určí (z části), jaký druh hry budete hrát, stejně jako to ovlivní Milníky.
   
 Více triků znamená silnější PH. PH s více triky mohou na hody nastřádat více bonusů, používat častěji své nejlepší dovednosti a častěji vybočovat z pravidel. To povede k pulpovějšímu, realitu překračujícímu až fantastickému pocitu. Pokud to je to, co chcete, tak super\! Zvažte ale, že dát PH více triků také znamená více podmíněných výhod a výjimek z pravidel, což povede k tvorbě složitějších postav. Pokud hráči nejsou na takovou složitost zvyklí, může to hru zpomalit a učinit tak věci spíše _méně_, než více vzrušujícími.
   

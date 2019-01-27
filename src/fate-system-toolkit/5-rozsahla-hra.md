@@ -6,7 +6,7 @@ Někdy je malá změna dostatečná, ale přiznejme si, jindy zase není. Někdy
   
 ## Možnosti tvorby postavy
   
-Systém tvorby postav v Základních pravidlech Fate předkládá specifický styl tvorby postav: takový, který dává spoustu volnosti, ale zároveň poskytuje dostatek struktury a vodítek pro hráče, aby vytvořili soudržnou skupinu jedinců. Možná, že chcete něco, co dává konkrétnější výsledky, něco, co vás povede ke specifickému závěru.
+Systém tvorby postav v *Základních pravidlech Fate* předkládá specifický styl tvorby postav: takový, který dává spoustu volnosti, ale zároveň poskytuje dostatek struktury a vodítek pro hráče, aby vytvořili soudržnou skupinu jedinců. Možná, že chcete něco, co dává konkrétnější výsledky, něco, co vás povede ke specifickému závěru.
   
 ### Profese a rasy
   
@@ -21,7 +21,7 @@ Proč tedy používáme slovo ‚rasa‘? Je takto známé v kontextu rolových 
 :::
 
   
-Ve Fate je profese reprezentována sbírkou dovedností seřazených do pyramidy s přiřazenými hodnotami. Některé kolonky jsou nechány otevřené, některé jsou předurčené. Když si vyberete profesi, dostanete s ní i pyramidu. Prázdná místa si doplňte, jak chcete. Profese zahrnují i pár aspektů; zvolte si alespoň jeden z nich, nebo si vytvořte nový, který je ve stejném stylu, jako ty uvedené. Neberte si ze své profese více, než dva aspekty. Nakonec, profese má k dispozici několik triků. Tyto triky jsou výlučně dostupné dané profesi; pokud jste členem dané profese, můžete si je vzít. Pokud nejsete členem dané profese, tyto triky vám nejsou dostupné.
+Ve *Fate* je profese reprezentována sbírkou dovedností seřazených do pyramidy s přiřazenými hodnotami. Některé kolonky jsou nechány otevřené, některé jsou předurčené. Když si vyberete profesi, dostanete s ní i pyramidu. Prázdná místa si doplňte, jak chcete. Profese zahrnují i pár aspektů; zvolte si alespoň jeden z nich, nebo si vytvořte nový, který je ve stejném stylu, jako ty uvedené. Neberte si ze své profese více, než dva aspekty. Nakonec, profese má k dispozici několik triků. Tyto triky jsou výlučně dostupné dané profesi; pokud jste členem dané profese, můžete si je vzít. Pokud nejsete členem dané profese, tyto triky vám nejsou dostupné.
   
 Rasa ve Fate poskytuje pár aspektů. Zvolte si alespoň jeden, ale ne více, než dva. Stejně jako u profese, můžete si vytvořit své vlastní, pokud chcete. Vaše rasa vám dává i rasovou dovednost se dvěma možnými stylizacemi (viz příklady níže). Umístěte svou rasovou dovednost do libovolné volné kolonky v pyramidě a zvolte si stylizaci, která vám nejvíce vyhovuje; ta vám řekne, jak svou rasovou dovednost používat. Můžete si vzít další stylizaci své rasové dovednosti, jakoby to byl trik.
   
@@ -47,6 +47,7 @@ Rasa ve Fate poskytuje pár aspektů. Zvolte si alespoň jeden, ale ne více, ne
 * **Nájemný tulák:** Kdykoliv vstoupíte do osídlení, můžete se poohlédnout po práci. Za zhruba hodinku seženete práci, která je buď dobře placená, ale nebezpečná, nebo která není moc nebezpečná, ale není moc placená. Za bod osudu seženete práci, která není moc nebezpečná a přitom je i dobře placená.
   
 * **Ochránce slabých:** Když je někdo ve vaší zóně fyzicky napaden, můžete utratit bod osudu a přesměrovat útok na sebe. Útoku se můžete bránit se základem +1.
+:::
   
 
   
@@ -167,22 +168,17 @@ Pokud se nedostanete k odškrtnutí všech aspektů dřív, než PH stihnou věc
 Tady máte příklad:
   
 * **_Výbuch a oheň\!_**
-  
 * **_Záplava vražd_**
-  
 * **_Město v panice_**
-  
 * **_Pod teroristickou hrozbou_**
-  
 * **_Tři hodiny do výbuchu_**
-  
 * **_Kouřící kráter_**
 
 
 
 ## Úroveň moci
   
-Základní pravidla Fate nabízejí základní úroveň moci, která vytváří specifický druh akce. Je heroická a akčně orientovaná, ale je také trochu drsná, 
+*Základní pravidla Fate* nabízejí základní úroveň moci, která vytváří specifický druh akce. Je heroická a akčně orientovaná, ale je také trochu drsná, 
 s hrdiny, kteří jsou dost křehcí na to, aby byli ošklivě zraněni po pár dobrých zásazích, ale dost tvrdí, aby nějakou dobu přežili. Také nabízí určitou úroveň schopností v podobě úrovní dovedností a v bodech osudu, které dostanete.
   
 Tato úroveň moci nicméně není vhodná pro každou hru. Někdy chcete vytvořit vysoko-oktanový pulp nebo drsný noir a základní nastavení těchto voleb pro vás není úplně optimální. Žádný problém - prostě ty volby upravte\!
@@ -205,11 +201,11 @@ Obnova také ovlivňuje, kolik dodatečných triků si může hráč nakoupit, c
   
 Nemělo by být překvapení, že více triků zdarma PH posílí a méně je oslabí. To má také dopad na obnovu - méně volných triků může hráče přimět utratit kus vzácné obnovy na více triků a naopak.
   
-Druhý způsob, jak ovlivnit úroveň moci skrze triky bez úpravy jejich počtu, je upravit sílu samotných triků. V Základních pravidlech Fate má trik hodnotu 2 posunů. Změňte to na 3 nebo 4 a každý trik bude mít větší dopad, zatímco snížení učiní triky méně důležitými.
+Druhý způsob, jak ovlivnit úroveň moci skrze triky bez úpravy jejich počtu, je upravit sílu samotných triků. V *Základních pravidlech Fate* má trik hodnotu 2 posunů. Změňte to na 3 nebo 4 a každý trik bude mít větší dopad, zatímco snížení učiní triky méně důležitými.
   
 ### Stres
  
-Základní pravidla Fate dávají dvě měřítka stresu po 2 čtverečcích, která je možné zlepšit pomocí konkrétních dovedností. Můžete to zvýšit a učinit postavy drsnějšími, pokud chcete, aby snesly větší nakládačku, zatímco snížení stresu učiní postavy křehčími. Taková změna má přímý dopad na to, jak dlouho trvají boje. Více stresu znamená, že PH dokáží snést více ran, což učiní boje méně riskantními a nejspíše častějšími. Méně stresu zmanená, že jsou boje nebezpečnější, což znamená, že se hráči musí dobře zamyslet, než nějaký začnou. Také to znamená, že budou potřebovat častěji odstupovat, aby se vyhnuli svému vyřazení.
+*Základní pravidla Fate* dávají dvě měřítka stresu po 2 čtverečcích, která je možné zlepšit pomocí konkrétních dovedností. Můžete to zvýšit a učinit postavy drsnějšími, pokud chcete, aby snesly větší nakládačku, zatímco snížení stresu učiní postavy křehčími. Taková změna má přímý dopad na to, jak dlouho trvají boje. Více stresu znamená, že PH dokáží snést více ran, což učiní boje méně riskantními a nejspíše častějšími. Méně stresu zmanená, že jsou boje nebezpečnější, což znamená, že se hráči musí dobře zamyslet, než nějaký začnou. Také to znamená, že budou potřebovat častěji odstupovat, aby se vyhnuli svému vyřazení.
   
 ### Aspekty
   
@@ -222,11 +218,6 @@ Pokud upravíte množství aspektů, můžete chtít také upravit obnovu. Pokud
   
 Tady máte pár příkladů různých úrovní moci, které můžete použít pro své hry.
   
-| Drsný noir	| Pulpový příběh	| Super hrdinský |
-| :---: | :---: | :---: |
-| Osm dovedností:  <br />3 Průměrné (+1) <br />3 Slušné (+2) <br />2 Dobré (+3) <br />(ekvivalent 15 dovednostních bodů) <br />Dovednostní strop na Dobré (+3) <br />Obnova 2 <br />1 trik zdarma <br />2 čtverečky stresu do začátku <br />5 aspektů	 | Patnáct dovedností: <br />5 Průměrných (+1) <br />4 Slušné (+2) <br />3 Dobré (+3) <br />2 Skvělé (+4) <br />1 Vynikající (+5) <br />(ekvivalent 35 dovednostních bodů) <br />Dovednostní strop na Vynikající (+5) <br />Obnova 4 <br />5 triků zdarma <br />4 čtverečky stresu do začátku <br />7 aspektů | Osmnáct dovedností: <br />5 Průměrných (+1) <br />4 Slušné (+2) <br />3 Dobré (+3) <br />3 Skvělé (+4) <br />2 Vynikající (+5) <br />1 Fantastická (+6) <br />(ekvivalent 50 dovednostních bodů) <br />Dovednostní strop na Fantastické (+6) <br />Obnova 6 <br />5 triků zdarma <br />Každý trik má hodnotu 3 posunů <br />4 čtverečky stresu do začátku, triky mohou poskytnout další <br />5 aspektů |
-
-
 | Drsný noir	| Pulpový příběh	| Super hrdinský |
 | :---: | :---: | :---: |
 | Osm dovedností: | Patnáct dovedností: | Osmnáct dovedností: |
@@ -245,6 +236,6 @@ Tady máte pár příkladů různých úrovní moci, které můžete použít pr
 | 5 aspektů | 7 aspektů | 5 aspektů |
 
 
-Tyto počáteční rozsahy dovedností jsou návrhem, který počítá se základním seznamem dovedností s 18 dovednostmi ze Základních pravidel Fate. Pokud použijete delší seznam dovedností, relativní rozsah počátečních dovedností se změní. Myslete na to, když se díváte na výše uvedené. Drsný noir s osmi dovednostmi pokrývá zhruba 45% dostupných dovedností, základ ze Základní ch pravidel Fate pokrývá zhruba 55%, Pulpový příběh asi 80% a superhrdinský sloupec kryje 100%.
+Tyto počáteční rozsahy dovedností jsou návrhem, který počítá se základním seznamem dovedností s 18 dovednostmi ze *Základních pravidel Fate*. Pokud použijete delší seznam dovedností, relativní rozsah počátečních dovedností se změní. Myslete na to, když se díváte na výše uvedené. Drsný noir s osmi dovednostmi pokrývá zhruba 45% dostupných dovedností, základ ze *Základních pravidel Fate* pokrývá zhruba 55%, Pulpový příběh asi 80% a superhrdinský sloupec kryje 100%.
   
 Toto je volba kompetence. Určuje nejen to, jak dobré jsou PH v konkrétních činnostech, ale i v kolika různých druzích činností zvládne daná PH vynikat.  
