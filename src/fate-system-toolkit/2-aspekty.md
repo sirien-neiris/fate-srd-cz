@@ -2,14 +2,14 @@
 
 ## Aspekty
   
-Aspekty jsou tím, co Fate pohání. Jsou tou nejčistší, nejzajímavější metodou k popisu vaší postavy a tvoří základ pro ekonomiku bodů osudu. Vyvolání aspektu vám dá určitou míru kontroly nad vaším osudem, způsob, jak umenšit svévoli kostek. Vynucení jsou vypravěčovým nejlepším přítelem, když dojde na vytváření příběhu a zajímavých situací; přidávají do scén drama nebo prostě jen hází klacky pod nohy hráčským plánům.
+Aspekty jsou tím, co *Fate* pohání. Jsou tou nejčistší, nejzajímavější metodou k popisu vaší postavy a tvoří základ pro ekonomiku bodů osudu. Vyvolání aspektu vám dá určitou míru kontroly nad vaším osudem, způsob, jak umenšit svévoli kostek. Vynucení jsou vypravěčovým nejlepším přítelem, když dojde na vytváření příběhu a zajímavých situací; přidávají do scén drama nebo prostě jen hází klacky pod nohy hráčským plánům.
   
-Základní pravidla Fate vám ukazují výchozí způsoby, jak aspekty používat, a pro většinu skupin to bude dostačující. Pokud vás ale zajímá, jak z aspektů vyždímat ještě něco navíc, jak přidat komplexnost nebo je přimět dělat něco jiného, čtěte dál.
+*Základní pravidla Fate* vám ukazují výchozí způsoby, jak aspekty používat, a pro většinu skupin to bude dostačující. Pokud vás ale zajímá, jak z aspektů vyždímat ještě něco navíc, jak přidat komplexnost nebo je přimět dělat něco jiného, čtěte dál.
   
   
 ### Vyvolání efektu
   
-Základní pravidla Fate tento koncept trochu zmiňují, když vysvětlují, že co bylo dřívě známo jako „vyvolání efektu“ je jen nezdobené vynucení. To je pravda, ale možná to není _všechno_, co vyvolání efektu znamená.
+*Základní pravidla Fate* tento koncept trochu zmiňují, když vysvětlují, že co bylo dřívě známo jako „vyvolání efektu“ je jen nezdobené vynucení. To je pravda, ale možná to není _všechno_, co vyvolání efektu znamená.
   
 Když vyvoláváte efekt, utrácíte body osudu - nebo volná vyvolání - abyste vytvořili specificky definovaný mechanický efekt, něco jiného, než co aspekt obvykle umožňuje. Když tvoříte aspekt, zamyslete se a rozhodněte, zda je potřeba k němu přidat nějaký speciální efekt. Možná, že váš zemní mág dokáže vyvolat **_Jednotu se zemí_**, aby se vyhl pádu, nebo aby nemohl být pohnut proti své vůli, nebo možná, že váš psionický detektiv může vyvolat **_Duševního šmíráka_**, aby přečetl něčí povrchové myšlenky.
   
@@ -89,14 +89,14 @@ Tohle je malá změna, ale může posílit sdílení cílů mezi PH. Velmi dobř
   
 Kdykoliv PH přijmou úkol, skupina společně vytvoří dobrý aspekt, který bude úkol reprezentovat. Například pokud se PH snaží zachránit vesničany před králem banditů, skupina může vytvořit aspekt úkolu **_Martin Poloviční srdce musí být zastaven\!_** Jakákoliv PH ze skupiny pak může tento aspekt vyvolat nebo může být vynucen, jakoby byl aspektem postavy na kartách postav všech PH, což přinese bod osudu pro každého.
   
-Pokud PH aspekt úkolu splní, nastane milník. Rozsah milníku záleží na obtížnosti a délce úkolu. Pro více informací o milnících mrkněte na stranu 256 Základních pravidel Fate.
+Pokud PH aspekt úkolu splní, nastane milník. Rozsah milníku záleží na obtížnosti a délce úkolu. Pro více informací o milnících mrkněte na stranu 256 *Základních pravidel Fate*.
   
 
   
   
 ## Aspekty vybavení
   
-Vybavení je ve Fate upozaděno. Když dojde na to něco udělat, ve světle reflektorů jsou vaše dovednosti. Vybavení je na scéně, jen aby vám umožnilo vaše dovednosti použít. Máte vysokou Střelbu? Pak máte i pistoli\! Dali jste přednost Řízení? Pak nejspíše máte auto. Tyto věci předpokládáme automaticky a nemají žádný mechanický efekt. Kapitola _Speciality_ v Základních pravidlech Fate vám ukazuje, jak můžete vybavení přidat mechanické zuby přidáním Hodnocení zbraním nebo tím, že vybavení přidáte jeho vlastní aspekty či dovednosti. Existuje ale i střední cesta, taková, která nevyžaduje snížení obnovy a která umožňuje, aby významné vybavení bylo skutečně _významné_.
+Vybavení je ve *Fate* upozaděno. Když dojde na to něco udělat, ve světle reflektorů jsou vaše dovednosti. Vybavení je na scéně, jen aby vám umožnilo vaše dovednosti použít. Máte vysokou Střelbu? Pak máte i pistoli\! Dali jste přednost Řízení? Pak nejspíše máte auto. Tyto věci předpokládáme automaticky a nemají žádný mechanický efekt. Kapitola _Speciality_ v *Základních pravidlech Fate* vám ukazuje, jak můžete vybavení přidat mechanické zuby přidáním Hodnocení zbraním nebo tím, že vybavení přidáte jeho vlastní aspekty či dovednosti. Existuje ale i střední cesta, taková, která nevyžaduje snížení obnovy a která umožňuje, aby významné vybavení bylo skutečně _významné_.
   
 Pokud chcete jít touto střední cestou, udržet vybavení jednoduché a v pozadí, ale přitom zvýšit jeho mechanický dopad, můžete použít **aspekty vybavení**. Při tomto přístupu se většina vybavení chová tak, jak je ve Fate běžné - umožňuje používat dovednosti a poskytuje svolení k různým akcím. Nicméně pokud má nějaký kus vybavení potenciál být v určitém momentu příběhově zajímavý, stane se aspektem.
   
@@ -135,6 +135,6 @@ Jakmile získáte nějaký stav, tak se tento stav stává aspektem na vaší ka
   
 Pokud budete ve své hře používat kondice, tak jedna věc, kterou můžete udělat, abyste posílili téma nebo styl své hry, je vytvořit si své vlastní stavy. Nemusíte dodržovat rozdělení dvou pomíjivých/dvou dočasných/dvou přetrvávajících, které jsme uvedli zde, ale měli byste se držet stejného počtu čtverečků stresu, které jimi lze pohltit: 14. Také se ujistěte že dodržujete vzor pro více typů stavů - pomíjivé zmizí rychle, dočasné vyžadují příběhové ospravedlnění a přetrvávající vyžadují léčení. Výše uvedené stavy jsou dost nespecifické, aby mohly být použity v širokém spektru herních prostředí, nicméně propojení stavů s vaším prostředím může být efektivní způsob, jak docílit toho, aby byly postavy více cítit jako součást tohoto prostředí.
   
-Pro názornost zde uvádíme alternativní stavy z Jason Morningstarova Fight Fire (k nalezení ve Fate Worlds: Worlds on Fire):
+Pro názornost zde uvádíme alternativní stavy z Jason Morningstarova *Fight Fire* (k nalezení ve *Fate Worlds: Worlds on Fire*):
 
 ![stavy z worlds on fire](~./images/19-stavy.jpg)
