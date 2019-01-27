@@ -144,14 +144,14 @@ Pokud je dovednost posílená jednou - tzn. sdílejí ji dva módy - zlepšete s
 
 > Navíc ke svému Dobrému (+3) Kradení si Will vezme také Slušné (+2) Mluvení a Průměrný (+1) Boj. Jak Boj tak Kradení mají Atletiku, takže ta se stane z trénované soustředěnou - z Dobré (+3) ji přepíše na Skvělou (+4) a zapíše si ji ke Kradení. Podobně Mluvení a Kradení sdílí Klamání, takže si ho zapíše pod Kradení jako soustředěné. Willovy módy pak vypadají takto:
   
-|  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
-| :---: | :---: | :---: | :---: | 
-|  | **Kradení** | **Mluvení** | **Boj** |
-+5 |  |  |  | 			
-+4 | Atletika, Klamání |  |  | 			
-+3 | Skrývání, Všímání, Zlodějna |  |  | 			
-+2 |  | Empatie, Kontakty, Vůle, Vztahy |  | 			
-+1 |  |  | Kondice, Střelba, Zastrašování, Zbraně | 	
+> |  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
+> | :---: | :---: | :---: | :---: | 
+> |  | **Kradení** | **Mluvení** | **Boj** |
+> | +5 |  |  |  | 			
+> | +4 | Atletika, Klamání |  |  | 			
+> | +3 | Skrývání, Všímání, Zlodějna |  |  | 			
+> | +2 |  | Empatie, Kontakty, Vůle, Vztahy |  | 			
+> | +1 |  |  | Kondice, Střelba, Zastrašování, Zbraně | 	
 
   
  ### Zlepšování dovedností
@@ -168,14 +168,14 @@ Poté má každý hráč 7 bodů na další zlepšení dovedností.
 
 > Will chce být velice nenápadný, takže utratí 3 body na specializaci Skrývání, z Dobré (+3) na Výjimečnou (+5). Také si přeje být kompetentní v boji, takže utratí další 3 body na specializaci Zbraní, z Průměrných (+1) na Dobré (+3). Za poslední bod si soustředí Kontakty, ze Slušných (+2) na Dobré (+3), aby tak pro sebe získal trochu lepší konexe. 
 
-|  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
-| :---: | :---: | :---: | :---: | 
-|  | **Kradení** | **Mluvení** | **Boj** |
-+5 | Skrývání |  |  | 			
-+4 | Atletika, Klamání |  |  | 			
-+3 | Všímání, Zlodějna | Kontakty | Zbraně | 			
-+2 |  | Empatie, Vůle, Vztahy |  | 			
-+1 |  |  | Kondice, Střelba, Zastrašování | 	
+> |  | Dobré (+3)	| Slušné (+2)	| Průměrný (+1) |
+> | :---: | :---: | :---: | :---: | 
+> |  | **Kradení** | **Mluvení** | **Boj** |
+> | +5 | Skrývání |  |  | 			
+> | +4 | Atletika, Klamání |  |  | 			
+> | +3 | Všímání, Zlodějna | Kontakty | Zbraně | 			
+> | +2 |  | Empatie, Vůle, Vztahy |  | 			
+> | +1 |  |  | Kondice, Střelba, Zastrašování | 	
 
   
   
@@ -185,13 +185,12 @@ Některé módy mohou nabízet přístup ke **specialitám** - ať už protože 
   
 > Ben na svůj seznam přidá čtyři módy: Umění a Božstva pro dva různé druhy magie a Trpaslíky a Elfy pro... trpaslíky a elfy. První dvě mají po dvou specialitách - dovednost a aspekt, které se obě vztahují k magii - a druhé dvě mají jen jednu - aspekt.
 
-
-| Umění	|	Božstva	|	Trpaslík	|	Elf	|
-| :---: | :---: | :---: | :---: | 
-| Magie	|	Přízeň	|	Kondice	|	Atletika	|
-| Učenost	|	Učenost	|	Učenost	|	Pozornost	|
-| Vůle	|	Vůle	|	Zastrašování	|	Střelba	|
-| _Dovednostní specialita_	|	_Dovednostní specialita_	|	Zbraně	|	Učenost	|
-| _Specialita aspektu_	|	_Specialita aspektu_	|	_Specialita aspektu_	|	_Specialita aspektu_	|
+> | Umění	|	Božstva	|	Trpaslík	|	Elf	|
+> | :---: | :---: | :---: | :---: | 
+> | Magie	|	Přízeň	|	Kondice	|	Atletika	|
+> | Učenost	|	Učenost	|	Učenost	|	Pozornost	|
+> | Vůle	|	Vůle	|	Zastrašování	|	Střelba	|
+> | _Dovednostní specialita_	|	_Dovednostní specialita_	|	Zbraně	|	Učenost	|
+> | _Specialita aspektu_	|	_Specialita aspektu_	|	_Specialita aspektu_	|	_Specialita aspektu_	|
 
 
