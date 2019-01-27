@@ -69,7 +69,7 @@ Takové scény mohou PH přinést dodatečné body osudu uprostřed sezení a ud
   
 
   
-## Úpravy herního prostředí: tvorba velkých změn
+## Úpravy herního prostředí: Tvorba velkých změn
   
 Protože jsou postavy ve *Fate* vždy protagonisty, hráči se někdy rozhodnou upravit samotné prostředí, vyčistit špinavé ulice kriminalitou zmítaného města nebo zabezpečit vojenská opevnění proti budoucím útokům.
   
@@ -127,7 +127,7 @@ Pokud máte rádi tabulky, nebo máte prostě jen dobrou paměť, můžete si ho
   
 ### 4d6
   
-Tohle je nejfunkčnější, ale možná, že to není nejintuitivnější: hoďte si čtyřmi šestistěnnými kostkami a čtěte 1 a 2 jako -, 3 a 4 jako 0 a 5 a 6 jako +
+Tohle je nejfunkčnější, ale možná, že to není nejintuitivnější: hoďte si čtyřmi šestistěnnými kostkami a čtěte 1 a 2 jako <span class="fate-font">-</span>, 3 a 4 jako <span class="fate-font">0</span> a 5 a 6 jako <span class="fate-font">+</span>.
 
   
 ## Velikost
@@ -202,7 +202,7 @@ Jediný způsob, jak čtverečky stresu přidat, je během milníku tím, že pr
   
 ### Prahy a stropy zranění
   
-V Základních pravidlech Fate jsou zbraně _nebezpečné_, pokud použijete pravidla z kapitoly Speciality. Poměrně nezkušený šermíř může s obouručákem a trochou štěstí rozetnout protivníka napůl, aniž by se moc snažil, což může být děsivé. Posouvá to hru do drsnější, smrtelnější roviny a pokud vám to nesedí, můžete chtít hodnocení zbraní a brnění, která hru stále ovlivní, ale nebudou tak brutální.
+V *Základních pravidlech Fate* jsou zbraně _nebezpečné_, pokud použijete pravidla z kapitoly Speciality. Poměrně nezkušený šermíř může s obouručákem a trochou štěstí rozetnout protivníka napůl, aniž by se moc snažil, což může být děsivé. Posouvá to hru do drsnější, smrtelnější roviny a pokud vám to nesedí, můžete chtít hodnocení zbraní a brnění, která hru stále ovlivní, ale nebudou tak brutální.
   
 Pokud použijete tato pravidla, hodnocení Zbraní začne na 1 a bude růst, přičemž může růst i o něco výše (řekněme na 5 nebo 6 pro nejsmrtelnější zbraně). Ale namísto toho, aby zbraň prostě přidala své hodnocení k posunům ze zásahu, říká, kolik je _minimum_ posunů, které při zásahu způsobíte. Například dlouhý meč s hodnocením Zbraň:3 způsobí 3 posuny, pokud remízujete nebo hodíte na útok 1, 2 nebo 3 posuny. I při letmém zásahu stále umožní způsobit alespoň 3 posuny. Pokud hodíte více, tak prostě způsobíte to, co hodíte, a hodnocení zbraně ignorujete.
   
@@ -257,7 +257,7 @@ Pokud navíc ke své hlavní akci provedete nějakou menší akci - pohyb mezi z
 
 ::: card Překladatelské ujasnění ohledně pojmenovaných posílení
   
-Fate původně (při svém vydání) pracoval s posíleními jako s  běžnými aspekty, jen s jedním vyvoláním (tj. pojmenovával je a daly se vynucovat). Šlo o přístup, který byl opuštěn velmi záhy po vydání (a ujasněn na autorských blozích, viz *[http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html]*(http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html)).
+Fate původně (při svém vydání) pracoval s posíleními jako s  běžnými aspekty, jen s jedním vyvoláním (tj. pojmenovával je a daly se vynucovat). Šlo o přístup, který byl opuštěn velmi záhy po vydání (a ujasněn na autorských blozích, viz [*http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html*](http://www.d20.cz/clanky/pravidla/fate-prepracovana-posileni-boosts.html)).
   
 Po zvážení věci jsem se rozhodl v zájmu jednoduchosti a snadné pochopitelnosti překlad provést tak, že jsem pojmenovaná posílení v souladu s autory ujasněným chápání pravidel vypustil (a jejich název jsem případně vepsal jako popisný text).
   
