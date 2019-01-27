@@ -1056,7 +1056,7 @@ Proč je vyvolávání pro PH tak „bezpečné“? Základní herní design. Ne
 :::
 
   
-##### Ohromné ritUály
+##### Ohromné rituály
   
 Doposud popsaná pravidla předpokládala, že z Nicoty vyvoláváte malé nebo středně velké bytosti. Jsou tam i velké bytosti a i ty mohou být vyvolány a spoutány. Používaná pravidla a obtížnosti se nemění, ale rituály mají obvykle mnohem výstřednější požadavky. Samota na vrcholu hory, kruhy zlatých řetězů, tisíce papírových jestřábů s křídly pokapanými menstruační krví vražedkyně a takové podobné věci. Jako u běžných vyvolávání, hod samotný není klíčovou částí procesu - používáte nakonec ta samá pravidla - důležité jsou všechny ty věci, které mu předcházejí.
   
