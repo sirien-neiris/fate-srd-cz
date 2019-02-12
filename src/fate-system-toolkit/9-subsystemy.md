@@ -1,6 +1,6 @@
 # Subsystémy
   
-# Kung fu
+## Kung fu
   
 Máme tu skutečné, reálné kung fu, ale to je docela dobře pokryté dovedností Boj. Tady mluvíme o cinematickém kung fu s vysokými skoky, akrobacií a melodramatickou stylizací Hong Kongských filmů s bojovými uměními.
 
