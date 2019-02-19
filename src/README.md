@@ -6,22 +6,35 @@ home: false
 
 Vítejte ve Fate SRD [Kostky](http://www.d20.cz). O co jde?
 
-* Kompletní překlad Základních pravidel Fate v HTML podobě
-* všechny nadpisy mají vlastní odkazovatelné URL (najeďte myší na nadpis, klikněte na "#" které se zobrazí nalevo)
-* **FAE** a **Systémové nástroje** přibydou v blízké době - postupně po kapitolách
+* **Kompletní překlad Fate v HTML podobě:**
+  * Základní pravidla (Fate Core) podle [PDF verze překladu 1.1.1](http://www.d20.cz/clanky/pravidla/preklad-fate-4e-core-system.html)
+  * Zrychlená pravidla (FAE) podle [PDF verze překladu 1.1.1](http://www.d20.cz/clanky/pravidla/preklad-fae-fate-accelerated-edition.html)
+  * Systémové nástroje Fate (System Toolkit) podle [PDF verze překladu 1.1.1](http://www.d20.cz/clanky/pravidla/preklad-fate-systemove-nastroje.html)
+* **Snadné vyhledávání a odkazování:**
+  * Místní vyhledávání prohledává napříč nadpisy (popř. můžete pravidla prohledat [Googlem](https://www.google.com/search?q=site:http://fatesrd.d20.cz))
+  * Všechny nadpisy mají vlastní odkazovatelné URL (najeďte na ně myší a klikněte na "#" které se zobrazí nalevo)
+* Bližší info viz články (a jim příslušné diskuse):
+  * [O SRD Kostky obecně](http://www.d20.cz/clanky/stripky/srd-pravidla-na-kostce.html)
+  * [O Fate SRD konkrétně](http://www.d20.cz/clanky/stripky/fate-srd-na-kostce.html)
 
-Použitá SRD technologie je obecná - doufáme a věříme, že v blízké době přibydou SRD i pro další přeložené systémy - od velkých (DnD 5e, Savage Worlds atp.) až po malé (Tiny d10, Shadows...) - *s čímž můžete pomoci i vy sami* - stačí přepsat daná pravidla do jednoduchého markdownu (to je ten zápis co z \*\*tučně\*\* udělá **tučně** atp.), zbytek už zařídíme my. Není ani nutné přepsat celý systém naráz - velké věci vznikají často krůček za krůčkem, kapitolu za kapitolou. Pokud chcete přispět, ozvěte se :)
+Pokud hledáte **pravidla DnD 5e**, najdete je v [sousední SRD knihovně](http://dnd5esrd.d20.cz/)
 
-Jakékoliv připomínky k podobě a fungování SRD (bugy, návrhy...) nám prosíme [napište do diskuse k SRD](http://www.d20.cz/diskuze/stripky-diskuze/52183.html), díky :)
+Pokud byste chtěli pomoci (s Fate SRD nebo i s tvorbou SRD pro jiné hry) a nejste si jistí jak, [zeptejte se v diskusi](http://www.d20.cz/diskuze/stripky-diskuze/52183.html)!
+
+* [Návod k editacím](http://fatesrd.d20.cz/faq/github.html)
+* [Návod k formátování](http://fatesrd.d20.cz/faq/formatovani.html)
 
 Do budoucna máme vysněné i další podobné funkcionality - pokud si sami nějakou přejete, [dejte nám vědět](http://www.d20.cz/diskuze/kultura-diskuze/50495.html).
 
+------------
 
+Fate přeložil a do SRD přenesl **sirien**. Pocestě mu s kdečím pomáhali mnozí další (zejm. **York** a **ShadoWWW**). Překlad Fate je zveřejněný pod licencí CC-BY-NC-SA. 
 
-Znění překladu Základních pravidel Fate je shodné s PDF verzí překladu 1.1.1
+Fate vytvořili jeho mnozí autorové (zejm. Fred Hicks a Leonard Balsera) pro Evil Hat Productions a jeho [originální znění](https://www.evilhat.com/home/fate-core-downloads/) je zveřejněné pod licencí CC-BY.
 
-Znění překladu Zrychlených pravidel Fate je shodné s PDF verzí překladu 1.1.1
+Toto SRD běží na technologii Vuepress a za jeho existenci vděčíme **Dukolmovi**.
 
+------------
 
 
 ![fate_logo](~./images/Powered-by-Fate-Final-Light-BG-300x117.png)
