@@ -460,13 +460,13 @@ Předtím, než Amanda začne svůj další tah, Lenny prohlásí: „Odstupuju.
 > Lenny prohlásí: „Bastard! Tohodle bude ještě krutě litovat.“
 
 
-## Vyřazení
+### Vyřazení
 
 Pokud vám už nezbývá žádný stres ani následky, abyste vyplatili posuny zásahu, znamená to, že jste **vyřazeni**.
 
 Být vyřazen je špatné – znamená to nejen, že už nemůžete dál bojovat, ale také, že ten, kdo vás dostal, rozhodne, jak vaše prohra vypadá a co se s vámi po konfliktu stane. Očividně nemůže odvyprávět cokoliv, co je mimo rozsah konfliktu (jako třeba nechat vás zemřít hanbou), ale stále to někomu dává nad vaší postavou spoustu moci a vy to nemáte jak ovlivnit. 
 
-### Smrt postavy
+#### Smrt postavy
 Takže, když se nad tím zamyslíte, v zásadě nic nebrání tomu, kdo vás vyřadil, říci, že vaše postava zemřela. Mluvíme-li o fyzickém konfliktu, kde lidé používají ošklivé ostré zbraně, smrt se rozhodně zdá být jedním z možných a smysluplných důsledků porážky. 
 
 V praxi nicméně může být toto rozhodnutí dost kontroverzní v závislosti na tom, v jaké skupině hrajete. Někteří lidé se domnívají, že pokud to pravidla dovolují, pak by smrt postavy měla být vždy otevřenou možností – pokud tak kostky padnou, budiž. 
